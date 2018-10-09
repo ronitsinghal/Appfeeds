@@ -10,17 +10,17 @@
         {
             "id": "1264648795",
             "tn": "pollution-weather",
-            "wu": "https://raw.githubusercontent.com/ronitsinghal/feeds/master/combined-weather-widget"
+            "wu": "https://raw.githubusercontent.com/ronitsinghal/Appfeeds/master/AppFeeds/CombinedWeatherWidget/CombinedPollutionWeatherAll.geojson"
         },
         {
             "id": "1264648795",
             "tn": "pollution-weather",
-            "wu": "https://www.jasonbase.com/things/4eXK/"
+            "wu": "https://raw.githubusercontent.com/ronitsinghal/Appfeeds/master/AppFeeds/CombinedWeatherWidget/CombinedPollutionOnly.geojson"
         },
         {
             "id": "1264648795",
             "tn": "pollution-weather",
-            "wu": "https://www.jasonbase.com/things/VWl1/"
+            "wu": "https://raw.githubusercontent.com/ronitsinghal/Appfeeds/master/AppFeeds/CombinedWeatherWidget/CombinedWeatherOnly.geojson"
         },
         {
             "au": "Rohit Arora",
