@@ -4,7 +4,7 @@
         "tn": "weatherwidget",
         "wu": "https://m.timesofindia.com/city/cityweather/city-Lucknow.cms",
         "bgcc": "#676664",
-        "txtcc": "#ffffff",
+        "txtcc":"#ffffff",
         "imageid": "65490624",
         "msg": "Partly cloudy and thunderstorm",
         "temp": "28"
