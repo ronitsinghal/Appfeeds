@@ -1,0 +1,17 @@
+{
+    "st": "true",
+    "hl": "Today's fuel price - Mumbai",
+    "imageid": "65431119",
+    "items": [
+        {
+            "name": "PETROL",
+            "unit": "INR/L",
+            "price": "87.73"
+        },
+        {
+            "name": "DIESEL",
+            "unit": "INR/L",
+            "price": "77.68"
+        }
+    ]
+}

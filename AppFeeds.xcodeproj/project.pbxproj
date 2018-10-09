@@ -31,6 +31,18 @@
 		62FD3BDB216D2B77002248F7 /* CombinedPollutionWeatherAll.geojson */ = {isa = PBXFileReference; lastKnownFileType = text; path = CombinedPollutionWeatherAll.geojson; sourceTree = "<group>"; };
 		62FD3BDC216D2C0A002248F7 /* CombinedWeatherOnly.geojson */ = {isa = PBXFileReference; lastKnownFileType = text; path = CombinedWeatherOnly.geojson; sourceTree = "<group>"; };
 		62FD3BDD216D2C52002248F7 /* CombinedPollutionOnly.geojson */ = {isa = PBXFileReference; lastKnownFileType = text; path = CombinedPollutionOnly.geojson; sourceTree = "<group>"; };
+		62FD3BDE216D312C002248F7 /* TOIPlus.geojson */ = {isa = PBXFileReference; lastKnownFileType = text; path = TOIPlus.geojson; sourceTree = "<group>"; };
+		62FD3BDF216D3175002248F7 /* IphoneFeedURLList.geojson */ = {isa = PBXFileReference; lastKnownFileType = text; path = IphoneFeedURLList.geojson; sourceTree = "<group>"; };
+		62FD3BE0216D31C3002248F7 /* NotificationSettings.geojson */ = {isa = PBXFileReference; lastKnownFileType = text; path = NotificationSettings.geojson; sourceTree = "<group>"; };
+		62FD3BE1216D3202002248F7 /* iPhoneMasterfeed.geojson */ = {isa = PBXFileReference; lastKnownFileType = text; path = iPhoneMasterfeed.geojson; sourceTree = "<group>"; };
+		62FD3BE3216D32C7002248F7 /* Scorecard.geojson */ = {isa = PBXFileReference; lastKnownFileType = text; path = Scorecard.geojson; sourceTree = "<group>"; };
+		62FD3BE4216D32F8002248F7 /* MixedWidget.geojson */ = {isa = PBXFileReference; lastKnownFileType = text; path = MixedWidget.geojson; sourceTree = "<group>"; };
+		62FD3BE5216D3334002248F7 /* SpecialTicker.geojson */ = {isa = PBXFileReference; lastKnownFileType = text; path = SpecialTicker.geojson; sourceTree = "<group>"; };
+		62FD3BE6216D3359002248F7 /* BudgetFeed.geojson */ = {isa = PBXFileReference; lastKnownFileType = text; path = BudgetFeed.geojson; sourceTree = "<group>"; };
+		62FD3BE7216D3385002248F7 /* FiveStateElection.geojson */ = {isa = PBXFileReference; lastKnownFileType = text; path = FiveStateElection.geojson; sourceTree = "<group>"; };
+		62FD3BE8216D33A9002248F7 /* SecondSplash.geojson */ = {isa = PBXFileReference; lastKnownFileType = text; path = SecondSplash.geojson; sourceTree = "<group>"; };
+		62FD3BE9216D3417002248F7 /* Weather.geojson */ = {isa = PBXFileReference; lastKnownFileType = text; path = Weather.geojson; sourceTree = "<group>"; };
+		62FD3BEA216D344B002248F7 /* FuelWidget.geojson */ = {isa = PBXFileReference; lastKnownFileType = text; path = FuelWidget.geojson; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -63,7 +75,8 @@
 		62FD3BBD216D24CF002248F7 /* AppFeeds */ = {
 			isa = PBXGroup;
 			children = (
-				62FD3BDA216D2B16002248F7 /* CombinedWeatherWidget */,
+				62FD3BE2216D32B1002248F7 /* Specials */,
+				62FD3BDA216D2B16002248F7 /* Widgets */,
 				62FD3BBE216D24CF002248F7 /* AppDelegate.swift */,
 				62FD3BC0216D24CF002248F7 /* DocumentBrowserViewController.swift */,
 				62FD3BC2216D24CF002248F7 /* DocumentViewController.swift */,
@@ -74,18 +87,37 @@
 				62FD3BCE216D24D0002248F7 /* Info.plist */,
 				62FD3BD8216D2976002248F7 /* IphoneRootFeed.geojson */,
 				62FD3BD9216D2A5A002248F7 /* IosMixed.geojson */,
+				62FD3BDE216D312C002248F7 /* TOIPlus.geojson */,
+				62FD3BDF216D3175002248F7 /* IphoneFeedURLList.geojson */,
+				62FD3BE0216D31C3002248F7 /* NotificationSettings.geojson */,
+				62FD3BE1216D3202002248F7 /* iPhoneMasterfeed.geojson */,
+				62FD3BE4216D32F8002248F7 /* MixedWidget.geojson */,
 			);
 			path = AppFeeds;
 			sourceTree = "<group>";
 		};
-		62FD3BDA216D2B16002248F7 /* CombinedWeatherWidget */ = {
+		62FD3BDA216D2B16002248F7 /* Widgets */ = {
 			isa = PBXGroup;
 			children = (
 				62FD3BDB216D2B77002248F7 /* CombinedPollutionWeatherAll.geojson */,
 				62FD3BDC216D2C0A002248F7 /* CombinedWeatherOnly.geojson */,
 				62FD3BDD216D2C52002248F7 /* CombinedPollutionOnly.geojson */,
+				62FD3BE9216D3417002248F7 /* Weather.geojson */,
+				62FD3BEA216D344B002248F7 /* FuelWidget.geojson */,
 			);
-			path = CombinedWeatherWidget;
+			path = Widgets;
+			sourceTree = "<group>";
+		};
+		62FD3BE2216D32B1002248F7 /* Specials */ = {
+			isa = PBXGroup;
+			children = (
+				62FD3BE3216D32C7002248F7 /* Scorecard.geojson */,
+				62FD3BE5216D3334002248F7 /* SpecialTicker.geojson */,
+				62FD3BE6216D3359002248F7 /* BudgetFeed.geojson */,
+				62FD3BE7216D3385002248F7 /* FiveStateElection.geojson */,
+				62FD3BE8216D33A9002248F7 /* SecondSplash.geojson */,
+			);
+			path = Specials;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */

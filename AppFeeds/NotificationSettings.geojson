@@ -1,0 +1,45 @@
+{
+    "hl": "CHOOSE TOPICS TO GET NOTIFIED ON",
+    "items": [
+        {
+            "hl": "Important only",
+            "bl": "News you need yo know",
+            "uatag": "Important",
+            "imageid": "1234456",
+            "isdefault": "yes"
+        },
+        {
+            "hl": "News & Politics",
+            "bl": "National & current affairs",
+            "uatag": "News",
+            "imageid": "1234256",
+            "isdefault": "yes"
+        },
+        {
+            "hl": "City Alerts",
+            "bl": "News you need yo know",
+            "UID": "CITY-01",
+            "imageid": "1234556",
+            "isdefault": "yes"
+        },
+        {
+            "hl": "Daily Brief",
+            "bl": "Twice a day, morning & evening",
+            "uatag": "Daily Brief",
+            "imageid": "1234356",
+            "isdefault": "yes"
+        },
+        {
+            "hl": "Entertainment & TV",
+            "bl": "Miss Kyra, Miss Diva, celebs gossips, etc",
+            "uatag": "Entertainment",
+            "imageid": "12347356"
+        },
+        {
+            "hl": "Life & Style",
+            "bl": "Fashion, food, dating, etc",
+            "uatag": "LifeNStyle",
+            "imageid": "12434356"
+        }
+    ]
+}

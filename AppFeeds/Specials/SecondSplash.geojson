@@ -1,0 +1,16 @@
+{
+    "status": {
+        "iphone": "true",
+        "android": "true"
+    },
+    "noofitems": "1",
+    "item": {
+        "imageURL": "http://timesofindia.indiatimes.com/thumb/59793791.cms",
+        "imageURLnew": "http://timesofindia.indiatimes.com/thumb/59793791.cms",
+        "title": "Vivo Pro Kabaddi",
+        "subtitle": "Vivo Pro Kabaddi",
+        "calltoactiontext": "Know More",
+        "actionbarname": "Vivo Pro Kabaddi",
+        "destinationURL": "https://p23eh.app.goo.gl/63fF"
+    }
+}

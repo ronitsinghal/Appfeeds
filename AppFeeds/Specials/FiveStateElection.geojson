@@ -1,0 +1,251 @@
+{
+    "st": "true",
+    "dpt": "5",
+    "nst": "20",
+    "header": [
+        {
+            "hl": "Rohit",
+            "syn": "ELECTIONS",
+            "cap": "LEADS + WIN",
+            "id": "57064058",
+            "tn": "livetv",
+            "channel_id": "times-now",
+            "wu": "http://timesofindia.indiatimes.com/nri/us-canada-news/telugu-community-in-us-asked-to-converse-in-english-in-public/articleshow/57391081.cms"
+        },
+        {
+            "hl": "LIVE UPDATES",
+            "id": "57064058",
+            "tn": "video",
+            "dm": "t"
+        },
+        {
+            "hl": "WATCH LIVE",
+            "tn": "livetv",
+            "channel_id": "times-now"
+        }
+    ],
+    "states": [
+        {
+            "key": "up",
+            "name": "UTTAR PRADESH",
+            "ts": "300",
+            "text": "L+W:",
+            "ls": "",
+            "ws": "30",
+            "cap": "RESULTS",
+            "id": "57064058",
+            "tn": "video",
+            "dm": "t",
+            "items": [
+                {
+                    "name": "AIADMK+",
+                    "lw": "500",
+                    "rank": "1",
+                    "cc": ""
+                },
+                {
+                    "name": "DMDK+",
+                    "lw": "2",
+                    "rank": "3",
+                    "cc": "#448899"
+                },
+                {
+                    "name": "DMK+",
+                    "lw": "1",
+                    "rank": "2"
+                },
+                {
+                    "name": "OTHERS",
+                    "lw": "1",
+                    "rank": "4",
+                    "cc": "#22aabb"
+                },
+                {
+                    "name": "",
+                    "lw": "150",
+                    "rank": "5",
+                    "cc": "#CCCCCC"
+                }
+            ]
+        },
+        {
+            "key": "wb",
+            "name": "WEST BENGAL",
+            "ts": "294",
+            "text": "L+W",
+            "ls": "0",
+            "cap": "RESULTS",
+            "ws": "29",
+            "id": "56352821",
+            "tn": "movie reviews",
+            "dm": "t",
+            "wu": "http://m.timesofindia.com/election-2016/assemblyelections2016results.cms",
+            "items": [
+                {
+                    "name": "LEFT+",
+                    "lw": "0",
+                    "rank": "2",
+                    "cc": "#880000"
+                },
+                {
+                    "name": "OTHERS",
+                    "lw": "0",
+                    "rank": "4",
+                    "cc": "#E6E6FA"
+                },
+                {
+                    "name": "TMC+",
+                    "lw": "211",
+                    "rank": "1",
+                    "cc": "#32cd32"
+                },
+                {
+                    "name": "BJP",
+                    "lw": "0",
+                    "rank": "3",
+                    "cc": "#fa8100"
+                },
+                {
+                    "name": "",
+                    "lw": "30",
+                    "rank": "5",
+                    "cc": "#a6E6FA"
+                }
+            ]
+        },
+        {
+            "key": "pn",
+            "name": "PUNJAB",
+            "ts": "140",
+            "text": "L+W",
+            "ls": "0",
+            "cap": "RESULTS",
+            "ws": "14",
+            "channel_id": "times-now",
+            "tn": "livetv",
+            "wu": "http://m.timesofindia.com/election-2016/assemblyelections2016results.cms",
+            "items": [
+                {
+                    "name": "LDF",
+                    "lw": "100",
+                    "rank": "2",
+                    "cc": "#880000"
+                },
+                {
+                    "name": "BJP+",
+                    "lw": "100",
+                    "rank": "1",
+                    "cc": "#fa8100"
+                },
+                {
+                    "name": "OTHERS",
+                    "lw": "100",
+                    "rank": "4",
+                    "cc": "#E6E6FA"
+                },
+                {
+                    "name": "UDF",
+                    "lw": "10000",
+                    "rank": "3",
+                    "cc": "#35a0d6"
+                },
+                {
+                    "name": "",
+                    "lw": "1500",
+                    "rank": "5",
+                    "cc": "#56E6FA"
+                }
+            ]
+        },
+        {
+            "key": "kl",
+            "name": "KERALA",
+            "ts": "140",
+            "text": "",
+            "ls": "0",
+            "cap": "RESULTS",
+            "ws": "14",
+            "id": "56352821",
+            "tn": "html",
+            "dm": "t",
+            "wu": "http://m.timesofindia.com/election-2016/assemblyelections2016results.cms",
+            "items": [
+                {
+                    "name": "LDF",
+                    "lw": "85",
+                    "rank": "2",
+                    "cc": "#880000"
+                },
+                {
+                    "name": "BJP+",
+                    "lw": "1",
+                    "rank": "3",
+                    "cc": "#fa8100"
+                },
+                {
+                    "name": "OTHERS",
+                    "lw": "7",
+                    "rank": "4",
+                    "cc": "#E6E6FA"
+                },
+                {
+                    "name": "UDF",
+                    "lw": "47",
+                    "rank": "1",
+                    "cc": "#35a0d6"
+                },
+                {
+                    "name": "",
+                    "lw": "0",
+                    "rank": "5",
+                    "cc": "#56E6FA"
+                }
+            ]
+        },
+        {
+            "key": "as",
+            "name": "ASSAM",
+            "ts": "126",
+            "text": "",
+            "ls": "0",
+            "cap": "RESULTS",
+            "ws": "12",
+            "id": "57391081",
+            "tn": "news",
+            "dm": "t",
+            "wu": "http://m.timesofindia.com/election-2016/assemblyelections2016results.cms",
+            "items": [
+                {
+                    "name": "BJP+",
+                    "lw": "86",
+                    "rank": "1",
+                    "cc": "#fa8100"
+                },
+                {
+                    "name": "OTHERS",
+                    "lw": "1",
+                    "rank": "4",
+                    "cc": "#E6E6FA"
+                },
+                {
+                    "name": "AIUDF+",
+                    "lw": "13",
+                    "rank": "3",
+                    "cc": "#127f32"
+                },
+                {
+                    "name": "INC",
+                    "lw": "26",
+                    "rank": "2",
+                    "cc": "#35a0d6"
+                },
+                {
+                    "name": "",
+                    "lw": "0",
+                    "rank": "5",
+                    "cc": "#56E6FA"
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,178 @@
+{
+    "dpt": "10",
+    "nst": "15",
+    "sclist": [
+        {
+            "teama": {
+                "imageid": "63802686",
+                "name": "CSK",
+                "score": "182",
+                "wicket": "3",
+                "over": "20.0"
+            },
+            "teamb": {
+                "imageid": "63802934",
+                "name": "SRH",
+                "score": "178",
+                "wicket": "6",
+                "over": "20.0"
+            },
+            "tn": "news",
+            "id": "63895986",
+            "dm": "t",
+            "result": "Deeplinked to article",
+            "place": "Hyderabad",
+            "matchtext": "Match 20",
+            "tournament": "Indian Premier League, 2018",
+            "matchid": "shck04222018186190",
+            "cc": "#004F58",
+            "iscompleted": "true"
+        },
+        {
+            "teama": {
+                "imageid": "63802829",
+                "name": "MI",
+                "score": "167",
+                "wicket": "7",
+                "over": "20.0"
+            },
+            "teamb": {
+                "imageid": "63802903",
+                "name": "RR",
+                "score": "168",
+                "wicket": "7",
+                "over": "19.4"
+            },
+            "tn": "html",
+            "wu": "http://m.timesofindia.com/sports/cricket/match-center/indian-premier-league-2018-mumbai-indians-vs-rajasthan-royals-live-cricket-score/scorecard/matchfile-rrmi04222018186191.cms",
+            "result": "RR beat MI by 3 wickets",
+            "place": "Jaipur",
+            "matchtext": "Match 21",
+            "tournament": "Indian Premier League, 2018",
+            "matchid": "rrmi04222018186191",
+            "cc": "#004F58",
+            "iscompleted": "true"
+        },
+        {
+            "teama": {
+                "imageid": "63802811",
+                "name": "KXIP",
+                "score": "143",
+                "wicket": "8",
+                "over": "20.0"
+            },
+            "teamb": {
+                "imageid": "63802712",
+                "name": "DD",
+                "score": "139",
+                "wicket": "8",
+                "over": "20.0"
+            },
+            "tn": "ls",
+            "id": "60731133",
+            "dm": "t",
+            "result": "Deeplinked to livestream",
+            "place": "Delhi",
+            "matchtext": "Match 22",
+            "tournament": "Indian Premier League, 2018",
+            "matchid": "ddkp04232018186192",
+            "cc": "#004F58",
+            "iscompleted": "true"
+        },
+        {
+            "teama": {
+                "name": "MI",
+                "imageid": "63802829"
+            },
+            "teamb": {
+                "name": "SRH",
+                "imageid": "63802934"
+            },
+            "result": "24 APR 2018 08:00 PM",
+            "place": "Wankhede Stadium, Mumbai",
+            "matchtext": "Match 23",
+            "tournament": "Indian Premier League, 2018",
+            "matchid": "mish04242018186193",
+            "cc": "#004F58",
+            "isupcomming": "true"
+        },
+        {
+            "teama": {
+                "name": "RCB",
+                "imageid": "63802894"
+            },
+            "teamb": {
+                "name": "CSK",
+                "imageid": "63802686"
+            },
+            "tn": "video",
+            "dm": "t",
+            "id": "63895950",
+            "result": "Deeplinked to video",
+            "place": "M.Chinnaswamy Stadium, Bengaluru",
+            "matchtext": "Match 24",
+            "tournament": "Indian Premier League, 2018",
+            "matchid": "bcck04252018186194",
+            "cc": "#004F58",
+            "isupcomming": "true"
+        },
+        {
+            "teama": {
+                "name": "SRH",
+                "imageid": "63802934"
+            },
+            "teamb": {
+                "name": "KXIP",
+                "imageid": "63802811"
+            },
+            "result": "26 APR 2018 08:00 PM",
+            "place": "Rajiv Gandhi International Stadium, Hyderabad",
+            "matchtext": "Match 25",
+            "tournament": "Indian Premier League, 2018",
+            "matchid": "shkp04262018186195",
+            "cc": "#004F58",
+            "isupcomming": "true"
+        },
+        {
+            "teama": {
+                "name": "ZIM",
+                "imageid": "63802981",
+                "innings": [
+                    {
+                        "name": "1",
+                        "score": "213",
+                        "wicket": "2",
+                        "over": "50.0"
+                    },
+                    {
+                        "name": "2",
+                        "score": "130",
+                        "wicket": "3",
+                        "isplaying": "true"
+                    }
+                ]
+            },
+            "teamb": {
+                "name": "WI",
+                "imageid": "63802974",
+                "innings": [
+                    {
+                        "name": "1",
+                        "score": "203",
+                        "wicket": "10",
+                        "over": "50.0"
+                    }
+                ]
+            },
+            "wu": "http://timesofindia.indiatimes.com/elections/delhi-mcd/arvind-kejriwal-calls-mlas-meet-as-aap-plunges-into-turmoil-after-delhi-civic-polls-loss/articleshow/58396044.cms",
+            "tn": "html",
+            "type": "Test",
+            "islive": "true",
+            "isdefault": "true",
+            "result": "Deeplinked to HTML",
+            "place": "FilmCity",
+            "matchtext": "Match 21",
+            "tournament": "TOI Premier League, 2017"
+        }
+    ]
+}

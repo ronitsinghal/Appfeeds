@@ -1,0 +1,89 @@
+[
+    {
+        "st": "true",
+        "dpt": "10",
+        "nst": "60",
+        "hl": "livetv Deeplink test 1",
+        "Story": "Popular Votes- Trump: 61,195,258 | Clinton: 62,521,739",
+        "channel_id": "times-now",
+        "tn": "livetv"
+    },
+    {
+        "st": "true",
+        "dpt": "10",
+        "nst": "60",
+        "hl": "Photo Deeplink",
+        "Story": "Popular Votes- Trump: 61,195,258 | Clinton: 62,521,739",
+        "dm": "p",
+        "tn": "photo",
+        "id": "54464248"
+    },
+    {
+        "st": "true",
+        "dpt": "10",
+        "nst": "60",
+        "hl": "Video Deeplink test ",
+        "Story": "Popular Votes- Trump: 61,195,258 | Clinton: 62,521,739",
+        "dm": "t",
+        "tn": "video",
+        "id": "56514246"
+    },
+    {
+        "st": "true",
+        "dpt": "10",
+        "nst": "60",
+        "hl": "Browser Deeplink test ",
+        "Story": "Popular Votes- Trump: 61,195,258 | Clinton: 62,521,739",
+        "tn": "browser",
+        "wu": "http://www.google.com"
+    },
+    {
+        "st": "true",
+        "dpt": "10",
+        "nst": "60",
+        "hl": "Store Deeplink test ",
+        "Story": "Popular Votes- Trump: 61,195,258 | Clinton: 62,521,739",
+        "tn": "store",
+        "wu": "itms-apps://itunes.apple.com/app/id427589329?ls=1&mt=8"
+    },
+    {
+        "st": "true",
+        "dpt": "10",
+        "nst": "60",
+        "hl": "Poll Deeplink test",
+        "Story": "Popular Votes- Trump: 61,195,258 | Clinton: 62,521,739",
+        "id": "56517173",
+        "dm": "t",
+        "tn": "poll"
+    },
+    {
+        "st": "true",
+        "dpt": "10",
+        "nst": "60",
+        "hl": "MR Deeplink",
+        "Story": "Popular Votes- Trump: 61,195,258 | Clinton: 62,521,739",
+        "id": "56477458",
+        "dm": "t",
+        "tn": "movie reviews"
+    },
+    {
+        "st": "true",
+        "dpt": "10",
+        "nst": "60",
+        "hl": "Photostory Deeplink test ",
+        "Story": "Popular Votes- Trump: 61,195,258 | Clinton: 62,521,739",
+        "tn": "photostory",
+        "dm": "t",
+        "id": "56515004"
+    },
+    {
+        "st": "true",
+        "dpt": "10",
+        "nst": "60",
+        "hl": "Daily Brief Deeplink test ",
+        "Story": "Popular Votes- Trump: 61,195,258 | Clinton: 62,521,739",
+        "id": "52931983",
+        "tn": "db",
+        "dm": "t"
+    }
+]

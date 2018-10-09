@@ -1,0 +1,131 @@
+{
+    "pg": {
+        "tr": "40",
+        "pp": "39",
+        "tp": "1",
+        "cp": "1"
+    },
+    "updl": "#$hashkey$#",
+    "ads": {
+        "header": "/7176/TOI_App_Test/TOI_App_Test_ATF1",
+        "footer": "/7176/TOI_App_Test/TOI_App_Test_BTF1",
+        "securl": "http://m.timesofindia.com/"
+    },
+    "items": [
+        {
+            "hl": "Without L2",
+            "id": "2048925",
+            "tn": "mixedwidget",
+            "mixedWidgetData": {
+                "defaulturl": "http://timesofindia.indiatimes.com/feeds/testnewslistingfeed/tag-vdo,msid-3812907.cms?feedtype=json&&",
+                "uid": "Entertainment-01",
+                "defaultItems": [
+                    {
+                        "upd": "1485839280000",
+                        "dl": "1485839100000",
+                        "hl": "Live: GDP to grow at 7.1% in 2016-17, Economic Survey says",
+                        "imageid": "56885872&pl=42631",
+                        "id": "56885872",
+                        "wu": "http://timesofindia.indiatimes.com/business/india-business/budget-2017/liveblog/56809124.cms",
+                        "dm": "t",
+                        "tn": "html",
+                        "type": "featured",
+                        "su": "http://toi.in/odqkvZ/"
+                    },
+                    {
+                        "id": "210814",
+                        "tn": "newslistdAd",
+                        "pos": "1-51396865-1"
+                    },
+                    {
+                        "upd": "1485849720000",
+                        "dl": "1485847260000",
+                        "hl": "New US bill proposes doubling H1-B workers' salary",
+                        "imageid": "56889058&pl=13638",
+                        "id": "56888616",
+                        "dm": "t",
+                        "tn": "news",
+                        "su": "http://toi.in/Jt4f8b/"
+                    },
+                    {
+                        "upd": "1485848940000",
+                        "dl": "1485847080000",
+                        "hl": "Surgical strikes a befitting reply to cross-border terror: President Mukherjee",
+                        "imageid": "56888589&pl=50030",
+                        "id": "56888655",
+                        "dm": "t",
+                        "tn": "news",
+                        "su": "http://toi.in/R7ZESZ/"
+                    }
+                ]
+            }
+        },
+        {
+            "hl": "With L2",
+            "id": "2048925",
+            "tn": "mixedwidget",
+            "mixedWidgetData": {
+                "defaulturl": "http://timesofindia.indiatimes.com/feeds/testnewslistingfeed/tag-vdo,msid-3812907.cms?feedtype=json&&",
+                "uid": "Sport-01",
+                "navType": "tabs",
+                "subSections": [
+                    {
+                        "defaulturl": "http://timesofindia.indiatimes.com/feeds/testnewslistingfeed/tag-vdo,msid-3812907.cms?feedtype=json&&",
+                        "uid": "Video-01",
+                        "hl": "Salaried"
+                    },
+                    {
+                        "defaulturl": "http://timesofindia.indiatimes.com/feeds/testnewslistingfeed/tag-vdo,msid-3812907.cms?feedtype=json&&",
+                        "uid": "City-01",
+                        "hl": "Housewife"
+                    },
+                    {
+                        "defaulturl": "http://timesofindia.indiatimes.com/feeds/testnewslistingfeed/tag-vdo,msid-3812907.cms?feedtype=json&&",
+                        "uid": "India-01",
+                        "hl": "Farmer",
+                        "subsection": "yes"
+                    }
+                ],
+                "defaultItems": [
+                    {
+                        "upd": "1485839280000",
+                        "dl": "1485839100000",
+                        "hl": "Live: GDP to grow at 7.1% in 2016-17, Economic Survey says",
+                        "imageid": "56885872&pl=42631",
+                        "id": "56885872",
+                        "wu": "http://timesofindia.indiatimes.com/business/india-business/budget-2017/liveblog/56809124.cms",
+                        "dm": "t",
+                        "tn": "html",
+                        "type": "featured",
+                        "su": "http://toi.in/odqkvZ/"
+                    },
+                    {
+                        "id": "210814",
+                        "tn": "newslistdAd",
+                        "pos": "1-51396865-1"
+                    },
+                    {
+                        "upd": "1485849720000",
+                        "dl": "1485847260000",
+                        "hl": "New US bill proposes doubling H1-B workers' salary",
+                        "imageid": "56889058&pl=13638",
+                        "id": "56888616",
+                        "dm": "t",
+                        "tn": "news",
+                        "su": "http://toi.in/Jt4f8b/"
+                    },
+                    {
+                        "upd": "1485848940000",
+                        "dl": "1485847080000",
+                        "hl": "Surgical strikes a befitting reply to cross-border terror: President Mukherjee",
+                        "imageid": "56888589&pl=50030",
+                        "id": "56888655",
+                        "dm": "t",
+                        "tn": "news",
+                        "su": "http://toi.in/R7ZESZ/"
+                    }
+                ]
+            }
+        }
+    ]
+}
