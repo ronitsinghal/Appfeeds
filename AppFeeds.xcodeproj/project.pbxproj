@@ -14,7 +14,6 @@
 		62FD3BC8216D24CF002248F7 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 62FD3BC6216D24CF002248F7 /* Main.storyboard */; };
 		62FD3BCA216D24D0002248F7 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 62FD3BC9216D24D0002248F7 /* Assets.xcassets */; };
 		62FD3BCD216D24D0002248F7 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 62FD3BCB216D24D0002248F7 /* LaunchScreen.storyboard */; };
-		62FD3BD7216D2837002248F7 /* TestC.c in Sources */ = {isa = PBXBuildFile; fileRef = 62FD3BD6216D2837002248F7 /* TestC.c */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -27,9 +26,11 @@
 		62FD3BC9216D24D0002248F7 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		62FD3BCC216D24D0002248F7 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		62FD3BCE216D24D0002248F7 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
-		62FD3BD5216D2837002248F7 /* TestC.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = TestC.h; sourceTree = "<group>"; };
-		62FD3BD6216D2837002248F7 /* TestC.c */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.c; path = TestC.c; sourceTree = "<group>"; };
-		62FD3BD8216D2976002248F7 /* test.geojson */ = {isa = PBXFileReference; lastKnownFileType = text; path = test.geojson; sourceTree = "<group>"; };
+		62FD3BD8216D2976002248F7 /* IphoneRootFeed.geojson */ = {isa = PBXFileReference; lastKnownFileType = text; path = IphoneRootFeed.geojson; sourceTree = "<group>"; };
+		62FD3BD9216D2A5A002248F7 /* IosMixed.geojson */ = {isa = PBXFileReference; lastKnownFileType = text; path = IosMixed.geojson; sourceTree = "<group>"; };
+		62FD3BDB216D2B77002248F7 /* CombinedPollutionWeatherAll.geojson */ = {isa = PBXFileReference; lastKnownFileType = text; path = CombinedPollutionWeatherAll.geojson; sourceTree = "<group>"; };
+		62FD3BDC216D2C0A002248F7 /* CombinedWeatherOnly.geojson */ = {isa = PBXFileReference; lastKnownFileType = text; path = CombinedWeatherOnly.geojson; sourceTree = "<group>"; };
+		62FD3BDD216D2C52002248F7 /* CombinedPollutionOnly.geojson */ = {isa = PBXFileReference; lastKnownFileType = text; path = CombinedPollutionOnly.geojson; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -62,6 +63,7 @@
 		62FD3BBD216D24CF002248F7 /* AppFeeds */ = {
 			isa = PBXGroup;
 			children = (
+				62FD3BDA216D2B16002248F7 /* CombinedWeatherWidget */,
 				62FD3BBE216D24CF002248F7 /* AppDelegate.swift */,
 				62FD3BC0216D24CF002248F7 /* DocumentBrowserViewController.swift */,
 				62FD3BC2216D24CF002248F7 /* DocumentViewController.swift */,
@@ -70,11 +72,20 @@
 				62FD3BC9216D24D0002248F7 /* Assets.xcassets */,
 				62FD3BCB216D24D0002248F7 /* LaunchScreen.storyboard */,
 				62FD3BCE216D24D0002248F7 /* Info.plist */,
-				62FD3BD5216D2837002248F7 /* TestC.h */,
-				62FD3BD6216D2837002248F7 /* TestC.c */,
-				62FD3BD8216D2976002248F7 /* test.geojson */,
+				62FD3BD8216D2976002248F7 /* IphoneRootFeed.geojson */,
+				62FD3BD9216D2A5A002248F7 /* IosMixed.geojson */,
 			);
 			path = AppFeeds;
+			sourceTree = "<group>";
+		};
+		62FD3BDA216D2B16002248F7 /* CombinedWeatherWidget */ = {
+			isa = PBXGroup;
+			children = (
+				62FD3BDB216D2B77002248F7 /* CombinedPollutionWeatherAll.geojson */,
+				62FD3BDC216D2C0A002248F7 /* CombinedWeatherOnly.geojson */,
+				62FD3BDD216D2C52002248F7 /* CombinedPollutionOnly.geojson */,
+			);
+			path = CombinedWeatherWidget;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -149,7 +160,6 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				62FD3BD7216D2837002248F7 /* TestC.c in Sources */,
 				62FD3BC5216D24CF002248F7 /* Document.swift in Sources */,
 				62FD3BC3216D24CF002248F7 /* DocumentViewController.swift in Sources */,
 				62FD3BC1216D24CF002248F7 /* DocumentBrowserViewController.swift in Sources */,

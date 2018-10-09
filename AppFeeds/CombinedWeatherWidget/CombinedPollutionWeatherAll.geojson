@@ -1,0 +1,20 @@
+[
+    {
+        "hl": "Vishakhapattnam",
+        "tn": "weatherwidget",
+        "wu": "https://m.timesofindia.com/city/cityweather/city-Lucknow.cms",
+        "cc": "#676664",
+        "imageid": "65490624",
+        "msg": "Partly cloudy and thunderstorm",
+        "temp": "28"
+    },
+    {
+        "hl": "Air Quality Index",
+        "tn": "pollutionwidget",
+        "wu": "https://m.timesofindia.com/city/cityweather/city-Lucknow.cms",
+        "cc": "#A2B8A2",
+        "imageid": "65490624",
+        "AQI": "147",
+        "msg": "Harmful"
+    }
+]
