@@ -3,7 +3,8 @@
         "hl": "Vishakhapattnam",
         "tn": "weatherwidget",
         "wu": "https://m.timesofindia.com/city/cityweather/city-Lucknow.cms",
-        "cc": "#676664",
+        "bgcc": "#676664",
+        "txtcc": "#ffffff",
         "imageid": "65490624",
         "msg": "Partly cloudy and thunderstorm",
         "temp": "28"
