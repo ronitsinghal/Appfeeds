@@ -29,6 +29,7 @@
 		62FD3BCE216D24D0002248F7 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		62FD3BD5216D2837002248F7 /* TestC.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = TestC.h; sourceTree = "<group>"; };
 		62FD3BD6216D2837002248F7 /* TestC.c */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.c; path = TestC.c; sourceTree = "<group>"; };
+		62FD3BD8216D2976002248F7 /* test.geojson */ = {isa = PBXFileReference; lastKnownFileType = text; path = test.geojson; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -71,6 +72,7 @@
 				62FD3BCE216D24D0002248F7 /* Info.plist */,
 				62FD3BD5216D2837002248F7 /* TestC.h */,
 				62FD3BD6216D2837002248F7 /* TestC.c */,
+				62FD3BD8216D2976002248F7 /* test.geojson */,
 			);
 			path = AppFeeds;
 			sourceTree = "<group>";
