@@ -17,6 +17,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		62F82CC5216E033E00DA435D /* CityMappingFeed.geojson */ = {isa = PBXFileReference; lastKnownFileType = text; path = CityMappingFeed.geojson; sourceTree = "<group>"; };
 		62FD3BBB216D24CF002248F7 /* AppFeeds.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = AppFeeds.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		62FD3BBE216D24CF002248F7 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		62FD3BC0216D24CF002248F7 /* DocumentBrowserViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DocumentBrowserViewController.swift; sourceTree = "<group>"; };
@@ -87,6 +88,7 @@
 				62FD3BCE216D24D0002248F7 /* Info.plist */,
 				62FD3BD8216D2976002248F7 /* IphoneRootFeed.geojson */,
 				62FD3BD9216D2A5A002248F7 /* IosMixed.geojson */,
+				62F82CC5216E033E00DA435D /* CityMappingFeed.geojson */,
 				62FD3BDE216D312C002248F7 /* TOIPlus.geojson */,
 				62FD3BDF216D3175002248F7 /* IphoneFeedURLList.geojson */,
 				62FD3BE0216D31C3002248F7 /* NotificationSettings.geojson */,

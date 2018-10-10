@@ -1,0 +1,30 @@
+{
+    "items": [
+        {
+            "key": "weather_cityid",
+            "value": "Bangalore"
+        },
+        {
+            "key": "fuel_cityid",
+            "value": "Bangalore"
+        },
+        {
+            "key": "top_cityid",
+            "value": "-2128833038"
+        }
+    ],
+    "local_Info": {
+        "name": "Agra",
+        "defaulturl": "https://timesofindia.indiatimes.com/feeds/newslistingfeedmc/feedtype-sjson,msid-36768514,tag-alrtdf,uid-City-01.cms?platform=iphone&ipver=485&adreqfrm=sec",
+        "tn": "mixed",
+        "uid": "Agra-01",
+        "secid": "36768514"
+    },
+    "section_widget_Info": [
+        {
+            "l1": "TV-01",
+            "l2": "TVNewsHindi-01",
+            "l3": "EntHindi-01"
+        }
+    ]
+}
