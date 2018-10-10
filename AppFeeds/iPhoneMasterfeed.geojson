@@ -151,7 +151,7 @@
         "CtnRecommended_adcode": "207066"
     },
     "URLs": {
-        "city_mapping_api": "https://timesofindia.indiatimes.com/feeds/widgetmapingfeed.cms?city=%@&feedtype=sjson",
+        "city_mapping_api": "https://raw.githubusercontent.com/ronitsinghal/Appfeeds/master/AppFeeds/CityMappingFeed.geojson",
         "instagramurl": "https://api.instagram.com/oembed/?url=https://www.instagram.com/p/%@",
         "actualurl": "https://timesofindia.indiatimes.com/feeds/getmirconurl.cms?feedtype=json&showexturl=1&upcache=2&url=%@",
         "ePaper_Publications": "https://timesofindia.indiatimes.com/publicationfeed.cms?feedtype=sjson",
