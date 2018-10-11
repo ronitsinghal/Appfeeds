@@ -10,6 +10,14 @@
             "secid": "51396865"
         },
         {
+            "name": "IOS MIXED",
+            "defaulturl": "https://raw.githubusercontent.com/ronitsinghal/Appfeeds/master/AppFeeds/IosMixed.geojson",
+            "tn": "mixed",
+            "uid": "IOSMixed",
+            "ct": "5",
+            "secid": ""
+        },
+        {
             "name": "Local",
             "defaulturl": "https://timesofindia.indiatimes.com/feeds/testnewslistingfeedmc/feedtype-sjson,msid--2128932452,tag-alrt,uid-City-01,category-City-01,t-f.cms?platform=iphone&ipver=510&adreqfrm=sec",
             "widgeturl": "https://timesofindia.indiatimes.com/feeds/testnewslistingfeedmc/feedtype-sjson,msid--2128932452,tag-alrt,uid-City-01,category-City-01,t-f.cms?platform=iphone&ipver=510&adreqfrm=widget",
@@ -67,14 +75,6 @@
             "uid": "Latest-01",
             "ct": "7",
             "secid": "1081479906"
-        },
-        {
-            "name": "IOS MIXED",
-            "defaulturl": "https://raw.githubusercontent.com/ronitsinghal/Appfeeds/master/AppFeeds/IosMixed.geojson",
-            "tn": "mixed",
-            "uid": "IOSMixed",
-            "ct": "5",
-            "secid": ""
         },
         {
             "name": "Mixed",
