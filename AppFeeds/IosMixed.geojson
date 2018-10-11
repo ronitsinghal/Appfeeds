@@ -10,17 +10,17 @@
         {
             "id": "1264648795",
             "tn": "pollution-weather",
-            "wu": "https://raw.githubusercontent.com/ronitsinghal/Appfeeds/master/AppFeeds/CombinedWeatherWidget/CombinedPollutionWeatherAll.geojson"
+            "wu": "https://raw.githubusercontent.com/ronitsinghal/Appfeeds/master/AppFeeds/Widgets/CombinedPollutionWeatherAll.geojson"
         },
         {
             "id": "1264648795",
             "tn": "pollution-weather",
-            "wu": "https://raw.githubusercontent.com/ronitsinghal/Appfeeds/master/AppFeeds/CombinedWeatherWidget/CombinedPollutionOnly.geojson"
+            "wu": "https://raw.githubusercontent.com/ronitsinghal/Appfeeds/master/AppFeeds/Widgets/CombinedPollutionOnly.geojson"
         },
         {
             "id": "1264648795",
             "tn": "pollution-weather",
-            "wu": "https://raw.githubusercontent.com/ronitsinghal/Appfeeds/master/AppFeeds/CombinedWeatherWidget/CombinedWeatherOnly.geojson"
+            "wu": "https://raw.githubusercontent.com/ronitsinghal/Appfeeds/master/AppFeeds/Widgets/CombinedWeatherOnly.geojson"
         },
         
         {
