@@ -2,7 +2,7 @@
     {
         "hl": "Air Quality Index",
         "tn": "pollutionwidget",
-        "bgcc" : "#BA7CE5",
+        "bgcc" : "#bae577",
         "txtcc" : "#758744",
         "imageid" : "66134094",
         "AQI":"50",
