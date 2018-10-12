@@ -2,8 +2,8 @@
     {
         "hl": "Air Quality Index",
         "tn": "pollutionwidget",
-        "bgcc" : "#bae577",
         "txtcc" : "#758744",
+        "bgcc" : "#bae577",
         "imageid" : "66134094",
         "AQI":"50",
         "msg": "Harmful"
