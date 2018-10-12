@@ -11,19 +11,7 @@
             "id": "1264648795",
             "tn": "pollution-weather",
             "wu": "https://raw.githubusercontent.com/ronitsinghal/Appfeeds/master/AppFeeds/Widgets/CombinedPollutionWeatherAll.geojson"
-        },
-        {
-            "id": "1264648795",
-            "tn": "pollution-weather",
-            "wu": "https://raw.githubusercontent.com/ronitsinghal/Appfeeds/master/AppFeeds/Widgets/CombinedPollutionOnly.geojson"
-        },
-        {
-            "id": "1264648795",
-            "tn": "pollution-weather",
-            "wu": "https://raw.githubusercontent.com/ronitsinghal/Appfeeds/master/AppFeeds/Widgets/CombinedWeatherOnly.geojson"
-        },
-        
-        {
+        }, {
             "au": "ISHITA MISHRA",
             "ag":"TNN",
             "upd": "1539240765000",
@@ -39,6 +27,10 @@
             "wu": "https://timesofindia.indiatimes.com/india/eight-years-on-nit-uttarakhand-on-borrowed-land-awaits-its-own-campus/articleshow/66159150.cms"
         },
         {
+            "id": "1264648795",
+            "tn": "pollution-weather",
+            "wu": "https://raw.githubusercontent.com/ronitsinghal/Appfeeds/master/AppFeeds/Widgets/CombinedPollutionOnly.geojson"
+        },{
             "upd": "1529482140000",
             "lpt": "1529911279482",
             "dl": "1529406180000",
@@ -48,6 +40,11 @@
             "dm": "t",
             "tn": "html",
             "wu": "https://timesofindia.indiatimes.com/5-myth-busters-that-will-motivate-you-to-breakthehabit-of-skipping-breakfast/articleshow/66152835.cms"
+        },
+        {
+            "id": "1264648795",
+            "tn": "pollution-weather",
+            "wu": "https://raw.githubusercontent.com/ronitsinghal/Appfeeds/master/AppFeeds/Widgets/CombinedWeatherOnly.geojson"
         },
         {
             "au": "Rohit Arora",
