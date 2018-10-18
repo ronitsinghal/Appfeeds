@@ -9,9 +9,25 @@
     "items": [
         {
             "id": "1264648795",
-            "tn": "pollution-weather",
+            "tn": "pollutionweatherwidget",
             "wu": "https://raw.githubusercontent.com/ronitsinghal/Appfeeds/master/AppFeeds/Widgets/CombinedPollutionWeatherAll.geojson"
         }, {
+            "au": "Sandeep Rai",
+            "ag":"TNN",
+            "upd": "1539240765000",
+            "lpt": "1539240765000",
+            "dl": "1539240765000",
+            "hl": "In riot-hit UP village, man on a mission to bring Muslims back",
+            "imageid": "66122079",
+            "id": "66122079",
+            "dm": "t",
+            "tn": "news",
+            "cs": "prime",
+            "type": "featured",
+            "label": "Exclusive"
+            "wu": "https://timesofindia.indiatimes.com/india/man-who-saved-muslims-during-13-riots-on-mission-to-bring-home-those-forced-to-flee/articleshow/66122079.cms"
+        },
+        {
             "au": "ISHITA MISHRA",
             "ag":"TNN",
             "upd": "1539240765000",
