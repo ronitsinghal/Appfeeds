@@ -7,10 +7,6 @@
 		"cp": "1"
 	},
 	"items": [{
-			"id": "1264648795",
-			"tn": "pollutionweatherwidget",
-			"wu": "https://raw.githubusercontent.com/ronitsinghal/Appfeeds/master/AppFeeds/Widgets/CombinedPollutionWeatherAll.geojson"
-		}, {
 			"au": "SANDEEP RAI",
 			"ag": "TNN",
 			"upd": "1539240765000",
