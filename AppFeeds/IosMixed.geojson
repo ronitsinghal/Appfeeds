@@ -7,20 +7,33 @@
 		"cp": "1"
 	},
 	"items": [{
-			"au": "SANDEEP RAI",
 			"ag": "TNN",
 			"upd": "1539240765000",
 			"lpt": "1539240765000",
 			"dl": "1539240765000",
-			"hl": "In riot-hit UP village, man on a mission to bring Muslims back",
-			"imageid": "66122079",
-			"id": "66122079",
+			"hl": "Migrant exodus rattles state, industry feels the heat",
+			"imageid": "66128875",
+			"id": "66128722",
 			"dm": "t",
 			"tn": "news",
 			"cs": "prime",
 			"type": "featured",
 			"label": "Exclusive",
-			"wu": "https://timesofindia.indiatimes.com/india/man-who-saved-muslims-during-13-riots-on-mission-to-bring-home-those-forced-to-flee/articleshow/66122079.cms?pc=yes"
+			"wu": "https://timesofindia.indiatimes.com/india/migrant-exodus-rattles-state-industry-feels-the-heat/articleshow/66128722.cms"
+		},{
+			"ag": "TNN",
+			"au": "SANDEEP RAI",
+			"upd": "1539240765000",
+			"lpt": "1539240765000",
+			"dl": "1539240765000",
+			"hl": "In riot-hit UP village, man on a mission to bring Muslims back",
+			"imageid": "66134268",
+			"id": "66122079",
+			"dm": "t",
+			"tn": "news",
+			"cs": "prime",
+			"label": "Exclusive",
+			"wu": "https://timesofindia.indiatimes.com/india/man-who-saved-muslims-during-13-riots-on-mission-to-bring-home-those-forced-to-flee/articleshow/66122079.cms"
 		},
 		{
 			"au": "MANASH PRATIM GOHAIN",
@@ -34,9 +47,8 @@
 			"dm": "t",
 			"tn": "news",
 			"cs": "prime",
-			"type": "featured",
 			"label": "Exclusive",
-			"wu": "https://timesofindia.indiatimes.com/india/too-many-kids-per-class-cbse-schools-may-face-action/articleshow/66152208.cms?pc=yes"
+			"wu": "https://timesofindia.indiatimes.com/india/too-many-kids-per-class-cbse-schools-may-face-action/articleshow/66152208.cms"
 		},
 		{
 			"au": "ISHITA MISHRA",
@@ -51,27 +63,7 @@
 			"tn": "news",
 			"cs": "prime",
 			"type": "featured",
-			"wu": "https://timesofindia.indiatimes.com/india/eight-years-on-nit-uttarakhand-on-borrowed-land-awaits-its-own-campus/articleshow/66159150.cms?pc=yes"
-		},
-		{
-			"id": "1264648795",
-			"tn": "pollution-weather",
-			"wu": "https://raw.githubusercontent.com/ronitsinghal/Appfeeds/master/AppFeeds/Widgets/CombinedPollutionOnly.geojson"
-		}, {
-			"upd": "1529482140000",
-			"lpt": "1529911279482",
-			"dl": "1529406180000",
-			"hl": "Advertorial - Paid article test with facebook",
-			"imageid": "66152835",
-			"id": "66152835",
-			"dm": "t",
-			"tn": "html",
-			"wu": "https://timesofindia.indiatimes.com/5-myth-busters-that-will-motivate-you-to-breakthehabit-of-skipping-breakfast/articleshow/66152835.cms"
-		},
-		{
-			"id": "1264648795",
-			"tn": "pollution-weather",
-			"wu": "https://raw.githubusercontent.com/ronitsinghal/Appfeeds/master/AppFeeds/Widgets/CombinedWeatherOnly.geojson"
+			"wu": "https://timesofindia.indiatimes.com/india/eight-years-on-nit-uttarakhand-on-borrowed-land-awaits-its-own-campus/articleshow/66159150.cms"
 		},
 		{
 			"au": "Rohit Arora",
@@ -89,109 +81,148 @@
 			"wu": "https://timesofindia.indiatimes.com/test-article-for-prime-sunny/articleshow/64648795.cms"
 		},
 		{
-			"au": "RAMARKO SENGUPTA",
+			"au": "ROHITH B R AND VIJAY PINJARKAR",
 			"upd": "1529482140000",
 			"lpt": "1529911279482",
 			"dl": "1529406180000",
-			"hl": "Edit Filed - RBI hikes repo rate: What happens to your EMIs now",
-			"imageid": "65243559",
-			"id": "65242918",
+			"hl": "From perfume to paraglider, authorities try every means to track elusive tigress T1",
+			"imageid": "66154240",
+			"id": "66152496",
 			"dm": "t",
 			"tn": "news",
 			"cs": "prime",
 			"type": "featured",
-			"wu": "https://timesofindia.indiatimes.com/india/rbi-hikes-repo-rate-what-happens-to-your-emis-now/articleshow/65242918.cms"
+			"wu": "https://timesofindia.indiatimes.com/india/how-this-workout-leaves-the-streets-cleaner/articleshow/66152496.cms"
 		},
 		{
-			"au": "RAMARKO SENGUPTA",
+			"au": "KALPESH DAMOR, NIYATI PARIKH AND KAPIL DAVE",
 			"upd": "1534150560000",
 			"lpt": "1535086197405",
 			"dl": "1529406180000",
-			"hl": "Edit Filed - After 25 years in politics, this MLA from Rajasthan goes back to school",
-			"imageid": "65383604&pl=4235250",
-			"id": "65383604",
+			"hl": "People's car at a dead end",
+			"imageid": "66120971",
+			"id": "66119194",
 			"dm": "t",
 			"tn": "news",
 			"cs": "prime",
-			"hasvideo": "yes",
-			"wu": "https://timesofindia.indiatimes.com/india/after-25-years-in-politics-this-mla-from-rajasthan-is-back-in-school/articleshow/65383604.cms"
+			"wu": "https://timesofindia.indiatimes.com/india/peoples-car-at-a-dead-end/articleshow/66119194.cms"
 		},
 		{
-			"au": "Nergish Sunavala",
+			"au": "AMIT BHATTACHARYA",
+			"ag": "TNN",
 			"upd": "1529482140000",
 			"lpt": "1529911279482",
 			"dl": "1529406180000",
-			"hl": "Edit Filed - They live in India, but depend on Bangladesh – for everything",
-			"imageid": "65214100",
-			"id": "65149019",
+			"hl": "Stubble-burning begins in Punjab and Haryana, but there's no need to press the panic button yet",
+			"imageid": "66163386",
+			"id": "66163139",
 			"dm": "t",
 			"tn": "news",
 			"cs": "prime",
 			"type": "featured",
-			"wu": "https://timesofindia.indiatimes.com/india/they-live-in-india-but-depend-on-bangladesh-for-everything/primeshow/65149019.cms"
+			"wu": "https://timesofindia.indiatimes.com/india/stubble-burning-begins-in-punjab-and-haryana-but-theres-no-need-to-press-the-panic-button-yet/articleshow/66163139.cms"
 		},
-		{
+		{	"au": "RAMESH THAKUR",
 			"upd": "1533211200000",
 			"lpt": "1533211208990",
 			"dl": "1533211200000",
-			"hl": "Edit Filed - SC: Punishing only men for adultery hits right to equality",
-			"imageid": "65214100",
-			"id": "65149019",
+			"hl": "How a religious tourism-led development strategy can trigger a Bihari renaissance",
+			"imageid": "66164497",
+			"id": "66163688",
 			"dm": "t",
 			"tn": "news",
 			"cs": "prime",
-			"wu": "https://timesofindia.indiatimes.com/india/sc-punishing-only-men-for-adultery-hits-right-to-equality/articleshow/65244944.cms"
+			"wu": "https://timesofindia.indiatimes.com/india/how-a-religious-tourism-led-development-strategy-can-trigger-a-bihari-renaissance/articleshow/66163688.cms"
 		},
 		{
-			"au": "AMIT BHATTACHARYA",
+			"au": "ASHUTOSH SHUKLA",
+			"ag": "TNN",
 			"upd": "1533199080000",
 			"lpt": "1533202689876",
 			"dl": "1533198360000",
-			"hl": "Edit Filed - Monsoon rally reduces deficit to 2%, but poor rains in UP, Bihar hit farmers",
-			"imageid": "65241742&pl=259818",
-			"id": "65240726",
+			"hl": "General category voters will decide which Dalit becomes MLA",
+			"imageid": "66184120",
+			"id": "66173404",
 			"dm": "t",
 			"tn": "news",
 			"cs": "prime",
-			"wu": "https://timesofindia.indiatimes.com/india/monsoon-rally-reduces-deficit-to-2-but-poor-rains-in-up-bihar-hit-agri-sowing/articleshow/65240726.cms"
+			"wu": "https://timesofindia.indiatimes.com/india/in-sc-seats-general-obc-voters-hold-the-key-as-caste-lines-deepen/articleshow/66173404.cms"
 		},
 		{
-			"au": "Manimugdha S Sharma",
+			"au": "MS NAWAZ",
 			"upd": "1535973840000",
 			"lpt": "1535973857643",
 			"dl": "1535712480000",
-			"hl": "Edit Filed - Rare Delhi sketches of 1847 show what the capital has lost",
-			"imageid": "65623556&pl=1418104",
-			"id": "65623325",
+			"hl": "He sacrificed his life to save river Ganga",
+			"imageid": "66173124",
+			"id": "66173051",
 			"dm": "t",
 			"tn": "news",
 			"cs": "prime",
-			"hasvideo": "yes",
-			"wu": "https://timesofindia.indiatimes.com/india/what-delhi-lost-in-170-years-since-1847/articleshow/65623325.cms"
+			"wu": "https://timesofindia.indiatimes.com/india/he-sacrificed-his-life-to-save-river-ganga/articleshow/66173051.cms"
 		},
-		{
+		{			
+			"ag": "Timeofindia.com",
 			"upd": "1535973600000",
 			"lpt": "1535973651353",
 			"dl": "1535452980000",
-			"hl": "Edit Filed - Demand for quota sees resurgence; those asking for it aren’t necessarily underprivileged or marginalised",
-			"imageid": "65623556&pl=1418104",
-			"id": "65578010",
+			"hl": "Is Prithvi Shaw set to take over the mantle from the master blaster?",
+			"imageid": "66318009",
+			"id": "66211876",
 			"dm": "t",
 			"tn": "news",
 			"cs": "prime",
-			"wu": "https://timesofindia.indiatimes.com/india/demand-for-quota-sees-resurgence-those-asking-for-it-arent-necessarily-underprivileged-or-marginalised/articleshow/65578010.cms"
+			"wu": "https://timesofindia.indiatimes.com/india/prithvi-shaw-the-next-sachin/articleshow/66211876.cms"
 		},
 		{
+			"au": "HIMANSHU KAUSHIK",
+			"ag": "TNN",
 			"upd": "1536040800000",
 			"lpt": "1536040835073",
 			"dl": "1535784900000",
-			"hl": "Edit Filed - India on a renaming spree",
-			"imageid": "65666846&pl=1185296",
-			"id": "65632971",
+			"hl": "Meet the warriors who helped save the Asiatic lions of Gir",
+			"imageid": "66232426",
+			"id": "66232402",
 			"dm": "t",
 			"tn": "news",
 			"cs": "prime",
-			"wu": "https://timesofindia.indiatimes.com/india/india-on-a-renaming-spree/articleshow/65632971.cms"
+			"wu": "https://timesofindia.indiatimes.com/india/meet-the-warriors-who-helped-save-the-asiatic-lions-of-gir/articleshow/66232402.cms"
+		},{
+			"au": "ARVIND PANAGARIYA",
+			"upd": "1536040800000",
+			"lpt": "1536040835073",
+			"dl": "1535784900000",
+			"hl": "Edit: Let The Rupee Depreciate",
+			"imageid": "66260511",
+			"id": "66260317",
+			"dm": "t",
+			"tn": "news",
+			"cs": "prime",
+			"wu": "https://timesofindia.indiatimes.com/india/let-the-rupee-depreciate/articleshow/66260317.cms"
+		},{
+			"ag": "TIMESOFINDIA.COM",
+			"upd": "1536040800000",
+			"lpt": "1536040835073",
+			"dl": "1535784900000",
+			"hl": "Haryana burning a lot more stubble than Punjab",
+			"imageid": "66263113",
+			"id": "66261829",
+			"dm": "t",
+			"tn": "news",
+			"cs": "prime",
+			"wu": "https://timesofindia.indiatimes.com/india/haryana-burning-a-lot-more-stubble-than-punjab/articleshow/66261829.cms"
+		},{
+			"au": "MANISH SIRHINDI",
+			"upd": "1536040800000",
+			"lpt": "1536040835073",
+			"dl": "1535784900000",
+			"hl": "Stubble burning: IIT Ropar steps in to provide low cost solution",
+			"imageid": "66318171",
+			"id": "66261829",
+			"dm": "t",
+			"tn": "news",
+			"cs": "prime",
+			"wu": "https://timesofindia.indiatimes.com/india/haryana-burning-a-lot-more-stubble-than-punjab/articleshow/66261829.cms"
 		},
 		{
 			"upd": "1511681700000",
