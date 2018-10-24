@@ -471,32 +471,32 @@
 			"hl": "Important only",
 			"bl": "News you need yo know",
 			"uatag": "Important",
-			"imageid": "1234456",
-			"nimageid": "123456",
+			"imageid": "66347944",
+			"nimageid": "66347908",
 			"isdefault": "yes"
 		},
 		{
 			"hl": "News & Politics",
 			"bl": "National & current affairs",
 			"uatag": "News",
-			"imageid": "1234256",
-			"nimageid": "123456",
+			"imageid": "66348038",
+			"nimageid": "66348027",
 			"isdefault": "yes"
 		},
 		{
 			"hl": "City Alerts",
 			"bl": "News you need yo know",
 			"uid": "City-01",
-			"imageid": "1234556",
-			"nimageid": "123456",
+			"imageid": "66347753",
+			"nimageid": "66347771",
 			"isdefault": "yes"
 		},
 		{
 			"hl": "Daily Brief",
 			"bl": "Twice a day, morning & evening",
 			"uatag": "Daily Brief",
-			"imageid": "1234356",
-			"nimageid": "123456",
+			"imageid": "66347821",
+			"nimageid": "66347802",
 			"isdefault": "yes"
 		},
 		{
@@ -504,8 +504,8 @@
 			"bl": "Indices, interest rate, etc",
 			"uatag": "Business",
 			"uid": "Business-01",
-			"imageid": "1234356",
-			"nimageid": "123456",
+			"imageid": "66348006",
+			"nimageid": "66348014",
 			"isdefault": "yes"
 		},
 		{
@@ -513,17 +513,17 @@
 			"bl": "Sports coverage, live scores, etc",
 			"uatag": "Sports",
 			"uid": "Sports-01",
-			"imageid": "1234356",
-			"nimageid": "123456",
+			"imageid": "66348050",
+			"nimageid": "66348057",
 			"isdefault": "yes"
 		},
 		{
 			"hl": "Tech & Gadgets",
 			"bl": "Launches & reviews",
 			"uatag": "Tech",
-			"imageid": "1234356",
 			"uid": "Gadgetsnow-01",
-			"nimageid": "123456",
+			"imageid": "66348073",
+			"nimageid": "66348065",
 			"isdefault": "yes"
 		},
 		{
@@ -531,16 +531,16 @@
 			"bl": "Miss Kyra, Miss Diva, celebs gossips, etc",
 			"uatag": "Entertainment",
 			"uid": "Entertainment-01",
-			"imageid": "12347356",
-			"nimageid": "123456"
+			"imageid": "66347895",
+			"nimageid": "66347868"
 		},
 		{
 			"hl": "Life & Style",
 			"bl": "Fashion, food, dating, etc",
 			"uatag": "LifeNStyle",
 			"uid": "LifeStyle-01",
-			"imageid": "12434356",
-			"nimageid": "123456"
+			"imageid": "66347997",
+			"nimageid": "66347981"
 		}
 	]
 }
