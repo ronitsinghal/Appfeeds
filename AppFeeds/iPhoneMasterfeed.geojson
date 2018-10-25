@@ -480,7 +480,7 @@
 			"bl": "National & current affairs",
 			"uatag": "News",
 			"imageid": "66366370",
-			"nimageid": "66366392",
+			"nimageid": "66367534",
 			"isdefault": "yes"
 		},
 		{
@@ -488,7 +488,7 @@
 			"bl": "News you need yo know",
 			"uid": "City-01",
 			"imageid": "66366549",
-			"nimageid": "66366564",
+			"nimageid": "66367519",
 			"isdefault": "yes"
 		},
 		{
@@ -496,7 +496,7 @@
 			"bl": "Twice a day, morning & evening",
 			"uatag": "Daily Brief",
 			"imageid": "66366531",
-			"nimageid": "66366542",
+			"nimageid": "66367591",
 			"isdefault": "yes"
 		},
 		{
@@ -505,7 +505,7 @@
 			"uatag": "Business",
 			"uid": "Business-01",
 			"imageid": "66366416",
-			"nimageid": "66366404",
+			"nimageid": "66367620",
 			"isdefault": "yes"
 		},
 		{
@@ -514,7 +514,7 @@
 			"uatag": "Sports",
 			"uid": "Sports-01",
 			"imageid": "66366353",
-			"nimageid": "66366343",
+			"nimageid": "66367635",
 			"isdefault": "yes"
 		},
 		{
@@ -532,7 +532,7 @@
 			"uatag": "Entertainment",
 			"uid": "Entertainment-01",
 			"imageid": "66366478",
-			"nimageid": "66366524"
+			"nimageid": "66367653"
 		},
 		{
 			"hl": "Life & Style",
@@ -540,7 +540,7 @@
 			"uatag": "LifeNStyle",
 			"uid": "LifeStyle-01",
 			"imageid": "66366426",
-			"nimageid": "66347981"
+			"nimageid": "66367668"
 		}
 	]
 }
