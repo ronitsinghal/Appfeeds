@@ -471,32 +471,32 @@
 			"hl": "Important only",
 			"bl": "News you need yo know",
 			"uatag": "Important",
-			"imageid": "66347944",
-			"nimageid": "66347908",
+			"imageid": "66366474",
+			"nimageid": "66366458",
 			"isdefault": "yes"
 		},
 		{
 			"hl": "News & Politics",
 			"bl": "National & current affairs",
 			"uatag": "News",
-			"imageid": "66348038",
-			"nimageid": "66348027",
+			"imageid": "66366370",
+			"nimageid": "66366392",
 			"isdefault": "yes"
 		},
 		{
 			"hl": "City Alerts",
 			"bl": "News you need yo know",
 			"uid": "City-01",
-			"imageid": "66347753",
-			"nimageid": "66347771",
+			"imageid": "66366549",
+			"nimageid": "66366564",
 			"isdefault": "yes"
 		},
 		{
 			"hl": "Daily Brief",
 			"bl": "Twice a day, morning & evening",
 			"uatag": "Daily Brief",
-			"imageid": "66347821",
-			"nimageid": "66347802",
+			"imageid": "66366531",
+			"nimageid": "66366542",
 			"isdefault": "yes"
 		},
 		{
@@ -504,8 +504,8 @@
 			"bl": "Indices, interest rate, etc",
 			"uatag": "Business",
 			"uid": "Business-01",
-			"imageid": "66348006",
-			"nimageid": "66348014",
+			"imageid": "66366416",
+			"nimageid": "66366404",
 			"isdefault": "yes"
 		},
 		{
@@ -513,8 +513,8 @@
 			"bl": "Sports coverage, live scores, etc",
 			"uatag": "Sports",
 			"uid": "Sports-01",
-			"imageid": "66348050",
-			"nimageid": "66348057",
+			"imageid": "66366353",
+			"nimageid": "66366343",
 			"isdefault": "yes"
 		},
 		{
@@ -523,7 +523,7 @@
 			"uatag": "Tech",
 			"uid": "Gadgetsnow-01",
 			"imageid": "66365984",
-			"nimageid": "66348065",
+			"nimageid": "66366339",
 			"isdefault": "yes"
 		},
 		{
@@ -531,15 +531,15 @@
 			"bl": "Miss Kyra, Miss Diva, celebs gossips, etc",
 			"uatag": "Entertainment",
 			"uid": "Entertainment-01",
-			"imageid": "66347895",
-			"nimageid": "66347868"
+			"imageid": "66366478",
+			"nimageid": "66366524"
 		},
 		{
 			"hl": "Life & Style",
 			"bl": "Fashion, food, dating, etc",
 			"uatag": "LifeNStyle",
 			"uid": "LifeStyle-01",
-			"imageid": "66347997",
+			"imageid": "66366426",
 			"nimageid": "66347981"
 		}
 	]
