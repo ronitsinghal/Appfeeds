@@ -777,7 +777,7 @@
 		},
 		{
 			"name": "ARCHIVES",
-			"tn": "pr-linearslider",
+			"tn": "linearslider",
 			"cs": "prime",
 			"type": "archives",
 			"pitems": [{
