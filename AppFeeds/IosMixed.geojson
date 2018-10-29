@@ -7,6 +7,31 @@
 		"cp": "1"
 	},
 	"items": [{
+			"upd": "1540812600000",
+			"lpt": "1540812652965",
+			"dl": "1540809000000",
+			"hl": "Type banner News: Indonesia search and rescue says all 189 aboard crashed jet 'likely' dead",
+			"imageid": "66415017&imgsize=149452",
+			"hasvideo": "yes",
+			"id": "66414658",
+			"dm": "t",
+			"tn": "news",
+			"type": "banner",
+			"wu": "https://timesofindia.indiatimes.com/world/rest-of-world/indonesia-search-and-rescue-says-likely-all-189-aboard-crashed-jet-dead/articleshow/66414658.cms",
+			"kws": "lion air plane crash,Lion Air,Indonesia plane crash,Indonesia plane accident,Indonesia Lion Air plane"
+		},
+		{
+			"upd": "1540779180000",
+			"lpt": "1540779198843",
+			"dl": "1540779180000",
+			"hl": "Type Banner: OnePlus 6T global launch today: Why it may finally be OnePlus vs Apple",
+			"imageid": "66408346&imgsize=102798",
+			"id": "66408316",
+			"type": "banner",
+			"dm": "gn",
+			"tn": "html",
+			"wu": "https://www.gadgetsnow.com/mobiles/oneplus-6t-global-launch-why-it-may-finally-be-oneplus-vs-apple/articleshow/66408316.cms"
+		}, {
 			"ag": "TNN",
 			"upd": "1539240765000",
 			"lpt": "1539240765000",
@@ -20,7 +45,7 @@
 			"type": "featured",
 			"label": "Exclusive",
 			"wu": "https://timesofindia.indiatimes.com/india/migrant-exodus-rattles-state-industry-feels-the-heat/articleshow/66128722.cms"
-		},{
+		}, {
 			"ag": "TNN",
 			"au": "SANDEEP RAI",
 			"upd": "1539240765000",
@@ -122,7 +147,8 @@
 			"type": "featured",
 			"wu": "https://timesofindia.indiatimes.com/india/stubble-burning-begins-in-punjab-and-haryana-but-theres-no-need-to-press-the-panic-button-yet/articleshow/66163139.cms"
 		},
-		{	"au": "RAMESH THAKUR",
+		{
+			"au": "RAMESH THAKUR",
 			"upd": "1533211200000",
 			"lpt": "1533211208990",
 			"dl": "1533211200000",
@@ -161,7 +187,7 @@
 			"cs": "prime",
 			"wu": "https://timesofindia.indiatimes.com/india/he-sacrificed-his-life-to-save-river-ganga/articleshow/66173051.cms"
 		},
-		{			
+		{
 			"ag": "Timeofindia.com",
 			"upd": "1535973600000",
 			"lpt": "1535973651353",
@@ -187,7 +213,7 @@
 			"tn": "news",
 			"cs": "prime",
 			"wu": "https://timesofindia.indiatimes.com/india/meet-the-warriors-who-helped-save-the-asiatic-lions-of-gir/articleshow/66232402.cms"
-		},{
+		}, {
 			"au": "ARVIND PANAGARIYA",
 			"upd": "1536040800000",
 			"lpt": "1536040835073",
@@ -199,7 +225,7 @@
 			"tn": "news",
 			"cs": "prime",
 			"wu": "https://timesofindia.indiatimes.com/india/let-the-rupee-depreciate/articleshow/66260317.cms"
-		},{
+		}, {
 			"ag": "TIMESOFINDIA.COM",
 			"upd": "1536040800000",
 			"lpt": "1536040835073",
@@ -211,7 +237,7 @@
 			"tn": "news",
 			"cs": "prime",
 			"wu": "https://timesofindia.indiatimes.com/india/haryana-burning-a-lot-more-stubble-than-punjab/articleshow/66261829.cms"
-		},{
+		}, {
 			"au": "MANISH SIRHINDI",
 			"upd": "1536040800000",
 			"lpt": "1536040835073",
