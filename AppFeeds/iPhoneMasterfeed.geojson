@@ -3,14 +3,14 @@
 		"isCTNEnabled": 1,
 		"isDFPEnabled": 1,
 		"isNotificationCenterEnabled": 1,
-		"isSpecialTickerEnabled": 1,
+		"isSpecialTickerEnabled": 0,
 		"isAdFreeEnabled": 0,
 		"isSecondSplashEnabled": 0,
 		"isTVGuideEnabled": 1,
 		"isNotificaitonEnabled": 1,
 		"isHomeTopWidgetEnabled": 0,
 		"isRatePlugEnabled": 1,
-		"isElectionHomeWidgetEnabled": 1
+		"isElectionHomeWidgetEnabled": 0
 	},
 	"domains": [{
 			"k": "t",
@@ -146,9 +146,7 @@
 		"CtnRecommended_adcode": "207066"
 	},
 	"URLs": {
-		"city_mapping_api": "https://raw.githubusercontent.com/ronitsinghal/Appfeeds/master/AppFeeds/CityMappingFeed.geojson",
-		"instagramurl": "https://api.instagram.com/oembed/?url=https://www.instagram.com/p/%@",
-		"actualurl": "https://timesofindia.indiatimes.com/feeds/getmirconurl.cms?feedtype=json&showexturl=1&upcache=2&url=%@",
+		"city_mapping_api": "https://timesofindia.indiatimes.com/feeds/widgetmapingfeed.cms?city=%@&feedtype=sjson",
 		"ePaper_Publications": "https://timesofindia.indiatimes.com/publicationfeed.cms?feedtype=sjson",
 		"share_app_url": "https://timesofindia.onelink.me/efRt/whatsappviaapp",
 		"geoUrl": "https://newspointfeeds.indiatimes.com/service/locate",
@@ -156,10 +154,10 @@
 		"movieRatingJsonUrl": "/feeds/testshowmovieratingfeed.cms?donotshowurl=1&msid=%@&getuserrating=1",
 		"dailyBriefJsonFormat": "/feeds/testshowfeed.cms?feedtype=sjson&tag=db&msid=%@&ipver=510",
 		"deepShowJsonFormat": "/feeds/testshowfeed.cms?feedtype=sjson&version=v4&tag=deep&msid=%@&ipver=425",
-		"newsDetailUrl": "https://navbharattimes.indiatimes.com/bookmark.cms?version=v5&ipver=425&tag=dngrp&%@",
+		"newsDetailUrl": "https://timesofindia.indiatimes.com/feeds/testbookmarkinfo/feedtype-sjson.cms?tag=dngrp&version=v9&%@&ipver=425",
 		"photoStoryJsonFormat": "/feeds/testshowfeed.cms?tag=pssl&perpage=20&feedtype=sjson&msid=%@&ipver=425",
 		"slideShowLinkFeed": "/feeds/testshowfeed.cms?tag=ssl&perpage=20&feedtype=sjson&msid=%@&ipver=425",
-		"dynamicFeedUrl": "https://raw.githubusercontent.com/ronitsinghal/Appfeeds/master/AppFeeds/IphoneFeedURLList.geojson",
+		"dynamicFeedUrl": "https://timesofindia.indiatimes.com/feeds/testfeedurllist4.cms?ts=&platform=iphone&feedtype=sjson&ipver=506",
 		"lsJsonFormat": "/feeds/testshowfeed.cms?feedtype=sjson&version=v4&tag=ls&msid=%@&ipver=425",
 		"answersJsonFormat": "/feeds/testshowfeed.cms?feedtype=sjson&version=v4&tag=answers&msid=%@&ipver=425",
 		"submitReadVoteJsonFeed": "/feeds/vote_json.cms?txtPolliD=%@&PRadio=%@",
