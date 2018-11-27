@@ -7,7 +7,7 @@
 		"cp": "1"
 	},
 	"items": [{
-		
+
 			"upd": "1541487840000",
 			"lpt": "1541487876304",
 			"dl": "1541487840000",
@@ -105,6 +105,74 @@
 			"name": "Mixed Slider",
 			"secid": "2048925",
 			"tn": "mixedslider",
+			"uid": "news-01",
+			"pitems": [{
+					"upd": "1462520700000",
+					"dl": "1462520160000",
+					"hl": "UGC to institutes: Refund fees and return certificates",
+					"imageid": "52142821&pl=10602",
+					"id": "52142819",
+					"dm": "t",
+					"tn": "news",
+					"su": "http://toi.in/uzP5nY/"
+				},
+				{
+					"id": "56660210",
+					"hl": "Meritocratic America could have Hindu President in future: Obama",
+					"du": "00:36",
+					"imageid": "56660210&pl=28044",
+					"dm": "t",
+					"tn": "video",
+					"upd": "1484804220000",
+					"su": "http://toi.in/A5zlSZ/"
+				}, {
+					"id": "56517173",
+					"hl": "Live TV: India Wants to Know",
+					"imageid": "49162416",
+					"dm": "t",
+					"tn": "livetv",
+					"channel_id": "times-now"
+				},
+				{
+					"upd": "1484199060000",
+					"id": "56493580",
+					"hl": "Lisa Hadon is pregnant",
+					"imageid": "56493580",
+					"dm": "p",
+					"tn": "photo",
+					"su": "http://toi.in/eSe7UY/"
+				},
+				{
+					"upd": "1452510960000",
+					"dl": "1452331560000",
+					"hl": "Photo story: 5 must have Indian organic foods",
+					"tn": "photostory",
+					"imageid": "50509681",
+					"dm": "t",
+					"id": "50509604",
+					"ag": "BCCL",
+					"type": "featured"
+				},
+				{
+					"upd": "1452510960000",
+					"dl": "1452331560000",
+					"imageid": "50559452",
+					"id": "60125",
+					"hl": "Blogs : Staging Blog",
+					"dm": "t",
+					"tn": "html",
+					"wu": "http://stg.blogs.timesofindia.indiatimes.com/erratica/iq-tq-dq-hey-did-you-know-theres-a-snuffbox-in-your-wrist/",
+					"type": "featured"
+				}
+			]
+		},
+		{
+			"defaulturl": "http://timesofindia.indiatimes.com/feeds/testnewslistingfeed/uid-Education-01,category-Education-01,tag-alrt,msid-913168846,feedtype-sjson.cms?platform=android&andver=425&adreqfrm=sec",
+			"name": "Prime Mixed Slider",
+			"secid": "2048925",
+			"imageid": "66827031",
+			"nimageid": "66827052",
+			"tn": "primemixedslider",
 			"uid": "news-01",
 			"pitems": [{
 					"upd": "1462520700000",
