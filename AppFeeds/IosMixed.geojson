@@ -170,8 +170,8 @@
 			"defaulturl": "http://timesofindia.indiatimes.com/feeds/testnewslistingfeed/uid-Education-01,category-Education-01,tag-alrt,msid-913168846,feedtype-sjson.cms?platform=android&andver=425&adreqfrm=sec",
 			"name": "Prime Mixed Slider",
 			"secid": "2048925",
-			"imageid": "66827031",
-			"nimageid": "66827052",
+			"brimageid":"66827031",
+			"nbrimageid":"66827052",
 			"tn": "primemixedslider",
 			"uid": "news-01",
 			"pitems": [{
