@@ -212,9 +212,9 @@
 		"gaanaItunesLink": "itms-apps://itunes.apple.com/app/gaana/id585270521?ls=1&mt=8"
 	},
 	"Strings": {
-		"plus_hook_login_text": "Subscribe to Times Prime to get access to exclusive content and ad-free experience in TOI. <a dlhref=\"prime/value-prop\">Learn More</a>",
-		"plus_hook_free_trial_expired": "Your free subscription to Times Prime has expired. Buy Times Prime to get access to exclusive content and ad-free experience in TOI. <a dlhref=\"prime/value-prop\">Learn More</a>",
-		"plus_hook_subscription_expired": "Your free subscription to Times Prime has expired. Buy Times Prime to get access to exclusive content and ad-free experience in TOI. <a dlhref=\"prime/value-prop\">Learn More</a>",
+		"plus_hook_login_text": "Subscribe to Times Prime to get access to exclusive content and ad-free experience in TOI. <a href= \"prime/value-prop\" dlhref=\"prime/value-prop\">Learn More</a>",
+		"plus_hook_free_trial_expired": "Your free subscription to Times Prime has expired. Buy Times Prime to get access to exclusive content and ad-free experience in TOI. <a href= \"prime/value-prop\" dlhref=\"prime/value-prop\">Learn More</a>",
+		"plus_hook_subscription_expired": "Your subscription to Times Prime has expired. Buy Times Prime to get access to exclusive content and ad-free experience in TOI. <a href= \"prime/value-prop\" dlhref=\"prime/value-prop\">Learn More</a>",
 		"plus_hook_header_white_id": "66827031",
 		"plus_hook_header_dark_id": "66827052",
 		"plus_login_text": "Login to get access to all exclusive stories on TOI",
