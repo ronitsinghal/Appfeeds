@@ -111,16 +111,6 @@
 			"secid": "56330004"
 		},
 		{
-			"name": "TOI Plus",
-			"defaulturl": "https://timesofindia.indiatimes.com/feeds/testnewslistingfeed/feedtype-sjson,msid-7327198,tag-alrtigpl,uid-PrimeTest-01.cms?platform=android&andver=510&adreqfrm=sec",
-			"tn": "prmixed",
-			"uid": "TOIPlus-01",
-			"brimageid": "66827031",
-			"nbrimageid": "66827052",
-			"ct": "10",
-			"secid": "7327198"
-		},
-		{
 			"name": "Entertainment (ETimes)",
 			"display_name": "ETimes",
 			"defaulturl": "https://timesofindia.indiatimes.com/feeds/testnewslistingfeedmc/feedtype-sjson,msid-1081479906,tag-alrt,uid-Entertainment-01,category-Entertainment-01,t-f.cms?platform=iphone&ipver=510&adreqfrm=sec",
@@ -138,14 +128,6 @@
 			"uid": "Special-01",
 			"ct": "10",
 			"secid": "24885937"
-		},
-		{
-			"name": "TOI Plus",
-			"defaulturl": "https://timesofindia.indiatimes.com/feeds/testnewslistingfeed/feedtype-sjson,msid-7327198,tag-alrtdf,uid-Prime-01.cms?platform=iphone&ipver=510&adreqfrm=sec",
-			"tn": "mixed",
-			"uid": "TOIPlus-01",
-			"ct": "10",
-			"secid": "7327198"
 		},
 		{
 			"name": "Local",
