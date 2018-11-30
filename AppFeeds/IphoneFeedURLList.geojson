@@ -93,14 +93,15 @@
 		}
 	],
 	"items": [{
-			"name": "Mixed",
-			"defaulturl": "https://timesofindia.indiatimes.com/feeds/ntoitestfeed/feedtype-sjson,uid-Kichdi-01.cms?platform=iphone&ipver=510&adreqfrm=sec",
-			"tn": "mixed",
-			"uid": "Kichdi-01",
-			"ct": "7",
-			"secid": ""
-		},
-		{
+			"name": "TOI Plus",
+			"defaulturl": "https://timesofindia.indiatimes.com/feeds/testnewslistingfeed/feedtype-sjson,msid-7327198,tag-alrtigpl,uid-PrimeTest-01.cms?platform=android&andver=510&adreqfrm=sec",
+			"tn": "prmixed",
+			"uid": "TOIPlus-01",
+			"brimageid": "66827031",
+			"nbrimageid": "66827052",
+			"ct": "10",
+			"secid": "7327198"
+		}, {
 			"name": "Elections",
 			"defaulturl": "https://timesofindia.indiatimes.com/feeds/testnewslistingfeed/feedtype-sjson,msid-56330004,tag-alrt,uid-StateElec2017-01,category-StateElec2017-01.cms?platform=iphone&ipver=510&adreqfrm=sec",
 			"tn": "mixed",
