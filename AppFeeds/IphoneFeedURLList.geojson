@@ -101,7 +101,15 @@
 			"nbrimageid": "66827052",
 			"ct": "10",
 			"secid": "7327198"
-		}, {
+		}, 
+		  {
+			"name": "IOS MIXED",
+			"defaulturl": "https://raw.githubusercontent.com/ronitsinghal/Appfeeds/master/AppFeeds/IosMixed.geojson",
+			"tn": "prmixed",
+			"uid": "IOSMixed",
+			"ct": "5",
+			"secid": ""
+		},{
 			"name": "Elections",
 			"defaulturl": "https://timesofindia.indiatimes.com/feeds/testnewslistingfeed/feedtype-sjson,msid-56330004,tag-alrt,uid-StateElec2017-01,category-StateElec2017-01.cms?platform=iphone&ipver=510&adreqfrm=sec",
 			"tn": "mixed",
