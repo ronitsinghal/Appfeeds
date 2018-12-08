@@ -105,24 +105,7 @@
 		}
 	],
 	"info": {
-		"cmp": {
-			"n": "d",
-			"l": "h",
-			"s": "i"
-		},
-		"src": "a20",
-		"med": {
-			"wa": "a",
-			"fb": "b",
-			"gp": "d",
-			"twt": "c",
-			"em": "f",
-			"lin": "j",
-			"sms": "e",
-			"oth": "l"
-		},
 		"adFreeScreenCount": 25,
-		"topnewsgeocities": "Ahmedabad|Bangalore|Chandigarh|Chennai|Delhi|Hyderabad|Kolkata|Lucknow|Mumbai|Patna|Pune",
 		"minVideoDurationForAd": "45",
 		"postCommentPath": "feeds/testpostcomment.cms",
 		"cookieDomain": ".indiatimes.com",
