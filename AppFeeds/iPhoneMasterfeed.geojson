@@ -1,7 +1,7 @@
 {
 	"Switch": {
-		"isCTNEnabled": 1,
-		"isDFPEnabled": 1,
+		"isCTNEnabled": 0,
+		"isDFPEnabled": 0,
 		"isNotificationCenterEnabled": 1,
 		"isSpecialTickerEnabled": 0,
 		"isAdFreeEnabled": 0,
