@@ -522,7 +522,7 @@
 			"wu": "https://timesofindia.indiatimes.com/prime-video-very-fortunate-to-be-a-part-of-gold-amit-sadh/videoshow/64648987.cms"
 		},
 		{
-			"name": "VIDEOS",
+			"hl": "VIDEOS",
 			"tn": "rotaryslider",
 			"cs": "prime",
 			"pitems": [{
@@ -649,7 +649,7 @@
 		},
 		{
 			"defaulturl": "http://timesofindia.indiatimes.com/feeds/testnewslistingfeed/tag-vdo,feedtype-sjson,msid-58606824.cms?platform=iphone&ipver=495",
-			"name": "Most Commented",
+			"hl": "Most Commented",
 			"tn": "itmslider",
 			"cs": "prime",
 			"type": "most-commented",
@@ -710,7 +710,7 @@
 			]
 		},
 		{
-			"name": "MOST READ",
+			"hl": "MOST READ",
 			"tn": "itmslider",
 			"cs": "prime",
 			"type": "most-read",
@@ -797,7 +797,7 @@
 			"wu": "https://timesofindia.indiatimes.com/india/how-this-workout-leaves-the-streets-cleaner/articleshow/65437579.cms"
 		},
 		{
-			"name": "MOST SHARED",
+			"hl": "MOST SHARED",
 			"tn": "itmslider",
 			"cs": "prime",
 			"type": "most-shared",
@@ -872,7 +872,7 @@
 			"wu": "https://timesofindia.indiatimes.com/india/space-dreams-of-india-china-gain-gravity/articleshow/65501130.cms"
 		},
 		{
-			"name": "EDITOR's PICK",
+			"hl": "EDITOR's PICK",
 			"tn": "linearslider",
 			"cs": "prime",
 			"type": "editor-pick",
@@ -948,7 +948,7 @@
 			"wu": "https://timesofindia.indiatimes.com/india/for-years-banswaras-women-have-been-eating-leftovers-but-this-old-tradition-is-changing-as-they-join-the-menfolk-for-meals-and-start-a-revolution-with-a-rotla/articleshow/65514331.cms"
 		},
 		{
-			"name": "ARCHIVES",
+			"hl": "ARCHIVES",
 			"tn": "linearslider",
 			"cs": "prime",
 			"type": "archives",
