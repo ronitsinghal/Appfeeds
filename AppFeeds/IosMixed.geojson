@@ -6,170 +6,7 @@
 		"tp": "6",
 		"cp": "1"
 	},
-	"items": [{
-			"id": "66522412",
-			"tn": "pieexitpoll",
-		"wu":"http://toibnews.timesofindia.indiatimes.com/Election/election2017_test_app_exitpoll_widget.htm"
-		},{
-
-			"upd": "1541487840000",
-			"lpt": "1541487876304",
-			"dl": "1541487840000",
-			"hl": "Tn type banner",
-			"imageid": "66522411&imgsize=123508",
-			"id": "66522412",
-			"dm": "t",
-			"tn": "txt",
-			"type": "featured"
-		},
-		{
-			"id": "63718690",
-			"upd": "1533122062000",
-			"lpt": "1533122062000",
-			"dl": "1531072740000",
-			"hl": "",
-			"tn": "news",
-			"wu": "https://m.timesofindia.com/articleshiw/63718690.cms",
-			"imageid": "56660210",
-			"dm": "t"
-		},
-
-
-
-		{
-			"defaulturl": "http://timesofindia.indiatimes.com/feeds/testnewslistingfeed/tag-vdo,msid-3812907.cms?feedtype=json&andver=519&platform=android",
-			"name": "Feature Mixed Slider",
-			"secid": "2048925",
-			"tn": "featuredmixedslider",
-			"uid": "news-01",
-			"pitems": [{
-					"upd": "1462520700000",
-					"dl": "1462520160000",
-					"hl": "UGC to institutes: Refund fees and return certificates",
-					"imageid": "52142821&pl=10602",
-					"id": "52142819",
-					"dm": "t",
-					"tn": "news",
-					"su": "http://toi.in/uzP5nY/"
-				},
-				{
-					"id": "56660210",
-					"hl": "Meritocratic America could have Hindu President in future: Obama",
-					"du": "00:36",
-					"imageid": "56660210&pl=28044",
-					"dm": "t",
-					"tn": "video",
-					"upd": "1484804220000",
-					"su": "http://toi.in/A5zlSZ/"
-				},
-				{
-					"id": "56517173",
-					"hl": "Live TV: India Wants to Know",
-					"imageid": "49162416",
-					"dm": "t",
-					"tn": "livetv",
-					"channel_id": "times-now"
-				},
-				{
-					"upd": "1484199060000",
-					"id": "56493580",
-					"hl": "Lisa Hadon is pregnant",
-					"imageid": "56493580",
-					"dm": "p",
-					"tn": "photo",
-					"su": "http://toi.in/eSe7UY/"
-				},
-				{
-					"upd": "1452510960000",
-					"dl": "1452331560000",
-					"hl": "Photo story: 5 must have Indian organic foods",
-					"tn": "photostory",
-					"imageid": "50509681",
-					"dm": "t",
-					"id": "50509604",
-					"ag": "BCCL",
-					"type": "featured"
-				},
-				{
-					"upd": "1452510960000",
-					"dl": "1452331560000",
-					"imageid": "50559452",
-					"id": "60125",
-					"hl": "Blogs : Staging Blog",
-					"dm": "t",
-					"tn": "html",
-					"wu": "http://stg.blogs.timesofindia.indiatimes.com/erratica/iq-tq-dq-hey-did-you-know-theres-a-snuffbox-in-your-wrist/",
-					"type": "featured"
-				}
-			]
-		},
-
-		{
-			"defaulturl": "http://timesofindia.indiatimes.com/feeds/testnewslistingfeed/uid-Education-01,category-Education-01,tag-alrt,msid-913168846,feedtype-sjson.cms?platform=android&andver=425&adreqfrm=sec",
-			"name": "Mixed Slider",
-			"secid": "2048925",
-			"tn": "mixedslider",
-			"uid": "news-01",
-			"pitems": [{
-					"upd": "1462520700000",
-					"dl": "1462520160000",
-					"hl": "UGC to institutes: Refund fees and return certificates",
-					"imageid": "52142821&pl=10602",
-					"id": "52142819",
-					"dm": "t",
-					"tn": "news",
-					"su": "http://toi.in/uzP5nY/"
-				},
-				{
-					"id": "56660210",
-					"hl": "Meritocratic America could have Hindu President in future: Obama",
-					"du": "00:36",
-					"imageid": "56660210&pl=28044",
-					"dm": "t",
-					"tn": "video",
-					"upd": "1484804220000",
-					"su": "http://toi.in/A5zlSZ/"
-				}, {
-					"id": "56517173",
-					"hl": "Live TV: India Wants to Know",
-					"imageid": "49162416",
-					"dm": "t",
-					"tn": "livetv",
-					"channel_id": "times-now"
-				},
-				{
-					"upd": "1484199060000",
-					"id": "56493580",
-					"hl": "Lisa Hadon is pregnant",
-					"imageid": "56493580",
-					"dm": "p",
-					"tn": "photo",
-					"su": "http://toi.in/eSe7UY/"
-				},
-				{
-					"upd": "1452510960000",
-					"dl": "1452331560000",
-					"hl": "Photo story: 5 must have Indian organic foods",
-					"tn": "photostory",
-					"imageid": "50509681",
-					"dm": "t",
-					"id": "50509604",
-					"ag": "BCCL",
-					"type": "featured"
-				},
-				{
-					"upd": "1452510960000",
-					"dl": "1452331560000",
-					"imageid": "50559452",
-					"id": "60125",
-					"hl": "Blogs : Staging Blog",
-					"dm": "t",
-					"tn": "html",
-					"wu": "http://stg.blogs.timesofindia.indiatimes.com/erratica/iq-tq-dq-hey-did-you-know-theres-a-snuffbox-in-your-wrist/",
-					"type": "featured"
-				}
-			]
-		},
+	"items": [
 		{
 			"defaulturl": "http://timesofindia.indiatimes.com/feeds/testnewslistingfeed/uid-Education-01,category-Education-01,tag-alrt,msid-913168846,feedtype-sjson.cms?platform=android&andver=425&adreqfrm=sec",
 			"name": "Prime Mixed Slider",
@@ -310,7 +147,6 @@
 			"tn": "news",
 			"cs": "prime",
 			"type": "featured",
-			"label": "Exclusive",
 			"wu": "https://timesofindia.indiatimes.com/india/migrant-exodus-rattles-state-industry-feels-the-heat/articleshow/66128722.cms"
 		},
 		{
@@ -325,7 +161,6 @@
 			"dm": "t",
 			"tn": "news",
 			"cs": "prime",
-			"label": "Exclusive",
 			"wu": "https://timesofindia.indiatimes.com/india/man-who-saved-muslims-during-13-riots-on-mission-to-bring-home-those-forced-to-flee/articleshow/66122079.cms"
 		},
 		
