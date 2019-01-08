@@ -15,7 +15,7 @@
 			"id": "67165073",
 			"dm": "t",
 			"tn": "html",
-		"type": "featured",
+			"type": "featured",
 			"wu": "https://m.timesofindia.com/india/claiming-vindication-on-gst-issue-cong-says-pm-modi-only-about-event-management-not-policy/articleshow/67165073.cms"
 		},
 		{
@@ -27,62 +27,59 @@
 			"tn": "primemixedslider",
 			"uid": "news-01",
 			"pitems": [{
-					"upd": "1462520700000",
-					"dl": "1462520160000",
-					"hl": "UGC to institutes: Refund fees and return certificates",
-					"imageid": "52142821&pl=10602",
-					"id": "52142819",
+					"type": "featured",
+					"ag": "TNN",
+					"upd": "1546858200000",
+					"lpt": "1546858249560",
+					"dl": "1546858200000",
+					"hl": "Accidental PM or check mate?",
+					"imageid": "67419892&pl=470466",
+					"id": "67419881",
 					"dm": "t",
 					"tn": "news",
-					"su": "http://toi.in/uzP5nY/"
+					"wu": "https://timesofindia.indiatimes.com/india/accidental-pm-or-check-mate/articleshow/67419881.cms",
+					"kws": "PM,Modi,manmohan singh,Congress,BJP,Anupam Kher,Accidental PM"
 				},
 				{
-					"id": "56660210",
-					"hl": "Meritocratic America could have Hindu President in future: Obama",
-					"du": "00:36",
-					"imageid": "56660210&pl=28044",
+					"ag": "TNN",
+					"upd": "1546841940000",
+					"lpt": "1546841969964",
+					"dl": "1546681800000",
+					"hl": "How society identifies, hounds rape survivors",
+					"imageid": "67416138&pl=290004",
+					"tn": "news",
 					"dm": "t",
-					"tn": "video",
-					"upd": "1484804220000",
-					"su": "http://toi.in/A5zlSZ/"
-				}, {
-					"id": "56517173",
-					"hl": "Live TV: India Wants to Know",
-					"imageid": "49162416",
-					"dm": "t",
-					"tn": "livetv",
-					"channel_id": "times-now"
+					"id": "67394523",
+					"wu": "https://timesofindia.indiatimes.com/india/how-society-identifies-hounds-rape-survivors/articleshow/67394523.cms",
+					"kws": "restorative justice,rape survivor,Rape,justice,gang rape"
 				},
 				{
-					"upd": "1484199060000",
-					"id": "56493580",
-					"hl": "Lisa Hadon is pregnant",
-					"imageid": "56493580",
-					"dm": "p",
-					"tn": "photo",
-					"su": "http://toi.in/eSe7UY/"
+					"ag": "TNN",
+					"au": "Shimona Kanwar",
+					"upd": "1546322280000",
+					"lpt": "1546322339848",
+					"dl": "1546165080000",
+					"hl": "How TB patients left to die by kin 100 years ago set up Himachal town",
+					"imageid": "67310107&pl=284682",
+					"tn": "news",
+					"dm": "t",
+					"id": "67307532",
+					"wu": "https://timesofindia.indiatimes.com/india/how-tb-patients-left-to-die-by-kin-100-yrs-ago-set-up-himachal-town/articleshow/67307532.cms",
+					"kws": "Tuberculosis,Sanatorium,partition,Himachal,Dharampur"
 				},
 				{
-					"upd": "1452510960000",
-					"dl": "1452331560000",
-					"hl": "Photo story: 5 must have Indian organic foods",
-					"tn": "photostory",
-					"imageid": "50509681",
+					"ag": "TNN",
+					"au": "Naresh Mitra",
+					"upd": "1545991560000",
+					"lpt": "1545991590030",
+					"dl": "1545984360000",
+					"hl": "In Meghalaya, deadly ‘rat-hole’ mines take lives, ruin environment",
+					"imageid": "67284696&pl=447107",
+					"tn": "news",
 					"dm": "t",
-					"id": "50509604",
-					"ag": "BCCL",
-					"type": "featured"
-				},
-				{
-					"upd": "1452510960000",
-					"dl": "1452331560000",
-					"imageid": "50559452",
-					"id": "60125",
-					"hl": "Blogs : Culture of tokenism: Gujarat’s ‘Jai Hind’ directive for schools will not instil patriotism",
-					"dm": "t",
-					"tn": "html",
-					"wu": "https://timesofindia.indiatimes.com/blogs/toi-editorials/culture-of-tokenism-gujarats-jai-hind-directive-for-schools-will-not-instil-patriotism",
-					"type": "featured"
+					"id": "67284428",
+					"wu": "https://timesofindia.indiatimes.com/india/in-meghalaya-deadly-rat-hole-mines-take-lives-ruin-environment/articleshow/67284428.cms",
+					"kws": "rat hole mining,meghalaya,Jaintia Hills,illegal mining"
 				}
 			]
 		}, {
