@@ -28,17 +28,20 @@
 			"uid": "news-01",
 			"pitems": [{
 					"type": "featured",
+					"cs": "prime",
 					"ag": "TNN",
-					"upd": "1546858200000",
-					"lpt": "1546858249560",
-					"dl": "1546858200000",
-					"hl": "Accidental PM or check mate?",
-					"imageid": "674198wedew",
-					"id": "67419881",
+					"au": "Aswin J Kumar and Sajeev Kumarapuram",
+					"upd": "1547027940000",
+					"lpt": "1547027943051",
+					"dl": "1546256580000",
+					"hl": "Kerala floods: How 4,500 fishermen in 700 boats rescued 65,000 in 3 days",
+					"hasvideo": "yes",
+					"imageid": "67452324&pl=339522",
+					"id": "67323771",
 					"dm": "t",
 					"tn": "news",
-					"wu": "https://timesofindia.indiatimes.com/india/accidental-pm-or-check-mate/articleshow/67419881.cms",
-					"kws": "PM,Modi,manmohan singh,Congress,BJP,Anupam Kher,Accidental PM"
+					"wu": "https://timesofindia.indiatimes.com/india/the-people-behind-the-the-mega-rescue-mission-during-the-kerala-floods/articleshow/67323771.cms",
+					"kws": "National Disaster Response Force,Kerala Floods,Kerala,floods in kerala,Cyclone Ockhi"
 				},
 				{
 					"ag": "TNN",
