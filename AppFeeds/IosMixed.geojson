@@ -6,18 +6,7 @@
 		"tp": "6",
 		"cp": "1"
 	},
-	"items": [{
-			"upd": "1539240765000",
-			"lpt": "1539240765000",
-			"dl": "1539240765000",
-			"hl": "Test HTML page for CTN video ads testing on iPhone",
-			"imageid": "67165073",
-			"id": "67165073",
-			"dm": "t",
-			"tn": "html",
-			"type": "featured",
-			"wu": "https://m.timesofindia.com/india/claiming-vindication-on-gst-issue-cong-says-pm-modi-only-about-event-management-not-policy/articleshow/67165073.cms"
-		},
+	"items": [
 		{
 			"defaulturl": "https://timesofindia.indiatimes.com/feeds/testnewslistingfeed/feedtype-sjson,msid-60478120,tag-alrt,uid-PrimeTest-01.cms?platform=iphone&ipver=510&adreqfrm=sec",
 			"name": "Prime Mixed Slider",
