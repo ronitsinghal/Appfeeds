@@ -18,7 +18,7 @@
 			"dm": "t",
 			"tn": "news",
 			"cs": "prime",
-			"type":"featured",
+			"type": "featured",
 			"wu": "https://timesofindia.indiatimes.com/india/too-many-kids-per-class-cbse-schools-may-face-action/articleshow/66152208.cms"
 		},
 		{
@@ -39,10 +39,11 @@
 					"tn": "news",
 					"dm": "t",
 					"id": "67394523",
-					"type":"featured",
+					"type": "featured",
 					"wu": "https://timesofindia.indiatimes.com/india/how-society-identifies-hounds-rape-survivors/articleshow/67394523.cms",
 					"kws": "restorative justice,rape survivor,Rape,justice,gang rape"
-				},{
+				},
+				{
 					"type": "featured",
 					"cs": "prime",
 					"ag": "TNN",
@@ -101,7 +102,8 @@
 					"kws": "rat hole mining,meghalaya,Jaintia Hills,illegal mining"
 				}
 			]
-		}, {
+		},
+		{
 			"au": "MANASH PRATIM GOHAIN",
 			"ag": "TNN",
 			"upd": "1539240765000",
@@ -130,7 +132,8 @@
 			"tn": "news",
 			"cs": "prime",
 			"wu": "https://m.timesofindia.com/city/meerut/articleshow/65303644.cms"
-		}, {
+		},
+		{
 			"ag": "TNN",
 			"au": "Naresh Mitra",
 			"upd": "1545991560000",
@@ -840,7 +843,6 @@
 			"cs": "prime",
 			"wu": "https://timesofindia.indiatimes.com/india/man-who-saved-muslims-during-13-riots-on-mission-to-bring-home-those-forced-to-flee/articleshow/66122079.cms"
 		},
-
 		{
 			"au": "ISHITA MISHRA",
 			"ag": "TNN",
@@ -1274,60 +1276,6 @@
 					"tn": "news",
 					"wu": "https://timesofindia.indiatimes.com/india/the-vet-who-lures-big-cats-with-perfume/articleshow/66152496.cms",
 					"cnt": "21312"
-				}, {
-					"id": "65350794",
-					"hl": "Large protest by Hui Muslims halts demolition of mosque in China: Report",
-					"syn": "Chinese officials have delayed the plan to demolish a newly-built mosque in the country's northwest after hundreds of ethnic Hui Muslims held sit-in protests in what is said to be the largest standoff in Beijing's efforts to clampdown on Islamisation, a media report said on Friday.",
-					"imageid": "59200443&pl=80621",
-					"dm": "t",
-					"tn": "news",
-					"upd": "1497758880000",
-					"lpt": "1532434047691",
-					"cnt": "120"
-				},
-				{
-					"id": "65350794",
-					"hl": "Large protest by Hui Muslims halts demolition of mosque in China: Report",
-					"syn": "Chinese officials have delayed the plan to demolish a newly-built mosque in the country's northwest after hundreds of ethnic Hui Muslims held sit-in protests in what is said to be the largest standoff in Beijing's efforts to clampdown on Islamisation, a media report said on Friday.",
-					"imageid": "59200443&pl=80621",
-					"dm": "t",
-					"tn": "news",
-					"upd": "1497758880000",
-					"lpt": "1532434047691",
-					"cnt": "120"
-				},
-				{
-					"id": "65350794",
-					"hl": "Large protest by Hui Muslims halts demolition of mosque in China: Report",
-					"syn": "Chinese officials have delayed the plan to demolish a newly-built mosque in the country's northwest after hundreds of ethnic Hui Muslims held sit-in protests in what is said to be the largest standoff in Beijing's efforts to clampdown on Islamisation, a media report said on Friday.",
-					"imageid": "59200443&pl=80621",
-					"dm": "t",
-					"tn": "news",
-					"upd": "1497758880000",
-					"lpt": "1532434047691",
-					"cnt": "1200"
-				},
-				{
-					"id": "65350794",
-					"hl": "Large protest by Hui Muslims halts demolition of mosque in China: Report",
-					"syn": "Chinese officials have delayed the plan to demolish a newly-built mosque in the country's northwest after hundreds of ethnic Hui Muslims held sit-in protests in what is said to be the largest standoff in Beijing's efforts to clampdown on Islamisation, a media report said on Friday.",
-					"imageid": "59200443&pl=80621",
-					"dm": "t",
-					"tn": "news",
-					"upd": "1497758880000",
-					"lpt": "1532434047691",
-					"cnt": "00"
-				},
-				{
-					"id": "65350794",
-					"hl": "Large protest by Hui Muslims halts demolition of mosque in China: Report",
-					"syn": "Chinese officials have delayed the plan to demolish a newly-built mosque in the country's northwest after hundreds of ethnic Hui Muslims held sit-in protests in what is said to be the largest standoff in Beijing's efforts to clampdown on Islamisation, a media report said on Friday.",
-					"imageid": "59200443&pl=80621",
-					"dm": "t",
-					"tn": "news",
-					"upd": "1497758880000",
-					"lpt": "1532434047691",
-					"cnt": ""
 				}
 			]
 		},
@@ -1405,61 +1353,6 @@
 					"dm": "t",
 					"tn": "news",
 					"wu": "https://timesofindia.indiatimes.com/india/haryana-burning-a-lot-more-stubble-than-punjab/articleshow/66261829.cms",
-					"cnt": "120"
-				},
-				{
-					"id": "65350794",
-					"hl": "Large protest by Hui Muslims halts demolition of mosque in China: Report",
-					"syn": "Chinese officials have delayed the plan to demolish a newly-built mosque in the country's northwest after hundreds of ethnic Hui Muslims held sit-in protests in what is said to be the largest standoff in Beijing's efforts to clampdown on Islamisation, a media report said on Friday.",
-					"imageid": "59200443&pl=80621",
-					"dm": "t",
-					"tn": "news",
-					"upd": "1497758880000",
-					"lpt": "1532434047691",
-					"cnt": "120"
-				},
-				{
-					"id": "65350794",
-					"hl": "Large protest by Hui Muslims halts demolition of mosque in China: Report",
-					"syn": "Chinese officials have delayed the plan to demolish a newly-built mosque in the country's northwest after hundreds of ethnic Hui Muslims held sit-in protests in what is said to be the largest standoff in Beijing's efforts to clampdown on Islamisation, a media report said on Friday.",
-					"imageid": "59200443&pl=80621",
-					"dm": "t",
-					"tn": "news",
-					"upd": "1497758880000",
-					"lpt": "1532434047691",
-					"cnt": "120"
-				},
-				{
-					"id": "65350794",
-					"hl": "Large protest by Hui Muslims halts demolition of mosque in China: Report",
-					"syn": "Chinese officials have delayed the plan to demolish a newly-built mosque in the country's northwest after hundreds of ethnic Hui Muslims held sit-in protests in what is said to be the largest standoff in Beijing's efforts to clampdown on Islamisation, a media report said on Friday.",
-					"imageid": "59200443&pl=80621",
-					"dm": "t",
-					"tn": "news",
-					"upd": "1497758880000",
-					"lpt": "1532434047691",
-					"cnt": "1220"
-				},
-				{
-					"id": "65350794",
-					"hl": "Large protest by Hui Muslims halts demolition of mosque in China: Report",
-					"syn": "Chinese officials have delayed the plan to demolish a newly-built mosque in the country's northwest after hundreds of ethnic Hui Muslims held sit-in protests in what is said to be the largest standoff in Beijing's efforts to clampdown on Islamisation, a media report said on Friday.",
-					"imageid": "59200443&pl=80621",
-					"dm": "t",
-					"tn": "news",
-					"upd": "1497758880000",
-					"lpt": "1532434047691",
-					"cnt": "1"
-				},
-				{
-					"id": "65350794",
-					"hl": "Large protest by Hui Muslims halts demolition of mosque in China: Report",
-					"syn": "Chinese officials have delayed the plan to demolish a newly-built mosque in the country's northwest after hundreds of ethnic Hui Muslims held sit-in protests in what is said to be the largest standoff in Beijing's efforts to clampdown on Islamisation, a media report said on Friday.",
-					"imageid": "59200443&pl=80621",
-					"dm": "t",
-					"tn": "news",
-					"upd": "1497758880000",
-					"lpt": "1532434047691",
 					"cnt": "120"
 				}
 			]
@@ -1620,7 +1513,6 @@
 					"tn": "news",
 					"wu": "https://timesofindia.indiatimes.com/india/who-is-rehana-fathima/articleshow/66346606.cms",
 					"cnt": "1120"
-
 				}
 			]
 		},
