@@ -159,6 +159,7 @@
 			"tn": "news",
 			"dm": "t",
 			"id": "67269421",
+			"type": "featured",
 			"wu": "https://timesofindia.indiatimes.com/india/nagas-race-against-time-to-record-their-fast-vanishing-folklore/articleshow/67269421.cms",
 			"kws": "Nagas,Naga tribes,naga folklore,Folklore,Folk songs"
 		},
@@ -201,6 +202,7 @@
 			"cs": "prime",
 			"tn": "news",
 			"dm": "t",
+			"type": "featured",
 			"id": "67144206",
 			"wu": "https://timesofindia.indiatimes.com/india/when-loan-waiver-hype-meets-the-farm-reality/articleshow/67144206.cms",
 			"kws": "partial loan waiver,loan waivers,farmer crisis,farm loans,farm distress"
@@ -230,6 +232,7 @@
 			"cs": "prime",
 			"tn": "news",
 			"dm": "t",
+			"type": "featured",
 			"id": "67088460",
 			"wu": "https://timesofindia.indiatimes.com/india/from-high-debt-to-low-mandi-prices-farms-in-crisis-across-country/articleshow/67088460.cms",
 			"kws": "wholesale prices,Onion prices,farmers debt,farm crisis,famers"
@@ -245,6 +248,7 @@
 			"cs": "prime",
 			"tn": "news",
 			"dm": "t",
+			"type": "featured",
 			"id": "67058297",
 			"wu": "https://timesofindia.indiatimes.com/india/class-act-poor-children-show-they-can/articleshow/67058297.cms",
 			"kws": "Right to Education,education,economically weak,children"
@@ -275,6 +279,7 @@
 			"cs": "prime",
 			"tn": "news",
 			"dm": "t",
+			"type": "featured",
 			"id": "66967115",
 			"wu": "https://timesofindia.indiatimes.com/india/for-the-first-time-in-100-years-of-its-existence-amu-girls-ready-to-play-hockey/articleshow/66967115.cms",
 			"kws": "Olympics Hockey,hockey,amu amu hockey,amu,Aligarh Muslim University"
@@ -289,6 +294,7 @@
 			"cs": "prime",
 			"tn": "news",
 			"dm": "t",
+			"type": "featured",
 			"id": "66952397",
 			"wu": "https://timesofindia.indiatimes.com/india/in-2017-india-second-worst-in-extreme-weather-deaths/articleshow/66952397.cms",
 			"kws": "Puerto Rico,global rankings,extreme weather,climate change"
@@ -317,6 +323,7 @@
 			"cs": "prime",
 			"tn": "news",
 			"dm": "t",
+			"type": "featured",
 			"id": "66841149",
 			"wu": "https://timesofindia.indiatimes.com/india/char-dham-yatra-indias-deadliest-pilgrimage/articleshow/66841149.cms",
 			"kws": "safety,faith,Deaths,Chardham,Amarnath"
@@ -348,6 +355,7 @@
 			"cs": "prime",
 			"tn": "news",
 			"dm": "t",
+			"type": "featured",
 			"id": "66822850",
 			"wu": "https://timesofindia.indiatimes.com/india/when-the-british-toyed-with-idea-of-unleashing-gurkha-soldiers-on-sentinelese/articleshow/66822850.cms",
 			"kws": "Sentinelese language,north sentinel island,National Geographic Society,Marco Polo,Gurkha,Andamanese people"
@@ -365,7 +373,7 @@
 			"dm": "t",
 			"id": "66804999",
 			"wu": "https://timesofindia.indiatimes.com/india/no-sign-of-impending-polls-in-rajasthans-last-village/articleshow/66804999.cms",
-			"kws": "TANOT,rajasthan,Jaisalmer,IndiaâPakistan border,elections"
+			"kws": "TANOT,rajasthan,Jaisalmer,India Pakistan border,elections"
 		},
 		{
 			"ag": "TNN",
@@ -408,6 +416,7 @@
 			"cs": "prime",
 			"tn": "news",
 			"dm": "t",
+			"type": "featured",
 			"id": "66750508",
 			"wu": "https://timesofindia.indiatimes.com/india/the-no-where-people-pakistani-hindu-refugees-in-rajasthan/articleshow/66750508.cms",
 			"kws": "rajasthan,Pakistani refugees,Pak refugees,Khajuwala,Hindu refugees,Barmer district"
@@ -453,6 +462,7 @@
 			"cs": "prime",
 			"tn": "news",
 			"dm": "t",
+			"type": "featured",
 			"id": "66710029",
 			"wu": "https://timesofindia.indiatimes.com/india/demolitions-in-varanasi-reveal-ancient-temples/articleshow/66710029.cms",
 			"kws": "Yogi Adityanath,temples ion homes,shops,Manikarnika Ghat,kashi vishwanath temple,demolitions in varanasi"
@@ -483,6 +493,7 @@
 			"cs": "prime",
 			"tn": "news",
 			"dm": "t",
+			"type": "featured",
 			"id": "66691482",
 			"wu": "https://timesofindia.indiatimes.com/india/big-fat-indian-wedding-lures-foreign-tourists/articleshow/66691482.cms",
 			"kws": "wedding tourists,wedding tourism,Indian Wedding,india weddings,Desi weddings"
@@ -498,6 +509,7 @@
 			"cs": "prime",
 			"tn": "news",
 			"dm": "t",
+			"type": "featured",
 			"id": "66650700",
 			"wu": "https://timesofindia.indiatimes.com/india/eligible-for-seat-in-house-of-lords-anglo-indian-family-now-farms-in-kasganj/articleshow/66650700.cms",
 			"kws": "william gardner,William Dalrymple (historian),Mughal empire,Kasganj,julian james gardner"
@@ -711,63 +723,6 @@
 			"kws": "TELANGANA ELECTIONS,Telangana,Sanganer,Rajasthan elections,Election Commission of India"
 		},
 		{
-			"ag": "TNN",
-			"au": "Avijit Chatterjee",
-			"upd": "1542374520000",
-			"lpt": "1542374753616",
-			"dl": "1540889760000",
-			"hl": "Cars of the Stars",
-			"imageid": "66428112&pl=203006",
-			"cs": "prime",
-			"tn": "news",
-			"dm": "t",
-			"id": "66427673",
-			"wu": "https://timesofindia.indiatimes.com/india/cars-of-the-stars/articleshow/66427673.cms",
-			"kws": "vintage cars,Subhas Sanas,pune car museum,mercedes benz,London Taxi,amitabh bachchan car"
-		},
-		{
-			"au": "CHETHAN KUMAR",
-			"ag": "TNN",
-			"upd": "1539240765000",
-			"lpt": "1539240765000",
-			"dl": "1539240765000",
-			"hl": "Space dreams of India & China gain gravity",
-			"syn": "India and China’s space programmes may be vastly different in priority but what Moon and Mars, universe and time mean to the Dragon and the Elephant is not entirely divorced",
-			"imageid": "65526258",
-			"id": "65501130",
-			"dm": "t",
-			"tn": "news",
-			"cs": "prime",
-			"wu": "https://timesofindia.indiatimes.com/city/meerut/articleshow/65501130.cms"
-		},
-		{
-			"ag": "TNN",
-			"upd": "1539240765000",
-			"lpt": "1539240765000",
-			"dl": "1539240765000",
-			"hl": "How this workout is leaving the streets cleaner",
-			"imageid": "65499306",
-			"id": "65437579",
-			"dm": "t",
-			"tn": "news",
-			"cs": "prime",
-			"wu": "https://timesofindia.indiatimes.com/city/meerut/articleshow/65437579.cms"
-		},
-		{
-			"au": "Shiladitya Pandit",
-			"ag": "TNN",
-			"upd": "1539240765000",
-			"lpt": "1539240765000",
-			"dl": "1539240765000",
-			"hl": "Pandavas, prehistoric man or aliens – who carved these rocks?",
-			"imageid": "66318892",
-			"id": "66232975",
-			"dm": "t",
-			"tn": "news",
-			"cs": "prime",
-			"wu": "https://timesofindia.indiatimes.com/city/meerut/articleshow/66232975.cms"
-		},
-		{
 			"upd": "1511681700000",
 			"lpt": "1511681700000",
 			"dl": "1511680800000",
@@ -802,32 +757,6 @@
 			"cs": "prime",
 			"tn": "photostory",
 			"wu": "https://timesofindia.indiatimes.com/slidesowdev/these-girls-are-beding-it-like-beckham/primephotostory/66635035.cms"
-		},
-		{
-			"upd": "1540812600000",
-			"lpt": "1540812652965",
-			"dl": "1540809000000",
-			"hl": "Photostory: Hingot Yuddh: Tradition trumps over safety",
-			"imageid": "66634985",
-			"id": "66634985",
-			"dm": "t",
-			"cs": "prime",
-			"tn": "photostory",
-			"wu": "https://m.timesofindia.com/slidesowdev/hingot-yuddh-tradition-trumps-over-safety/fruit-turns-deadly/photostory/66634985.cms"
-		},
-		{
-			"ag": "TNN",
-			"upd": "1539240765000",
-			"lpt": "1539240765000",
-			"dl": "1539240765000",
-			"hl": "Migrant exodus rattles state, industry feels the heat",
-			"imageid": "66128875",
-			"id": "66128722",
-			"dm": "t",
-			"tn": "news",
-			"cs": "prime",
-			"type": "featured",
-			"wu": "https://timesofindia.indiatimes.com/india/migrant-exodus-rattles-state-industry-feels-the-heat/articleshow/66128722.cms"
 		},
 		{
 			"ag": "TNN",
@@ -900,101 +829,7 @@
 			"cs": "prime",
 			"wu": "https://timesofindia.indiatimes.com/india/peoples-car-at-a-dead-end/articleshow/66119194.cms"
 		},
-		{
-			"au": "AMIT BHATTACHARYA",
-			"ag": "TNN",
-			"upd": "1529482140000",
-			"lpt": "1529911279482",
-			"dl": "1529406180000",
-			"hl": "Stubble-burning begins in Punjab and Haryana, but there's no need to press the panic button yet",
-			"imageid": "66163386",
-			"id": "66163139",
-			"dm": "t",
-			"tn": "news",
-			"cs": "prime",
-			"type": "featured",
-			"wu": "https://timesofindia.indiatimes.com/india/stubble-burning-begins-in-punjab-and-haryana-but-theres-no-need-to-press-the-panic-button-yet/articleshow/66163139.cms"
-		},
-		{
-			"au": "RAMESH THAKUR",
-			"upd": "1533211200000",
-			"lpt": "1533211208990",
-			"dl": "1533211200000",
-			"hl": "How a religious tourism-led development strategy can trigger a Bihari renaissance",
-			"imageid": "66164497",
-			"id": "66163688",
-			"dm": "t",
-			"tn": "news",
-			"cs": "prime",
-			"wu": "https://timesofindia.indiatimes.com/india/how-a-religious-tourism-led-development-strategy-can-trigger-a-bihari-renaissance/articleshow/66163688.cms"
-		},
-		{
-			"au": "ASHUTOSH SHUKLA",
-			"ag": "TNN",
-			"upd": "1533199080000",
-			"lpt": "1533202689876",
-			"dl": "1533198360000",
-			"hl": "General category voters will decide which Dalit becomes MLA",
-			"imageid": "66184120",
-			"id": "66173404",
-			"dm": "t",
-			"tn": "news",
-			"cs": "prime",
-			"wu": "https://timesofindia.indiatimes.com/india/in-sc-seats-general-obc-voters-hold-the-key-as-caste-lines-deepen/articleshow/66173404.cms"
-		},
-		{
-			"au": "MS NAWAZ",
-			"upd": "1535973840000",
-			"lpt": "1535973857643",
-			"dl": "1535712480000",
-			"hl": "He sacrificed his life to save river Ganga",
-			"imageid": "66173124",
-			"id": "66173051",
-			"dm": "t",
-			"tn": "news",
-			"cs": "prime",
-			"wu": "https://timesofindia.indiatimes.com/india/he-sacrificed-his-life-to-save-river-ganga/articleshow/66173051.cms"
-		},
-		{
-			"ag": "Timeofindia.com",
-			"upd": "1535973600000",
-			"lpt": "1535973651353",
-			"dl": "1535452980000",
-			"hl": "Is Prithvi Shaw set to take over the mantle from the master blaster?",
-			"imageid": "66318009",
-			"id": "66211876",
-			"dm": "t",
-			"tn": "news",
-			"cs": "prime",
-			"wu": "https://timesofindia.indiatimes.com/india/prithvi-shaw-the-next-sachin/articleshow/66211876.cms"
-		},
-		{
-			"au": "HIMANSHU KAUSHIK",
-			"ag": "TNN",
-			"upd": "1536040800000",
-			"lpt": "1536040835073",
-			"dl": "1535784900000",
-			"hl": "Meet the warriors who helped save the Asiatic lions of Gir",
-			"imageid": "66232426",
-			"id": "66232402",
-			"dm": "t",
-			"tn": "news",
-			"cs": "prime",
-			"wu": "https://timesofindia.indiatimes.com/india/meet-the-warriors-who-helped-save-the-asiatic-lions-of-gir/articleshow/66232402.cms"
-		},
-		{
-			"au": "ARVIND PANAGARIYA",
-			"upd": "1536040800000",
-			"lpt": "1536040835073",
-			"dl": "1535784900000",
-			"hl": "Edit: Let The Rupee Depreciate",
-			"imageid": "66260511",
-			"id": "66260317",
-			"dm": "t",
-			"tn": "news",
-			"cs": "prime",
-			"wu": "https://timesofindia.indiatimes.com/india/let-the-rupee-depreciate/articleshow/66260317.cms"
-		},
+
 		{
 			"ag": "TIMESOFINDIA.COM",
 			"upd": "1536040800000",
@@ -1134,32 +969,6 @@
 			"hasvideo": "yes",
 			"su": "http://toi.in/n3jGfZ/",
 			"wu": "https://timesofindia.indiatimes.com/test-article-for-prime/articleshow/64648587.cms"
-		},
-		{
-			"upd": "1528267560000",
-			"lpt": "1528711309898",
-			"dl": "1528267560000",
-			"hl": "Test article with read also use cases",
-			"id": "64475307",
-			"dm": "t",
-			"tn": "news",
-			"hasvideo": "yes",
-			"su": "http://toi.in/qnEEEb/",
-			"wu": "https://timesofindia.indiatimes.com/test-article-with-read-also-use-cases/articleshow/64475307.cms"
-		},
-		{
-			"au": "Adi B Godrej",
-			"kws": "prime5,prime4prime4,prime3prime3,prime2prime2,prime1prime1",
-			"upd": "1525521900000",
-			"lpt": "1525521908593",
-			"dl": "1525521840000",
-			"hl": "Prime Video: The Underworld - Official Teaser",
-			"imageid": "64042486",
-			"id": "64042486",
-			"tn": "video",
-			"cs": "prime",
-			"dm": "t",
-			"wu": "https://timesofindia.indiatimes.com/underworld-official-teaser/videoshow/64042486.cms"
 		},
 		{
 			"defaulturl": "http://timesofindia.indiatimes.com/feeds/testnewslistingfeed/tag-vdo,feedtype-sjson,msid-58606824.cms?platform=iphone&ipver=495",
