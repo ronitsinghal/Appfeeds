@@ -545,35 +545,29 @@
 			"nimageid": "66367668"
 		}
 	],
-	"ads": [{
-			"adcode": "",
-			"publisher": "CTN",
-			"type": "inlinefullscreen",
-			"screencount": "5"
+	"ads": {
+		"nc_ads": {
+			"footer": "/7176/TOI_App_Android/TOI_APP_AOS_Notifications/TOI_App_AOS_NOTI_BTF"
 		},
-		{
-			"adcode": "",
-			"publisher": "CTN",
-			"type": "brieffullscreen",
-			"screencount": "5"
-		},
-		{
-			"adcode": "",
-			"publisher": "CTN",
-			"type": "photosfullscreen",
-			"screencount": "5"
-		},
-		{
-			"adcode": "",
-			"publisher": "colombia",
-			"type": "overlayfullscreen",
-			"screencount": "5"
-		},
-		{
-			"adcode": "",
-			"publisher": "DFP",
-			"type": "overlayfullscreen",
-			"screencount": "5"
-		}
-	]
+		"inlinefullscreen": [{
+				"adcode": "",
+				"publisher": "CTN",
+				"type": "articleshow",
+				"screencount": "5"
+			},
+			{
+				"adcode": "",
+				"publisher": "CTN",
+				"type": "brieffullscreen",
+				"screencount": "5"
+			},
+			{
+				"adcode": "",
+				"publisher": "CTN",
+				"type": "photosfullscreen",
+				"screencount": "5"
+			}
+		]
+	}
+
 }
