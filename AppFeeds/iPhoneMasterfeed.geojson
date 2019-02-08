@@ -211,11 +211,11 @@
 		"mytEditComment": "https://myt.indiatimes.com/mytimes/edit/comment/"
 	},
 	"Strings": {
-		"plus_hook_login_text": "Subscribe to Times Prime to get access to exclusive content and ad-free experience in TOI. <a href='prime/value-prop' dlhref='prime/value-prop'>Learn More</a>",
+		"plus_hook_login_text": "Test",
 		"plus_hook_free_trial_expired": "Your free subscription to Times Prime has expired. Buy Times Prime to get access to exclusive content and ad-free experience in TOI. <a href='prime/value-prop' dlhref='prime/value-prop'>Learn More</a>",
 		"plus_hook_subscription_expired": "Your subscription to Times Prime has expired. Renew your Times Prime subscription to get access to exclusive content and ad-free experience in TOI. <a href='prime/value-prop' dlhref='prime/value-prop'>Learn More</a>",
-		"plus_hook_header_white_id": "66827031",
-		"plus_hook_header_dark_id": "66827052",
+		"plus_hook_header_white_id": "",
+		"plus_hook_header_dark_id": "",
 		"plus_login_text": "Join us and get access to insightful, multimedia storytelling like you have never seen before.",
 		"plus_login_header": "Read the full article",
 		"plus_popup_welcome": "Your membership comes with free subscription of TOI plus and you get access to:",
