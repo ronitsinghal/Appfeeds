@@ -1,0 +1,251 @@
+{
+	"pg": {
+		"tr": "600",
+		"pp": "10",
+		"tp": "60",
+		"cp": "1"
+	},
+	"sectionitems": [{
+			"name": "Featured",
+			"defaulturl": "https://timesofindia.indiatimes.com/feeds/testnewslistingfeed/feedtype-sjson,msid-63303796,tag-alrt,uid-StateElec2017-01.cms?platform=iphone&ipver=510&adreqfrm=sec",
+			"tn": "mixed",
+			"uid": "MPElectionFeatured-01",
+			"ct": "10",
+			"secid": "63303796"
+		},
+		{
+			"name": "Results",
+			"defaulturl": "https://m.timesofindia.com/elections/assembly-elections/madhya-pradesh/results",
+			"tn": "html",
+			"uid": "MPResults-01",
+			"ct": "10",
+			"secid": "65841818"
+		},
+		{
+			"name": "Data HUB",
+			"defaulturl": "https://m.timesofindia.com/elections/assembly-elections/madhya-pradesh/constituency-map",
+			"tn": "html",
+			"uid": "MPDatahub-01",
+			"ct": "10",
+			"secid": "65933233"
+		},
+		{
+			"name": "Comparison",
+			"defaulturl": "https://m.timesofindia.com/elections/assembly-elections/madhya-pradesh/election-results-comparison",
+			"tn": "html",
+			"uid": "MPComparison-01",
+			"ct": "10",
+			"secid": "65841849"
+		},
+		{
+			"name": "Candidates",
+			"defaulturl": "https://m.timesofindia.com/elections/assembly-elections/madhya-pradesh/candidates",
+			"tn": "html",
+			"uid": "MPCandidates-01",
+			"ct": "10",
+			"secid": "65933172"
+		},
+		{
+			"name": "Campaign Tracker",
+			"defaulturl": "https://m.timesofindia.com/elections/assembly-elections/madhya-pradesh/campaign-tracker",
+			"tn": "html",
+			"uid": "MPCampaign-01",
+			"ct": "10",
+			"secid": "65841781"
+		},
+		{
+			"name": "Election With Times",
+			"defaulturl": "https://timesofindia.indiatimes.com/feeds/testnewslistingfeed/feedtype-sjson,msid-66636609,tag-vdo,uid-StateElec2017-01.cms?platform=iphone&ipver=510&adreqfrm=sec",
+			"tn": "videolist",
+			"uid": "MPET-01",
+			"ct": "10",
+			"secid": "66636609"
+		},
+		{
+			"name": "Poll Quiz",
+			"defaulturl": "https://m.timesofindia.com/elections/assembly-elections/madhya-pradesh/draw-it",
+			"tn": "html",
+			"uid": "MPYouDrawIt-01",
+			"ct": "10",
+			"secid": "66762704"
+		},
+		{
+			"name": "Exit Poll",
+			"defaulturl": "https://m.timesofindia.com/elections/assembly-elections/madhya-pradesh/exit-polls",
+			"tn": "html",
+			"uid": "MPExitPoll-01",
+			"ct": "10",
+			"secid": "65841781"
+		},
+		{
+			"name": "Opinion Polls",
+			"defaulturl": "https://m.timesofindia.com/elections/assembly-elections/madhya-pradesh/opinion-polls",
+			"tn": "html",
+			"uid": "MPOpinionPolls-01",
+			"ct": "10",
+			"secid": "65900470"
+		},
+		{
+			"name": "Videos",
+			"defaulturl": "https://timesofindia.indiatimes.com/feeds/testnewslistingfeed/feedtype-sjson,msid-66086400,tag-vdo,uid-StateElec2017-01.cms?platform=iphone&ipver=510&adreqfrm=sec",
+			"tn": "videolist",
+			"uid": "MPVideo-01",
+			"ct": "10",
+			"secid": "66086400"
+		},
+		{
+			"name": "Schedule",
+			"defaulturl": "https://m.timesofindia.com/elections/assembly-elections/madhya-pradesh/schedule",
+			"tn": "html",
+			"uid": "MPSchedule-01",
+			"ct": "10",
+			"secid": "66086401"
+		}
+	],
+	"ads": {
+		"header": "/7176/TOI_App_iOS/TOI_APP_IOS_ROS/TOI_App_IOS_ROS_PT_ATF",
+		"footer": "/7176/TOI_App_iOS/TOI_APP_IOS_ROS/TOI_App_IOS_ROS_PT_BTF",
+		"securl": "http://m.timesofindia.com/articlelist/63303796.cms"
+	},
+	"items": [{
+			"id": "63303796",
+			"tn": "onestatepie",
+			"defaulturl": "http://toibnews.timesofindia.indiatimes.com/Election/election2017_test_ios_aos_app_electionhome_widget.htm",
+			"key": "mp"
+		},
+		{
+			"ag": "TNN",
+			"au": "Rajendra Sharma",
+			"upd": "1545056040000",
+			"lpt": "1545056091265",
+			"dl": "1544998980000",
+			"hl": "Why RSS doesn’t want Shivraj Singh Chouhan as leader of opposition in MP",
+			"imageid": "67120500&pl=49473",
+			"id": "67120502",
+			"dm": "t",
+			"tn": "news",
+			"wu": "https://timesofindia.indiatimes.com/elections/assembly-elections/madhya-pradesh/why-rss-doesnt-want-shivraj-as-leader-of-opposition-in-mp/articleshow/67120502.cms",
+			"kws": "Shivraj Singh Chouhan,Rashtriya Swayamsevak Sangh,Narottam Mishra,mp rss,chouhan rss"
+		},
+		{
+			"ag": "PTI",
+			"upd": "1544957460000",
+			"lpt": "1544957477831",
+			"dl": "1544956980000",
+			"hl": "After poor show in MP's Vindhya region, Congress plans vote pattern probe",
+			"imageid": "67114936&pl=179103",
+			"id": "67114956",
+			"dm": "t",
+			"tn": "news",
+			"wu": "https://timesofindia.indiatimes.com/india/after-poor-show-in-mps-vindhya-region-congress-plans-vote-pattern-probe/articleshow/67114927.cms",
+			"kws": "vote pattern probe,Vindhya region,MP Congress,Madhya Pradesh assembly elections,Kamal Nath"
+		},
+		{
+			"ag": "TNN",
+			"au": "Suchandana Gupta",
+			"upd": "1544935260000",
+			"lpt": "1544935268181",
+			"dl": "1544909700000",
+			"hl": "Farm loan waiver a necessity: Kamal Nath",
+			"imageid": "67110828&pl=73787",
+			"id": "67110830",
+			"dm": "t",
+			"tn": "news",
+			"wu": "https://timesofindia.indiatimes.com/elections/assembly-elections/madhya-pradesh/farm-loan-waiver-a-necessity-kamal-nath/articleshow/67110830.cms",
+			"kws": "MP elections,kamal nath mp cm,kamal nath loan waiver,kamal nath interview toi,Kamal Nath"
+		},
+		{
+			"ag": "PTI",
+			"upd": "1544875920000",
+			"lpt": "1544875932757",
+			"dl": "1544875500000",
+			"hl": "Mamata Banerjee, Mayawati invited for Kamal Nath's swearing in on December 17",
+			"imageid": "67105892&pl=429980",
+			"id": "67105922",
+			"dm": "t",
+			"tn": "news",
+			"wu": "https://timesofindia.indiatimes.com/india/mamata-banerjee-mayawati-invited-for-kamal-naths-swearing-in-on-december-17/articleshow/67105891.cms",
+			"kws": "Sonia Gandhi,rajasthan,mayawati,Mamata Banerjee,Madhya Pradesh,Kamal Nath,Chhindwara,Chhattisgarh"
+		},
+		{
+			"ag": "TNN",
+			"au": "Sagar Choukse",
+			"upd": "1544853600000",
+			"lpt": "1544853763735",
+			"dl": "1544853600000",
+			"hl": "Malwa-Nimar expects to get lion’s share in Nath cabinet",
+			"imageid": "67102701&pl=273353",
+			"id": "67102704",
+			"dm": "t",
+			"tn": "news",
+			"wu": "https://timesofindia.indiatimes.com/elections/assembly-elections/madhya-pradesh/malwa-nimar-expects-to-get-lions-share-in-nath-cabinet/articleshow/67102704.cms",
+			"kws": "Nimar,Lalu Prasad Yadav,Kamal Nath,Jyotiraditya Madhavrao Scindia,Indore,Dewas district"
+		},
+		{
+			"ag": "TNN",
+			"au": "Ashutosh Shukla",
+			"upd": "1544853480000",
+			"lpt": "1544853608974",
+			"dl": "1544853480000",
+			"hl": "Scindia Son Rises In MP",
+			"imageid": "67102684&pl=504528",
+			"id": "67102693",
+			"dm": "t",
+			"tn": "news",
+			"wu": "https://timesofindia.indiatimes.com/elections/assembly-elections/madhya-pradesh/scindia-son-rises-in-mp/articleshow/67102693.cms",
+			"kws": "ujjain,scindia,Kamal Nath,Jyotiraditya Madhavrao Scindia,Indore,Bhopal"
+		},
+		{
+			"ag": "TNN",
+			"upd": "1544836920000",
+			"lpt": "1544837177279",
+			"dl": "1544836920000",
+			"hl": "Rafale row: Shivraj demands apology from Congress",
+			"imageid": "67101038&pl=468832",
+			"id": "67101043",
+			"dm": "t",
+			"tn": "news",
+			"wu": "https://timesofindia.indiatimes.com/elections/assembly-elections/madhya-pradesh/rafale-row-shivraj-demands-apology-from-congress/articleshow/67101043.cms",
+			"kws": "Shivraj Singh Chouhan,Rahul Gandhi,fighter aircraft,Dassault Rafale,Bhopal"
+		},
+		{
+			"ag": "TNN",
+			"upd": "1544835600000",
+			"lpt": "1544836960738",
+			"dl": "1544835600000",
+			"hl": "Rahul Gandhi to attend Kamal swearing-in, Mayawati & Akhilesh invited",
+			"imageid": "67100939&pl=579021",
+			"id": "67101033",
+			"dm": "t",
+			"tn": "news",
+			"wu": "https://timesofindia.indiatimes.com/elections/assembly-elections/madhya-pradesh/rahul-gandhi-to-attend-kamal-swearing-in-mayawati-akhilesh-invited-too/articleshow/67101033.cms",
+			"kws": "Rahul Gandhi,Mayavati,Kamal Nath,Bhopal,akhilesh yadav,AICC president Rahul Gandhi"
+		},
+		{
+			"ag": "TNN",
+			"upd": "1544797500000",
+			"lpt": "1544797558806",
+			"dl": "1544797500000",
+			"hl": "Madhya Pradesh results 2018: Bastions of many senior BJP leaders crumble",
+			"imageid": "67095214&pl=279775",
+			"id": "67095284",
+			"dm": "t",
+			"tn": "news",
+			"wu": "https://timesofindia.indiatimes.com/elections/assembly-elections/madhya-pradesh/madhya-pradesh-results-2018-bastions-of-many-senior-bjp-leaders-crumble/articleshow/67095284.cms",
+			"kws": "Shivraj Singh Chouhan,mp election results,mp bjp,Madhya Pradesh results 2018,Madhya Pradesh results,madhya pradesh election results 2018,madhya pradesh election results,Madhya Pradesh BJP"
+		},
+		{
+			"ag": "TNN",
+			"upd": "1544758980000",
+			"lpt": "1544758983801",
+			"dl": "1544758980000",
+			"hl": "No end to war of words between Malaiya, Kusmaria",
+			"imageid": "67086520&pl=235658",
+			"id": "67086524",
+			"dm": "t",
+			"tn": "news",
+			"wu": "https://timesofindia.indiatimes.com/city/bhopal/no-end-to-war-of-words-between-malaiya-kusmaria/articleshow/67086523.cms",
+			"kws": "Ramkrishna Kusmaria,Kurmi,jayant mallayya,Damoh district,Chhatarpur,bundelkhand"
+		}
+	]
+}
