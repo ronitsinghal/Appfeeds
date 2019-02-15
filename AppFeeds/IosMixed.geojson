@@ -6,17 +6,98 @@
 		"tp": "1",
 		"cp": "1"
 	},
+	"sectionitems": [{
+			"name": "Featured",
+			"defaulturl": "https://timesofindia.indiatimes.com/feeds/testnewslistingfeed/feedtype-sjson,msid-56330004,tag-alrt,uid-StateElec2017-01.cms?platform=iphone&ipver=510&adreqfrm=sec",
+			"tn": "mixed",
+			"uid": "Featured-01",
+			"ct": "10",
+			"secid": "56330004"
+		},
+		{
+			"name": "Results",
+			"defaulturl": "https://m.timesofindia.com/elections/results",
+			"tn": "sfview",
+			"uid": "ElectionResults-01",
+			"ct": "10",
+			"secid": "63303839"
+		},
+		{
+			"name": "Madhya Pradesh",
+			"defaulturl": "https://timesofindia.indiatimes.com/feeds/testnewslistingfeed/feedtype-sjson,msid-63303796,tag-alrt,uid-StateElec2017-01,category-MPElection-01.cms?platform=iphone&ipver=510&adreqfrm=sec",
+			"tn": "mixed",
+			"uid": "MPElection-01",
+			"ct": "10",
+			"secid": "63303796"
+		},
+		{
+			"name": "Rajasthan",
+			"defaulturl": "https://timesofindia.indiatimes.com/feeds/testnewslistingfeed/feedtype-sjson,msid-63303809,tag-alrt,uid-StateElec2017-01,category-RAJElection-01.cms?platform=iphone&ipver=510&adreqfrm=sec",
+			"tn": "mixed",
+			"uid": "RAJElection-01",
+			"ct": "10",
+			"secid": "63303809"
+		},
+		{
+			"name": "Telangana",
+			"defaulturl": "https://timesofindia.indiatimes.com/feeds/testnewslistingfeed/feedtype-sjson,msid-63303839,tag-alrt,uid-StateElec2017-01,category-TELElection-01.cms?platform=iphone&ipver=510&adreqfrm=sec",
+			"tn": "mixed",
+			"uid": "TLGElection-01",
+			"ct": "10",
+			"secid": "63303839"
+		},
+		{
+			"name": "Chhattisgarh ",
+			"defaulturl": "https://timesofindia.indiatimes.com/feeds/testnewslistingfeed/feedtype-sjson,msid-63303813,tag-alrt,uid-StateElec2017-01,category-CHHElection-01.cms?platform=iphone&ipver=510&adreqfrm=sec",
+			"tn": "mixed",
+			"uid": "CHTGElection-01",
+			"ct": "10",
+			"secid": "63303813"
+		},
+		{
+			"name": "Mizoram",
+			"defaulturl": "https://timesofindia.indiatimes.com/feeds/testnewslistingfeed/feedtype-sjson,msid-63303817,tag-alrt,uid-StateElec2017-01,category-MIZElection-01.cms?platform=iphone&ipver=510&adreqfrm=sec",
+			"tn": "mixed",
+			"uid": "MIZElection-01",
+			"ct": "10",
+			"secid": "63303817"
+		},
+		{
+			"name": "Election With Times",
+			"defaulturl": "https://timesofindia.indiatimes.com/feeds/testnewslistingfeed/feedtype-sjson,msid-66618282,tag-vdo,uid-StateElec2017-01,category-EWTVideos-01.cms?platform=iphone&ipver=510&adreqfrm=sec",
+			"tn": "videolist",
+			"uid": "ElectionWithTimesVideo-01",
+			"ct": "10",
+			"secid": "66618282"
+		},
+		{
+			"name": "Exit Polls",
+			"defaulturl": "https://m.timesofindia.com/elections/exit-polls",
+			"tn": "sfview",
+			"uid": "ElectionExitPolls-01",
+			"ct": "10",
+			"secid": "63303839"
+		},
+		{
+			"name": "Videos",
+			"defaulturl": "https://timesofindia.indiatimes.com/feeds/testnewslistingfeed/feedtype-sjson,msid-56330443,tag-vdo,uid-StateElec2017-01.cms?platform=iphone&ipver=510&adreqfrm=sec",
+			"tn": "videolist",
+			"uid": "StateElecVideo-01",
+			"ct": "10",
+			"secid": "56330443"
+		}
+	],
 	"items": [{
-"hl": "Test Poll",
-"id": "67795360",
-"upd": "1533122062000",
-"lpt": "1533122062000",
-"dl": "1531072740000",
-"tn": "sfview",
-"dm": "t",
-"imageid": "67795360",
-"wu": "https://toidev.indiatimes.com/is-the-budget-good-for-you/polls_test/67795360.cms"
-}, {
+			"hl": "Test Poll",
+			"id": "67795360",
+			"upd": "1533122062000",
+			"lpt": "1533122062000",
+			"dl": "1531072740000",
+			"tn": "sfview",
+			"dm": "t",
+			"imageid": "67795360",
+			"wu": "https://toidev.indiatimes.com/is-the-budget-good-for-you/polls_test/67795360.cms"
+		}, {
 			"au": "MANASH PRATIM GOHAIN",
 			"ag": "TNN",
 			"upd": "1539240765000",
