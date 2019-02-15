@@ -14,41 +14,41 @@
 			"secid": "63303796"
 		},
 		{
-			"name": "Results",
+			"name": "SF - Results",
 			"defaulturl": "https://m.timesofindia.com/elections/assembly-elections/madhya-pradesh/results",
-			"tn": "html",
+			"tn": "sfview",
 			"uid": "MPResults-01",
 			"ct": "10",
 			"secid": "65841818"
 		},
 		{
-			"name": "Data HUB",
+			"name": "SF - Data HUB",
 			"defaulturl": "https://m.timesofindia.com/elections/assembly-elections/madhya-pradesh/constituency-map",
-			"tn": "html",
+			"tn": "sfview",
 			"uid": "MPDatahub-01",
 			"ct": "10",
 			"secid": "65933233"
 		},
 		{
-			"name": "Comparison",
+			"name": "SF - Comparison",
 			"defaulturl": "https://m.timesofindia.com/elections/assembly-elections/madhya-pradesh/election-results-comparison",
-			"tn": "html",
+			"tn": "sfview",
 			"uid": "MPComparison-01",
 			"ct": "10",
 			"secid": "65841849"
 		},
 		{
-			"name": "Candidates",
+			"name": "SF - Candidates",
 			"defaulturl": "https://m.timesofindia.com/elections/assembly-elections/madhya-pradesh/candidates",
-			"tn": "html",
+			"tn": "sfview",
 			"uid": "MPCandidates-01",
 			"ct": "10",
 			"secid": "65933172"
 		},
 		{
-			"name": "Campaign Tracker",
+			"name": "SF - Campaign Tracker",
 			"defaulturl": "https://m.timesofindia.com/elections/assembly-elections/madhya-pradesh/campaign-tracker",
-			"tn": "html",
+			"tn": "sfview",
 			"uid": "MPCampaign-01",
 			"ct": "10",
 			"secid": "65841781"
@@ -62,25 +62,25 @@
 			"secid": "66636609"
 		},
 		{
-			"name": "Poll Quiz",
+			"name": "SF - Poll Quiz",
 			"defaulturl": "https://m.timesofindia.com/elections/assembly-elections/madhya-pradesh/draw-it",
-			"tn": "html",
+			"tn": "sfview",
 			"uid": "MPYouDrawIt-01",
 			"ct": "10",
 			"secid": "66762704"
 		},
 		{
-			"name": "Exit Poll",
+			"name": "SF - Exit Poll",
 			"defaulturl": "https://m.timesofindia.com/elections/assembly-elections/madhya-pradesh/exit-polls",
-			"tn": "html",
+			"tn": "sfview",
 			"uid": "MPExitPoll-01",
 			"ct": "10",
 			"secid": "65841781"
 		},
 		{
-			"name": "Opinion Polls",
+			"name": "html view - Opinion Polls",
 			"defaulturl": "https://m.timesofindia.com/elections/assembly-elections/madhya-pradesh/opinion-polls",
-			"tn": "html",
+			"tn": "htmlview",
 			"uid": "MPOpinionPolls-01",
 			"ct": "10",
 			"secid": "65900470"
@@ -94,7 +94,7 @@
 			"secid": "66086400"
 		},
 		{
-			"name": "Schedule",
+			"name": "html - Schedule",
 			"defaulturl": "https://m.timesofindia.com/elections/assembly-elections/madhya-pradesh/schedule",
 			"tn": "html",
 			"uid": "MPSchedule-01",
