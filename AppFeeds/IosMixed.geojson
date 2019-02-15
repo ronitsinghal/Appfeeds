@@ -15,7 +15,7 @@
 			"secid": "56330004"
 		},
 		{
-			"name": "Results",
+			"name": "sf - Results",
 			"defaulturl": "https://m.timesofindia.com/elections/results",
 			"tn": "sfview",
 			"uid": "ElectionResults-01",
@@ -71,7 +71,7 @@
 			"secid": "66618282"
 		},
 		{
-			"name": "Exit Polls",
+			"name": "sf - Exit Polls",
 			"defaulturl": "https://m.timesofindia.com/elections/exit-polls",
 			"tn": "sfview",
 			"uid": "ElectionExitPolls-01",
