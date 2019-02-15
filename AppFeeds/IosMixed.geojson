@@ -24,7 +24,7 @@
 		},
 		{
 			"name": "Madhya Pradesh",
-			"defaulturl": "https://timesofindia.indiatimes.com/feeds/testnewslistingfeed/feedtype-sjson,msid-63303796,tag-alrt,uid-StateElec2017-01,category-MPElection-01.cms?platform=iphone&ipver=510&adreqfrm=sec",
+			"defaulturl": "https://raw.githubusercontent.com/ronitsinghal/Appfeeds/master/L2-sfview-test",
 			"tn": "mixed",
 			"uid": "MPElection-01",
 			"ct": "10",
