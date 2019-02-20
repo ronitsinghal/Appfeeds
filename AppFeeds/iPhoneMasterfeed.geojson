@@ -167,7 +167,7 @@
 		"submitReadVoteJsonFeed": "/feeds/vote_json.cms?txtPolliD=%@&PRadio=%@",
 		"pollJsonFormat": "/feeds/showfeed.cms?feedtype=sjson&version=v5&tag=poll&msid=%@&ipver=425",
 		"stockMarketUrl": "https://toibselivefeeds.indiatimes.com/homepagetoi.json",
-		"secondSplashUrl": "https://timesofindia.indiatimes.com/feeds/toiiphonesecondsplash.cms?feedtype=sjson&ipver=500",
+		"secondSplashUrl": "https://raw.githubusercontent.com/ronitsinghal/Appfeeds/master/AppFeeds/secondsplash",
 		"homeWidget": "https://toibnews.timesofindia.indiatimes.com/Election/toifeed_iosapp_apphomewidget.htm",
 		"commentCount": "https://myt.indiatimes.com/mytimes/sharedEntityV2?msids=%@&appKey=%@&activityName=Commented&isMovieReviewArticle=%@&ticketId=%@",
 		"addCommentUrl": "/feeds/postcomment.cms",
