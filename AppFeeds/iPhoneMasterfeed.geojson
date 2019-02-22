@@ -5,7 +5,7 @@
 		"isDFPEnabled": 1,
 		"isAdFreeEnabled": 0,
 		"isSpecialTickerEnabled": 0,
-		"isSecondSplashEnabled": 0,
+		"isSecondSplashEnabled": 1,
 		"isTVGuideEnabled": 1,
 		"isNotificaitonEnabled": 1,
 		"isElectionHomeWidgetEnabled": 0,
@@ -546,6 +546,9 @@
 		}
 	],
 	"ads": {
+		"home_banner_ads": {
+			"intl": "/7176/TOI_App_Test/TOI_App_Test_INT"
+		},
 		"nc_ads": {
 			"footer": "/7176/TOI_App_Android/TOI_APP_AOS_Notifications/TOI_App_AOS_NOTI_BTF"
 		},
