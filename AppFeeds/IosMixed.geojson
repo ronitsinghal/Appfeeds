@@ -96,7 +96,7 @@
 			"tn": "html",
 			"dm": "t",
 			"imageid": "6779148312",
-		"wu":"https://prod.cricplay.com/"
+			"wu": "https://prod.cricplay.com/"
 		}, {
 			"hl": "Cric Play - HTMLview",
 			"id": "67791483134",
@@ -106,7 +106,7 @@
 			"tn": "htmlview",
 			"dm": "t",
 			"imageid": "67791483134",
-					"wu":"https://prod.cricplay.com/"
+			"wu": "https://prod.cricplay.com/"
 		}, {
 			"hl": "Headline above the image and no synopsis",
 			"id": "67791426",
