@@ -117,7 +117,27 @@
 			"tn": "news",
 			"dm": "t",
 			"imageid": "68272059"
-		},  {
+		}, {
+			"hl": "Test article with headline below lead image - huge synopsis",
+			"id": "68273150",
+			"upd": "1533122062000",
+			"lpt": "1533122062000",
+			"dl": "1531072740000",
+			"cs": "prime",
+			"tn": "news",
+			"dm": "t",
+			"imageid": "68273203"
+		},{
+			"hl": " Test article with headline on top of image - image caption above image",
+			"id": "68273230",
+			"upd": "1533122062000",
+			"lpt": "1533122062000",
+			"dl": "1531072740000",
+			"cs": "prime",
+			"tn": "news",
+			"dm": "t",
+			"imageid": "68273305"
+		},{
 			"hl": "Headline above the image and no synopsis",
 			"id": "67791426",
 			"upd": "1533122062000",
