@@ -107,7 +107,17 @@
 			"dm": "t",
 			"imageid": "67791483134",
 			"wu": "https://prod.cricplay.com/"
-		}, {
+		},{
+			"hl": "Test article with headline above image",
+			"id": "68272059",
+			"upd": "1533122062000",
+			"lpt": "1533122062000",
+			"dl": "1531072740000",
+			"cs": "prime",
+			"tn": "news",
+			"dm": "t",
+			"imageid": "68272059"
+		},  {
 			"hl": "Headline above the image and no synopsis",
 			"id": "67791426",
 			"upd": "1533122062000",
