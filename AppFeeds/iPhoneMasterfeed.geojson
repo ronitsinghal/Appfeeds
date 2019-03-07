@@ -242,7 +242,7 @@
 		"plus_subscription_expired_CTA":"Renew subscription",
 		"plus_free_trial_expired_CTA":"Subscribe now",
 		"plus_start_free_trial_CTA":"Start free trial",
-		"plus_alread_member_text":"Alread a member? <a href='' dlhref='login'>Sign in now</a>",
+		"plus_alread_member_text":"Alread a member? <a href='login' dlhref='login'>Sign in now</a>",
 		
 		
 		"consent_intro_text": "We have updated our <b><a href='https://www.indiatimes.com/privacypolicy/'> Privacy Policy </a></b> for our users who are in the European Union. Please read the updated policies carefully. While we continue to provide access to our App and services to our users in the European Union, with effect from May 25, 2018 we will not be targeting or collecting any personal information about them. Our App will only collect, store or process limited user information which is necessary for providing our users access to the App.",
