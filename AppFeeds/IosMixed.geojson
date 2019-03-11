@@ -88,24 +88,22 @@
 		}
 	],
 	"items": [{
-			"hl": "Cric Play - HTML",
-			"id": "6779148313",
+			"hl": "Cric Play SF View IOS 1",
+			"id": "68353688",
 			"upd": "1533122062000",
 			"lpt": "1533122062000",
 			"dl": "1531072740000",
-			"tn": "html",
-			"dm": "t",
-			"imageid": "6779148312",
+			"tn": "sfview",
+			"imageid": "68353688",
 			"wu": "https://prod.cricplay.com/"
 		}, {
-			"hl": "Cric Play - HTMLview",
-			"id": "67791483134",
+			"hl": "Cric Play SF View IOS 2",
+			"id": "68353708",
 			"upd": "1533122062000",
 			"lpt": "1533122062000",
 			"dl": "1531072740000",
-			"tn": "htmlview",
-			"dm": "t",
-			"imageid": "67791483134",
+			"tn": "sfview",
+			"imageid": "68353708",
 			"wu": "https://prod.cricplay.com/"
 		},{
 			"hl": "Test article with headline above image",
