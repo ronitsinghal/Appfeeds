@@ -242,8 +242,9 @@
 		"plus_subscription_expired_CTA":"Renew subscription",
 		"plus_free_trial_expired_CTA":"Subscribe now",
 		"plus_start_free_trial_CTA":"Start free trial",
-		"plus_alread_member_text":"Alread a member? <a href='login' dlhref='login'>Sign in now</a>",
-		
+		"plus_alread_member_text":"Already a member? <a href=\"login\" dlhref=\"login\">Sign in now</a>",
+		"plus_welcome_popuptext":"Did you know that being a subscriber to Times Prime also gets you ad-free experience on all of The Times of India website and apps, in addition to access to TOI+ and other Times Prime Partners.",
+		"plus_welcome_popup_cta_text":"Know about Times Prime’s benefits",
 		"plus_image_login_hook" :"https://timesofindia.indiatimes.com/photo/68354051.cms",
 		"plus_image_user_profile":"https://timesofindia.indiatimes.com/photo/68354730.cms",
 		"plus_image_featured_story_":"https://timesofindia.indiatimes.com/photo/68354761.cms",
@@ -251,6 +252,9 @@
 		"plus_image_bookmark":"https://timesofindia.indiatimes.com/photo/68354806.cms",		
 		"plus_image_navigation_white":"https://timesofindia.indiatimes.com/photo/68354851.cms",
 		"plus_image_navigation_black":"https://timesofindia.indiatimes.com/photo/68354904.cms",
+		"plus_image_welcome_to_toi":"https://timesofindia.indiatimes.com/photo/68376826.cms",
+		"plus_image_welcome_popup_boy":"https://timesofindia.indiatimes.com/photo/68376839.cms",
+		"plus_image_welcome_popup_brands":"https://timesofindia.indiatimes.com/photo/68376875.cms",
 
 
 		"consent_intro_text": "We have updated our <b><a href='https://www.indiatimes.com/privacypolicy/'> Privacy Policy </a></b> for our users who are in the European Union. Please read the updated policies carefully. While we continue to provide access to our App and services to our users in the European Union, with effect from May 25, 2018 we will not be targeting or collecting any personal information about them. Our App will only collect, store or process limited user information which is necessary for providing our users access to the App.",
