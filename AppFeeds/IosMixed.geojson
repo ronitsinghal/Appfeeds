@@ -96,7 +96,7 @@
 			"tn": "sfview",
 			"type":"featured",
 			"imageid": "68353688",
-			"wu": "https://prod.cricplay.com/"
+			"wu": "https://partner.cricplay.com?source=TOI&lang=en"
 		}, {
 			"hl": "Cric Play SF View IOS 2",
 			"id": "68353708",
@@ -106,7 +106,7 @@
 			"tn": "sfview",
 			"type":"featured",
 			"imageid": "68353708",
-			"wu": "https://prod.cricplay.com/"
+			"wu": "https://partner.cricplay.com?source=TOI&lang=en"
 		},{
 			"hl": "Cric Play Android 1",
 			"id": "68353688",
@@ -116,7 +116,7 @@
 			"tn": "htmlview",
 			"type":"featured",
 			"imageid": "68353688",
-			"wu": "https://prod.cricplay.com/"
+			"wu": "https://partner.cricplay.com?source=TOI&lang=en"
 		}, {
 			"hl": "Cric Play Android 2",
 			"id": "68353708",
@@ -126,7 +126,7 @@
 			"tn": "htmlview",
 			"type":"featured",
 			"imageid": "68353708",
-			"wu": "https://prod.cricplay.com/"
+			"wu": "https://partner.cricplay.com?source=TOI&lang=en"
 		},{
 			"hl": "Test article with headline above image",
 			"id": "68272059",
