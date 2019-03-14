@@ -9,7 +9,7 @@
 	"ads": {
 		"header": "/7176/TOI_App_Test/TOI_APP_TEST_FBM_ATF",
 		"footer": "/7176/TOI_App_Test/TOI_APP_TEST_FBM_BTF",
-		"header_size": "100",
+		"header_size": ["100"],
 		"ctnheader": "207018",
 		"ctnfooter": "207018",
 		"securl": "http://m.timesofindia.com/"
