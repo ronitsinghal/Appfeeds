@@ -6,87 +6,14 @@
 		"tp": "1",
 		"cp": "1"
 	},
-	"sectionitems": [{
-			"name": "Featured",
-			"defaulturl": "https://timesofindia.indiatimes.com/feeds/testnewslistingfeed/feedtype-sjson,msid-56330004,tag-alrt,uid-StateElec2017-01.cms?platform=iphone&ipver=510&adreqfrm=sec",
-			"tn": "mixed",
-			"uid": "Featured-01",
-			"ct": "10",
-			"secid": "56330004"
-		},
-		{
-			"name": "sf - Results",
-			"defaulturl": "https://m.timesofindia.com/elections/results",
-			"tn": "sfview",
-			"uid": "ElectionResults-01",
-			"ct": "10",
-			"secid": "63303839"
-		},
-		{
-			"name": "Madhya Pradesh",
-			"defaulturl": "https://raw.githubusercontent.com/ronitsinghal/Appfeeds/master/L2-sfview-test",
-			"tn": "mixed",
-			"uid": "MPElection-01",
-			"ct": "10",
-			"secid": "63303796"
-		},
-		{
-			"name": "Rajasthan",
-			"defaulturl": "https://timesofindia.indiatimes.com/feeds/testnewslistingfeed/feedtype-sjson,msid-63303809,tag-alrt,uid-StateElec2017-01,category-RAJElection-01.cms?platform=iphone&ipver=510&adreqfrm=sec",
-			"tn": "mixed",
-			"uid": "RAJElection-01",
-			"ct": "10",
-			"secid": "63303809"
-		},
-		{
-			"name": "Telangana",
-			"defaulturl": "https://timesofindia.indiatimes.com/feeds/testnewslistingfeed/feedtype-sjson,msid-63303839,tag-alrt,uid-StateElec2017-01,category-TELElection-01.cms?platform=iphone&ipver=510&adreqfrm=sec",
-			"tn": "mixed",
-			"uid": "TLGElection-01",
-			"ct": "10",
-			"secid": "63303839"
-		},
-		{
-			"name": "Chhattisgarh ",
-			"defaulturl": "https://timesofindia.indiatimes.com/feeds/testnewslistingfeed/feedtype-sjson,msid-63303813,tag-alrt,uid-StateElec2017-01,category-CHHElection-01.cms?platform=iphone&ipver=510&adreqfrm=sec",
-			"tn": "mixed",
-			"uid": "CHTGElection-01",
-			"ct": "10",
-			"secid": "63303813"
-		},
-		{
-			"name": "Mizoram",
-			"defaulturl": "https://timesofindia.indiatimes.com/feeds/testnewslistingfeed/feedtype-sjson,msid-63303817,tag-alrt,uid-StateElec2017-01,category-MIZElection-01.cms?platform=iphone&ipver=510&adreqfrm=sec",
-			"tn": "mixed",
-			"uid": "MIZElection-01",
-			"ct": "10",
-			"secid": "63303817"
-		},
-		{
-			"name": "Election With Times",
-			"defaulturl": "https://timesofindia.indiatimes.com/feeds/testnewslistingfeed/feedtype-sjson,msid-66618282,tag-vdo,uid-StateElec2017-01,category-EWTVideos-01.cms?platform=iphone&ipver=510&adreqfrm=sec",
-			"tn": "videolist",
-			"uid": "ElectionWithTimesVideo-01",
-			"ct": "10",
-			"secid": "66618282"
-		},
-		{
-			"name": "sf - Exit Polls",
-			"defaulturl": "https://m.timesofindia.com/elections/exit-polls",
-			"tn": "sfview",
-			"uid": "ElectionExitPolls-01",
-			"ct": "10",
-			"secid": "63303839"
-		},
-		{
-			"name": "Videos",
-			"defaulturl": "https://timesofindia.indiatimes.com/feeds/testnewslistingfeed/feedtype-sjson,msid-56330443,tag-vdo,uid-StateElec2017-01.cms?platform=iphone&ipver=510&adreqfrm=sec",
-			"tn": "videolist",
-			"uid": "StateElecVideo-01",
-			"ct": "10",
-			"secid": "56330443"
-		}
-	],
+	"ads": {
+		"header": "/7176/TOI_App_Test/TOI_APP_TEST_FBM_ATF",
+		"footer": "/7176/TOI_App_Test/TOI_APP_TEST_FBM_BTF",
+		"header_size": "100",
+		"ctnheader": "207018",
+		"ctnfooter": "207018",
+		"securl": "http://m.timesofindia.com/"
+	},
 	"items": [{
 			"hl": "Cric Play SF View IOS 1",
 			"id": "68353688",
@@ -94,45 +21,45 @@
 			"lpt": "1533122062000",
 			"dl": "1531072740000",
 			"tn": "sfview",
-			"type":"featured",
+			"type": "featured",
 			"imageid": "68353688",
 			"wu": "https://partner.cricplay.com?source=TOI&lang=en"
-		},{
+		}, {
 			"hl": "Disclaimer : with WU",
-			"syn":"The Times Of India brings you interesting, racy, spicy chatter from Leutyens' Delhi, state capitals and campaign trails. The reports are based on hearsay. We do not vouch for their authenticity. ",
+			"syn": "The Times Of India brings you interesting, racy, spicy chatter from Leutyens' Delhi, state capitals and campaign trails. The reports are based on hearsay. We do not vouch for their authenticity. ",
 			"id": "68353688",
 			"upd": "1533122062000",
 			"lpt": "1533122062000",
 			"dl": "1531072740000",
 			"tn": "disclaimer",
 			"wu": "https://timesofindia.indiatimes.com/india/too-many-kids-per-class-cbse-schools-may-face-action/articleshow/66152208.cms"
-		}, 
-		  {
+		},
+		{
 			"hl": "Disclaimer : Without WU",
-			"syn":"The Times Of India brings you interesting, racy, spicy chatter from Leutyens' Delhi, state capitals and campaign trails. The reports are based on hearsay. We do not vouch for their authenticity. ",
+			"syn": "The Times Of India brings you interesting, racy, spicy chatter from Leutyens' Delhi, state capitals and campaign trails. The reports are based on hearsay. We do not vouch for their authenticity. ",
 			"id": "68353688",
 			"upd": "1533122062000",
 			"lpt": "1533122062000",
 			"dl": "1531072740000",
 			"tn": "disclaimer-closed"
-		},{
+		}, {
 			"hl": "Cric Play SF View IOS 2",
 			"id": "68353708",
 			"upd": "1533122062000",
 			"lpt": "1533122062000",
 			"dl": "1531072740000",
 			"tn": "sfview",
-			"type":"featured",
+			"type": "featured",
 			"imageid": "68353708",
 			"wu": "https://partner.cricplay.com?source=TOI&lang=en"
-		},{
+		}, {
 			"hl": "Cric Play Android 1",
 			"id": "68353688",
 			"upd": "1533122062000",
 			"lpt": "1533122062000",
 			"dl": "1531072740000",
 			"tn": "htmlview",
-			"type":"featured",
+			"type": "featured",
 			"imageid": "68353688",
 			"wu": "https://partner.cricplay.com?source=TOI&lang=en"
 		}, {
@@ -142,10 +69,10 @@
 			"lpt": "1533122062000",
 			"dl": "1531072740000",
 			"tn": "htmlview",
-			"type":"featured",
+			"type": "featured",
 			"imageid": "68353708",
 			"wu": "https://partner.cricplay.com?source=TOI&lang=en"
-		},{
+		}, {
 			"hl": "Test article with headline above image",
 			"id": "68272059",
 			"upd": "1533122062000",
@@ -165,7 +92,7 @@
 			"tn": "news",
 			"dm": "t",
 			"imageid": "68273203"
-		},{
+		}, {
 			"hl": " Test article with headline on top of image - image caption above image",
 			"id": "68273230",
 			"upd": "1533122062000",
@@ -175,7 +102,7 @@
 			"tn": "news",
 			"dm": "t",
 			"imageid": "68273305"
-		},{
+		}, {
 			"hl": "Headline above the image and no synopsis",
 			"id": "67791426",
 			"upd": "1533122062000",
