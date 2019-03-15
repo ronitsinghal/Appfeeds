@@ -15,7 +15,7 @@
 		"securl": "http://m.timesofindia.com/"
 	},
 	"items": [{
-		"name":"Elections 2019",
+			"name":"Elections 2019",
 			"tn": "mixedslider",
 			"pitems": [{
 					"upd": "1462520700000",
