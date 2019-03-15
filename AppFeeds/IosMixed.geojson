@@ -15,35 +15,32 @@
 		"securl": "http://m.timesofindia.com/"
 	},
 	"items": [{
+		"name":"Elections 2019",
 			"tn": "mixedslider",
 			"pitems": [{
 					"upd": "1462520700000",
 					"dl": "1462520160000",
 					"hl": "Schedule",
-					"imageid": "52142821&pl=10602",
-					"id": "52142819",
+					"imageid": "68426312",
+					"id": "68426312",
 					"dm": "t",
 					"tn": "htmlview",
 					"wu": "http://m.timesofindia.com/elections/lok-sabha-election-schedule"
 				},
 				{
-					"upd": "1453896420000",
-					"dl": "1453895940000",
 					"hl": "Modi Meter",
-					"imageid": "50743325&pl=110605",
-					"id": "50743264",
+					"imageid": "68426277",
+					"id": "68426277",
 					"dm": "t",
 					"tn": "htmlview",
 					"wu": "https://m.timesofindia.com/elections/modi-meter"
 				},
 				{
-					"upd": "1446514200000",
-					"dl": "1446514020000",
 					"hl": "Possibilities",
-					"imageid": "49638216&pl=65822",
-					"id": "49638211",
+					"imageid": "68395290",
+					"id": "68395290",
 					"dm": "t",
-					"tn": "sfview",
+					"tn": "htmlview",
 					"wu": "https://m.timesofindia.com/elections/news/possibilitics"
 				}
 			]
