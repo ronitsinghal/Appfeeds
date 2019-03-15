@@ -15,7 +15,7 @@
 		"securl": "http://m.timesofindia.com/"
 	},
 	"items": [{
-		"tn": "mixedslider",
+			"tn": "mixedslider",
 			"pitems": [{
 					"upd": "1462520700000",
 					"dl": "1462520160000",
