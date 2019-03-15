@@ -229,7 +229,7 @@
 		"plus_subscription_ended_on": "Your subscription ended on <date>",
 		"plus_subscription_active_summary": "Your are now a <a href=\"\" dlhref=\"kuch bhi\">Times Prime</a> member.\nEnjoy your free access to <img src=\"https://timesofindia.indiatimes.com/photo/68287643.cms\" id=\"68287643\" ></>",
 		"plus_subscription_expired_summary": "Subscribe to Times Prime for a year and continue getting benifits of <img src=\"https://timesofindia.indiatimes.com/photo/68287643.cms\" id=\"68287643\" ></>",
-		"plus_start_free_trial_summary": "Start your 1 month free trail for <a href=\"\" dlhref=\"kuch bhi\">Times Prime</a> to continue reading. No credit card requried",
+		"plus_start_free_trial_summary": "Start your 1 month free trail for <a href=\"kuch bhi\" dlhref=\"kuch bhi\">Times Prime</a> to continue reading. No credit card requried",
 		"plus_start_free_trial_summary_video": "Start your 1 month free trail for <a href=\"\" dlhref=\"\">Times Prime</a> to watch this video. No credit card requried",
 		"plus_start_free_trial_expired_summary": "Subscribe to Times Prime for a year, and get access to <img src=\"https://timesofindia.indiatimes.com/photo/68287643.cms\" id=\"68287643\" ></>",
 		"plus_benifit_adfree_text": "Ad free rich experience",
