@@ -15,44 +15,6 @@
 		"securl": "http://m.timesofindia.com/"
 	},
 	"items": [{
-			"tn": "mixedslider",
-			"pitems": [{
-					"upd": "1462520700000",
-					"dl": "1462520160000",
-					"hl": "Schedule",
-					"imageid": "68427492",
-					"id": "68427492",
-					"dm": "t",
-					"tn": "htmlview",
-					"wu": "http://m.timesofindia.com/elections/lok-sabha-election-schedule"
-				},{
-					"hl": "Modi Meter",
-					"imageid": "68427469",
-					"id": "68427469",
-					"dm": "t",
-					"tn": "htmlview",
-					"wu": "https://m.timesofindia.com/elections/modi-meter"
-				} ,{
-					"hl": "Possibilities",
-					"imageid": "68427432",
-					"id": "68427432",
-					"dm": "t",
-					"tn": "htmlview",
-					"wu": "https://m.timesofindia.com/elections/news/possibilitics"
-				}
-				
-			]
-		}, {
-			"hl": "Cric Play SF View IOS 1",
-			"id": "68353688",
-			"upd": "1533122062000",
-			"lpt": "1533122062000",
-			"dl": "1531072740000",
-			"tn": "sfview",
-			"type": "featured",
-			"imageid": "68353688",
-			"wu": "https://partner.cricplay.com?source=TOI&lang=en"
-		}, {
 			"hl": "Disclaimer : with WU",
 			"syn": "The Times Of India brings you interesting, racy, spicy chatter from Leutyens' Delhi, state capitals and campaign trails. The reports are based on hearsay. We do not vouch for their authenticity. ",
 			"id": "68353688",
@@ -61,6 +23,23 @@
 			"dl": "1531072740000",
 			"tn": "disclaimer",
 			"wu": "https://timesofindia.indiatimes.com/india/too-many-kids-per-class-cbse-schools-may-face-action/articleshow/66152208.cms"
+		}, {
+			"id": "54780408",
+			"hl": "Article with inline slideshow and youtube",
+			"dl": "1459826640005",
+			"upd": "1459845660006",
+			"imageid": "54825646",
+			"tn": "news",
+			"dm": "t"
+		},
+		{
+			"id": "54738253",
+			"hl": "Article with poll, quote and table",
+			"dl": "1459826640005",
+			"upd": "1459845660006",
+			"imageid": "54823432",
+			"tn": "news",
+			"dm": "t"
 		},
 		{
 			"hl": "Disclaimer : Without WU",
@@ -70,36 +49,6 @@
 			"lpt": "1533122062000",
 			"dl": "1531072740000",
 			"tn": "disclaimer-closed"
-		}, {
-			"hl": "Cric Play SF View IOS 2",
-			"id": "68353708",
-			"upd": "1533122062000",
-			"lpt": "1533122062000",
-			"dl": "1531072740000",
-			"tn": "sfview",
-			"type": "featured",
-			"imageid": "68353708",
-			"wu": "https://partner.cricplay.com?source=TOI&lang=en"
-		}, {
-			"hl": "Cric Play Android 1",
-			"id": "68353688",
-			"upd": "1533122062000",
-			"lpt": "1533122062000",
-			"dl": "1531072740000",
-			"tn": "htmlview",
-			"type": "featured",
-			"imageid": "68353688",
-			"wu": "https://partner.cricplay.com?source=TOI&lang=en"
-		}, {
-			"hl": "Cric Play Android 2",
-			"id": "68353708",
-			"upd": "1533122062000",
-			"lpt": "1533122062000",
-			"dl": "1531072740000",
-			"tn": "htmlview",
-			"type": "featured",
-			"imageid": "68353708",
-			"wu": "https://partner.cricplay.com?source=TOI&lang=en"
 		}, {
 			"hl": "Test article with headline above image",
 			"id": "68272059",
