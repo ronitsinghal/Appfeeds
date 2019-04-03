@@ -15,6 +15,75 @@
 		"securl": "http://m.timesofindia.com/"
 	},
 	"items": [{
+			"hl": "Election 2019",
+			"imageid": "68668272",
+			"id": "68664895",
+			"tn": "mixedlist",
+			"cap": "countdown to voting: phase 1",
+			"cta_text": "click for full coverage",
+			"type": "countdown",
+			"end_text": "Voting inprocess : Make sure to cast your vote",
+			"defaulturl": "https://timesofindia.indiatimes.com/feeds/newslistingfeedmc/feedtype-sjson,msid-57119951,tag-alrt,uid-Sport-01,category-IPL2019-01.cms?platform=iphone&ipver=526&adreqfrm=sec",
+			"end_time": "1556500310000"
+		},
+		{
+			"hl": "Election 2019",
+			"imageid": "68668272",
+			"id": "68664897",
+			"tn": "mixedlist",
+			"defaulturl": "https://timesofindia.indiatimes.com/feeds/newslistingfeedmc/feedtype-sjson,msid-57119951,tag-alrt,uid-Sport-01,category-IPL2019-01.cms?platform=iphone&ipver=526&adreqfrm=sec",
+		"type": "bigBanner"
+		},
+		{
+			"hl": "Election 2019",
+			"imageid": "68668272",
+			"id": "68664896",
+			"tn": "mixedlist",
+			"defaulturl": "https://timesofindia.indiatimes.com/feeds/newslistingfeedmc/feedtype-sjson,msid-57119951,tag-alrt,uid-Sport-01,category-IPL2019-01.cms?platform=iphone&ipver=526&adreqfrm=sec",
+			"type": "banner"
+		},
+		{
+			"hl": "Election 2019",
+			"imageid": "68668272",
+			"id": "68664897",
+			"tn": "mixedlist",
+			"defaulturl": "https://timesofindia.indiatimes.com/feeds/newslistingfeedmc/feedtype-sjson,msid-57119951,tag-alrt,uid-Sport-01,category-IPL2019-01.cms?platform=iphone&ipver=526&adreqfrm=sec",
+			"type": "smallBanner"
+		},
+		{
+			"upd": "Apr 1, 2019, 10.18AM IST",
+			"lpt": "1554094109094",
+			"dl": "Apr 1, 2019, 05.53AM IST",
+			"hl": "Modi fear made Congress leaders fear god: Yogi",
+			"imageid": "68662804&imgsize=139970&v=123",
+			"id": "68662803",
+			"dm": "t",
+			"tn": "news",
+			"kws": "Yogi Adityanath,SP-BSP alliance,Ram Mandir,Rahul Gandhi,Priyanka Gandhi,masood azhar,dalit,Balakot strikes,akhilesh yadav"
+		},
+		{
+			"upd": "Apr 1, 2019, 01.30PM IST",
+			"lpt": "1554105660769",
+			"dl": "Apr 1, 2019, 09.44AM IST",
+			"hl": "Isro’s PSLV-C45 places Emisat, 28 foreign satellites in orbits",
+			"imageid": "68665101&imgsize=134599&v=123",
+			"id": "68664357",
+			"tn": "news",
+			"dm": "t",
+			"kws": "sriharikota,pslv-c45,PSLV C45 launch,PSLV,isro,intelligence satellite,Indian Space Research Organisation,emisat,DRDO",
+			"hasvideo": "yes"
+		},
+		{
+			"upd": "Apr 1, 2019, 01.31PM IST",
+			"lpt": "1554106360519",
+			"dl": "Apr 1, 2019, 01.31PM IST",
+			"hl": "Congress labelled peace-loving Hindus as terrorists, PM Modi says",
+			"imageid": "68668109&imgsize=122781&v=123",
+			"id": "68668052",
+			"dm": "t",
+			"tn": "news",
+			"kws": "Wayanad,PM Modi,Lok Sabha elections,Congress,BJP-Shiv Sena alliance"
+		}, {
 			"hl": "Disclaimer : with WU",
 			"syn": "The Times Of India brings you interesting, racy, spicy chatter from Leutyens' Delhi, state capitals and campaign trails. The reports are based on hearsay. We do not vouch for their authenticity. ",
 			"id": "68353688",
@@ -50,17 +119,17 @@
 			"dm": "t",
 			"imageid": "64648795",
 			"wu": "https://m.timesofindia.com/articleshow/64648795.cms"
-		},{
-"upd": "1553522340000",
-"lpt": "1553522357044",
-"dl": "1553401380000",
-"hl": "Live: Bluff announcement, says Jaitley on Rahul's minimum income promise",
-"imageid": "68544284&imgsize=77542&v=123",
-"id": "68544284",
-"tn": "html",
-"type": "banner",
-"wu": "https://timesofindia.indiatimes.com/india/live-updates-lok-sabha-election-news-2019-march-25-2019/liveblog/68544284.cms"
-},
+		}, {
+			"upd": "1553522340000",
+			"lpt": "1553522357044",
+			"dl": "1553401380000",
+			"hl": "Live: Bluff announcement, says Jaitley on Rahul's minimum income promise",
+			"imageid": "68544284&imgsize=77542&v=123",
+			"id": "68544284",
+			"tn": "html",
+			"type": "banner",
+			"wu": "https://timesofindia.indiatimes.com/india/live-updates-lok-sabha-election-news-2019-march-25-2019/liveblog/68544284.cms"
+		},
 		{
 			"hl": "Disclaimer : Without WU",
 			"syn": "The Times Of India brings you interesting, racy, spicy chatter from Leutyens' Delhi, state capitals and campaign trails. The reports are based on hearsay. We do not vouch for their authenticity. ",
