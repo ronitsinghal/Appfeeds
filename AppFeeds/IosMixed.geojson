@@ -15,7 +15,7 @@
 		"securl": "http://m.timesofindia.com/"
 	},
 	"items": [{
-			"hl": "Election 2019",
+			"hl": "Countdown Election 2019",
 			"imageid": "68668272",
 			"id": "68664895",
 			"tn": "mixedlist",
@@ -27,15 +27,15 @@
 			"end_time": "1556500310000"
 		},
 		{
-			"hl": "Election 2019",
+			"hl": "Big banner Election 2019",
 			"imageid": "68668272",
 			"id": "68664897",
 			"tn": "mixedlist",
 			"defaulturl": "https://timesofindia.indiatimes.com/feeds/newslistingfeedmc/feedtype-sjson,msid-57119951,tag-alrt,uid-Sport-01,category-IPL2019-01.cms?platform=iphone&ipver=526&adreqfrm=sec",
-		"type": "bigBanner"
+			"type": "bigBanner"
 		},
 		{
-			"hl": "Election 2019",
+			"hl": "Banner Election 2019",
 			"imageid": "68668272",
 			"id": "68664896",
 			"tn": "mixedlist",
@@ -43,11 +43,69 @@
 			"type": "banner"
 		},
 		{
-			"hl": "Election 2019",
+			"hl": "Small banner Election 2019",
 			"imageid": "68668272",
 			"id": "68664897",
 			"tn": "mixedlist",
 			"defaulturl": "https://timesofindia.indiatimes.com/feeds/newslistingfeedmc/feedtype-sjson,msid-57119951,tag-alrt,uid-Sport-01,category-IPL2019-01.cms?platform=iphone&ipver=526&adreqfrm=sec",
+			"type": "smallBanner"
+		},
+		{
+			"id": "68698015",
+			"hl": "Is Godse a terrorist or not, asks AIMIM chief Owaisi",
+			"du": "01:35",
+			"imageid": "68698015&imgsize=274844&v=123",
+			"dm": "t",
+			"tn": "video",
+			"wu": "http://timesofindia.indiatimes.com/videos/news/is-godse-a-terrorist-or-not-asks-aimim-chief-owaisi/videoshow/68698015.cms?platform=android",
+			"upd": "1554262080000",
+			"type": "bigBanner"
+		},
+		{
+			"upd": "1554277320000",
+			"lpt": "1554277358856",
+			"dl": "1554277320000",
+			"hl": "The only village in India where everyone speaks Sanskrit",
+			"imageid": "68701603&imgsize=302761&v=123",
+			"id": "65435194",
+			"dm": "t",
+			"tn": "news",
+			"type": "bigBanner",
+			"wu": "https://timesofindia.indiatimes.com/india/mattur-the-only-village-in-india-where-sanskrit-is-a-way-of-life/articleshow/65435194.cms"
+		}, {
+			"upd": "1554275040000",
+			"lpt": "1554275810332",
+			"dl": "1554272580000",
+			"hl": "Congress manifesto full of lies: PM Narendra Modi",
+			"imageid": "68700137&imgsize=180959&v=123",
+			"hasvideo": "yes",
+			"id": "68700136",
+			"dm": "t",
+			"tn": "news",
+			"type": "banner",
+			"wu": "https://timesofindia.indiatimes.com/elections/lok-sabha-elections-2019/congress-manifesto-full-of-lies-pm-narendra-modi/articleshow/68700136.cms",
+			"kws": "Rahul Gandhi,Prime Minister of India,Pasighat,Narendra Modi,lok sabha,Arunachal Pradesh"
+		},
+		{
+			"id": "68698015",
+			"hl": "Is Godse a terrorist or not, asks AIMIM chief Owaisi",
+			"du": "01:35",
+			"imageid": "68698015&imgsize=274844&v=123",
+			"dm": "t",
+			"tn": "video",
+			"wu": "http://timesofindia.indiatimes.com/videos/news/is-godse-a-terrorist-or-not-asks-aimim-chief-owaisi/videoshow/68698015.cms?platform=android",
+			"upd": "1554262080000",
+			"type": "banner"
+		},
+		{
+			"id": "68698015",
+			"hl": "Is Godse a terrorist or not, asks AIMIM chief Owaisi",
+			"du": "01:35",
+			"imageid": "68698015&imgsize=274844&v=123",
+			"dm": "t",
+			"tn": "video",
+			"wu": "http://timesofindia.indiatimes.com/videos/news/is-godse-a-terrorist-or-not-asks-aimim-chief-owaisi/videoshow/68698015.cms?platform=android",
+			"upd": "1554262080000",
 			"type": "smallBanner"
 		},
 		{
