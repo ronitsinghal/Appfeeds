@@ -15,7 +15,7 @@
 		"securl": "http://m.timesofindia.com/"
 	},
 	"items": [{
-			"defaulturl": "http://timesofindia.indiatimes.com/feeds/newslistingfeed/tag-mvdo,feedtype-sjson,t-f,msid-4762524.cms?platform=android&andver=510",
+			"defaulturl": "https://raw.githubusercontent.com/ronitsinghal/Appfeeds/master/AppFeeds/video-list",
 			"name": "Top Videos",
 			"secid": "4762524",
 			"tn": "videoslider",
