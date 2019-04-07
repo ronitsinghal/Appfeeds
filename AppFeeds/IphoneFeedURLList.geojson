@@ -16,6 +16,14 @@
 			"ct": "5",
 			"secid": ""
 		},
+		 {
+			"name": "prime-list-live",
+			"defaulturl": "https://raw.githubusercontent.com/ronitsinghal/Appfeeds/master/AppFeeds/prime-list-live",
+			"tn": "mixed",
+			"uid": "prime-list-live-01",
+			"ct": "10",
+			"secid": "58110651"
+		},
 		{
 			"name": "Local",
 			"defaulturl": "https://timesofindia.indiatimes.com/feeds/testnewslistingfeedmc/feedtype-sjson,msid--2128932452,tag-alrt,uid-City-01,category-City-01,t-f.cms?platform=iphone&ipver=510&adreqfrm=sec",
@@ -26,6 +34,14 @@
 			"ct": "10",
 			"secid": "-2128932452",
 			"geo": "yes"
+		},
+		{
+			"name": "Mixed",
+			"defaulturl": "https://timesofindia.indiatimes.com/feeds/ntoitestfeed/feedtype-sjson,uid-Kichdi-01.cms?platform=iphone&ipver=510&adreqfrm=sec",
+			"tn": "mixed",
+			"uid": "Kichdi-01",
+			"ct": "7",
+			"secid": ""
 		},
 		{
 			"name": "BRIEFS",
@@ -74,22 +90,6 @@
 			"uid": "Latest-01",
 			"ct": "7",
 			"secid": "1081479906"
-		},
-		{
-			"name": "Mixed",
-			"defaulturl": "https://timesofindia.indiatimes.com/feeds/ntoitestfeed/feedtype-sjson,uid-Kichdi-01.cms?platform=iphone&ipver=510&adreqfrm=sec",
-			"tn": "mixed",
-			"uid": "Kichdi-01",
-			"ct": "7",
-			"secid": ""
-		},
-		{
-			"name": "Tech",
-			"defaulturl": "https://www.gadgetsnow.com/feeds/testnewslistingfeed/feedtype-sjson,msid-58110651,tag-hierarchy,uid-Gadgetsnow-01,category-TechTab-01.cms?platform=iphone&ipver=510&adreqfrm=sec",
-			"tn": "mixed",
-			"uid": "TopGadgets-01",
-			"ct": "10",
-			"secid": "58110651"
 		}
 	],
 	"items": [{
