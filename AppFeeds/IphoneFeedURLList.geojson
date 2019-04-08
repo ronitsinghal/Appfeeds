@@ -26,7 +26,7 @@
 		},
 		 {
 			"name": "Featured Mixed",
-			"defaulturl": "https://raw.githubusercontent.com/ronitsinghal/Appfeeds/master/AppFeeds/prime-list-live",
+			"defaulturl": "https://timesofindia.indiatimes.com/feeds/newslistingfeed/feedtype-sjson,msid-56330004,tag-alrt,uid-StateElec2017-01,category-StateElec2017-01.cms?platform=iphone&ipver=510&adreqfrm=sec",
 			"tn": "featuredmixed",
 			 "fimageid":"68426992",
 			 "syn":"The key election stories you must read today to make sense of Lok Sabha 2019",
@@ -111,6 +111,15 @@
 			"nbrimageid": "66827052",
 			"ct": "10",
 			"secid": "7327198"
+		},{
+			"name": "Featured Mixed",
+			"defaulturl": "https://timesofindia.indiatimes.com/feeds/newslistingfeed/feedtype-sjson,msid-56330004,tag-alrt,uid-StateElec2017-01,category-StateElec2017-01.cms?platform=iphone&ipver=510&adreqfrm=sec",
+			"tn": "featuredmixed",
+			 "fimageid":"68426992",
+			 "syn":"The key election stories you must read today to make sense of Lok Sabha 2019",
+			"uid": "Featured-Mixed-01",
+			"ct": "10",
+			"secid": "58110651"
 		}, 
 		  {
 			"name": "IOS MIXED",
