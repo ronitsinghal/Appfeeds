@@ -126,6 +126,149 @@
 			}
 		},
 		{
+			"hl": "Lifestyle",
+			"id": "2886704",
+			"tn": "mixedwidget",
+			"mixedWidgetData": {
+				"defaulturl": "http://timesofindia.indiatimes.com/feeds/testnewslistingfeed/feedtype-sjson,msid-2886704,tag-alrt,uid-Entertainment-01.cms?adreqfrm=sec&platform=iphone&ipver=510",
+				"uid": "lifestyle-01",
+				"navType": "tabs",
+				"subSections": [{
+						"hl": "Featured",
+						"defaulturl": "https://timesofindia.indiatimes.com/feeds/newslistingfeedmc/feedtype-sjson,msid-2886704,tag-alrt,uid-LifeStyle-01,t-f.cms?platform=iphone&ipver=510&adreqfrm=sec",
+						"widgeturl": "https://timesofindia.indiatimes.com/feeds/newslistingfeedmc/feedtype-sjson,msid-2886704,tag-alrt,uid-LifeStyle-01,t-f.cms?platform=iphone&ipver=510&adreqfrm=sec",
+						"uid": "Featured-01"
+					},
+					{
+						"hl": "Relationships",
+						"defaulturl": "https://timesofindia.indiatimes.com/feeds/newslistingfeedmc/feedtype-sjson,msid-2886713,tag-alrt,uid-LifeStyle-01,category-LNSRelationships-01.cms?platform=iphone&ipver=510&adreqfrm=sec",
+						"widgeturl": "https://timesofindia.indiatimes.com/feeds/newslistingfeedmc/feedtype-sjson,msid-2886713,tag-alrt,uid-LifeStyle-01,category-LNSRelationships-01.cms?platform=iphone&ipver=510&adreqfrm=sec",
+						"uid": "Relationships-01"
+					},
+					{
+						"hl": "Health & Fitness",
+						"defaulturl": "https://timesofindia.indiatimes.com/feeds/newslistingfeedmc/feedtype-sjson,msid-2886714,tag-alrt,uid-LifeStyle-01,category-LNSHealthFitness-01.cms?platform=iphone&ipver=510&adreqfrm=sec",
+						"widgeturl": "https://timesofindia.indiatimes.com/feeds/newslistingfeedmc/feedtype-sjson,msid-2886714,tag-alrt,uid-LifeStyle-01,category-LNSHealthFitness-01.cms?platform=iphone&ipver=510&adreqfrm=sec",
+						"uid": "HealthFitness-01"
+					},
+					{
+						"hl": "Fashion",
+						"defaulturl": "https://timesofindia.indiatimes.com/feeds/newslistingfeedmc/feedtype-sjson,msid-2886715,tag-alrt,uid-LifeStyle-01,category-LNSFashion-01.cms?platform=iphone&ipver=510&adreqfrm=sec",
+						"widgeturl": "https://timesofindia.indiatimes.com/feeds/newslistingfeedmc/feedtype-sjson,msid-2886715,tag-alrt,uid-LifeStyle-01,category-LNSFashion-01.cms?platform=iphone&ipver=510&adreqfrm=sec",
+						"uid": "Fashion-01"
+					},
+					{
+						"hl": "Parenting",
+						"defaulturl": "https://timesofindia.indiatimes.com/feeds/newslistingfeedmc/feedtype-sjson,msid-65839708,tag-alrt,uid-LifeStyle-01,category-LNSParenting-01.cms?platform=iphone&ipver=510&adreqfrm=sec",
+						"uid": "Parenting-01"
+					},
+					{
+						"hl": "Beauty",
+						"defaulturl": "https://timesofindia.indiatimes.com/feeds/newslistingfeedmc/feedtype-sjson,msid-2886724,tag-alrtmixed,uid-LifeStyle-01.cms?platform=iphone&ipver=510&adreqfrm=sec",
+						"uid": "Beauty-01"
+					},
+					{
+						"hl": "Books",
+						"defaulturl": "https://timesofindia.indiatimes.com/feeds/newslistingfeedmc/feedtype-sjson,msid-48956926,tag-alrtdf,uid-LifeStyle-01,category-LNSBooks-01.cms?platform=iphone&ipver=510&adreqfrm=sec",
+						"widgeturl": "https://timesofindia.indiatimes.com/feeds/newslistingfeedmc/feedtype-sjson,msid-48956926,tag-alrtdf,uid-LifeStyle-01,category-LNSBooks-01.cms?platform=iphone&ipver=510&adreqfrm=sec",
+						"uid": "Books-01"
+					},
+					{
+						"hl": "Home & Garden",
+						"defaulturl": "https://timesofindia.indiatimes.com/feeds/newslistingfeedmc/feedtype-sjson,msid-5912641,tag-alrtmixed,uid-LifeStyle-01.cms?platform=iphone&ipver=510&adreqfrm=sec",
+						"uid": "HomeGarden-01"
+					},
+					{
+						"hl": "Food",
+						"defaulturl": "https://timesofindia.indiatimes.com/feeds/newslistingfeedmc/feedtype-sjson,msid-55471219,tag-alrtigpl,uid-LifeStyle-01,category-LNSFood-01.cms?platform=iphone&ipver=510&adreqfrm=sec",
+						"widgeturl": "https://timesofindia.indiatimes.com/feeds/newslistingfeedmc/feedtype-sjson,msid-55471219,tag-alrtigpl,uid-LifeStyle-01,category-LNSFood-01.cms?platform=iphone&ipver=510&adreqfrm=sec",
+						"uid": "Food-01"
+					},
+					{
+						"hl": "Travel",
+						"defaulturl": "https://timesofindia.indiatimes.com/travel",
+						"uid": "travel-01"
+					},
+					{
+						"hl": "Events",
+						"defaulturl": "https://timesofindia.indiatimes.com/feeds/newslistingfeedmc/feedtype-sjson,msid-59665595,tag-alrtmixed,uid-LifeStyle-01.cms?platform=iphone&ipver=510&adreqfrm=sec",
+						"uid": "LNSEvent-01"
+					},
+					{
+						"hl": "Spotlight",
+						"defaulturl": "https://timesofindia.indiatimes.com/feeds/newslistingfeedmc/feedtype-sjson,msid-4141042,tag-alrtmixed,uid-LifeStyle-01.cms?platform=iphone&ipver=510&adreqfrm=sec",
+						"uid": "People-01"
+					},
+					{
+						"hl": "Specials",
+						"defaulturl": "http://m.timesofindia.com/life-style/relationship/specials/lsspeciallist/6247311.cms",
+						"uid": "Specials-01"
+					}
+				],
+				"defaultItems": [{
+						"ag": "TNN",
+						"upd": "1555983000000",
+						"lpt": "1555935760249",
+						"dl": "1555983000000",
+						"hl": "How to make masala chai for weight loss",
+						"imageid": "68992655&pl=1437084",
+						"id": "68992508",
+						"dm": "t",
+						"tn": "news",
+						"wu": "https://timesofindia.indiatimes.com/life-style/health-fitness/weight-loss/weight-loss-how-to-make-indian-masala-chai-to-help-you-lose-weight/articleshow/68992508.cms",
+						"kws": "tea for weight loss,Indian masala chai,Green Tea For Weight Loss,Green Tea,chai quotes,Chai is love,Black tea for weight loss"
+					},
+					{
+						"upd": "1555997400000",
+						"lpt": "1555940559924",
+						"dl": "1555997400000",
+						"hl": "Things you must do to save a failing marriage",
+						"imageid": "68993864&pl=2038041",
+						"tn": "photostory",
+						"dm": "t",
+						"id": "68993692",
+						"wu": "https://timesofindia.indiatimes.com/life-style/relationships/love-sex/7-things-a-couple-can-do-to-save-their-marriage-before-calling-it-quits/photostory/68993692.cms"
+					},
+					{
+						"upd": "1555986600000",
+						"lpt": "1555933465213",
+						"dl": "1555986600000",
+						"hl": "7 amusing habits of possessive book lovers",
+						"imageid": "68991926&pl=44903",
+						"tn": "photostory",
+						"dm": "t",
+						"id": "66429986",
+						"wu": "https://timesofindia.indiatimes.com/life-style/books/photo-stories/7-amusing-habits-only-possessive-book-lovers-can-relate-to/the-clan-of-bibliophiles/photostory/66429986.cms?"
+					},
+					{
+						"upd": "1555918740000",
+						"lpt": "1555918761044",
+						"dl": "1555918260000",
+						"hl": "The secret behind Rekha's ageless beauty",
+						"imageid": "68987841&pl=1005852",
+						"tn": "photostory",
+						"dm": "t",
+						"id": "68987794",
+						"wu": "https://timesofindia.indiatimes.com/life-style/beauty/the-secret-behind-rekhas-ageless-beauty/photostory/68987794.cms",
+						"kws": "rekha skin,rekha old,rekha hot video,rekha hot photos,rekha beauty secret,rekha amitabh,Rekha,amitabh rekha"
+					},
+					{
+						"ag": "TNN",
+						"upd": "1555938060000",
+						"lpt": "1555938082900",
+						"dl": "1555935960000",
+						"hl": "Alia looks like a modern-day princess",
+						"imageid": "68992723&pl=573934",
+						"id": "68992675",
+						"dm": "t",
+						"tn": "news",
+						"wu": "https://timesofindia.indiatimes.com/life-style/fashion/celeb-style/alia-bhatt-looks-like-a-modern-day-princess-in-this-jumpsuit/articleshow/68992675.cms",
+						"kws": "ranbir kapoor,neetu singh,haute couture,Fashion news,alia bhatt"
+					}
+				]
+			}
+		},
+		{
 			"defaulturl": "https://raw.githubusercontent.com/ronitsinghal/Appfeeds/master/AppFeeds/video-list",
 			"name": "Top Videos",
 			"secid": "4762524",
