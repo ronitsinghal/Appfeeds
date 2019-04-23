@@ -17,10 +17,9 @@
 	"items": [{
 			"hl": "TV",
 			"id": "9191912",
-			"tn": "mixedwidget",
+			"tn": "mixedwidgetslider",
 			"mixedWidgetData": {
 				"defaulturl": "http://timesofindia.indiatimes.com/feeds/testnewslistingfeed/feedtype-sjson,msid-9191915,tag-alrt,uid-Entertainment-01.cms?adreqfrm=sec&platform=iphone&ipver=510",
-				"widgeturl": "http://timesofindia.indiatimes.com/feeds/testnewslistingfeed/feedtype-sjson,msid-9191915,tag-alrt,uid-Entertainment-01.cms?adreqfrm=sec&platform=iphone&ipver=510",
 				"uid": "TV-01",
 				"navType": "tabs",
 				"subSections": [{
@@ -45,7 +44,6 @@
 						"hl": "Telugu",
 						"defaulturl": "https://timesofindia.indiatimes.com/feeds/newslistingfeed/feedtype-sjson,msid-27136176,tag-alrtmixed,uid-TV-01.cms?platform=iphone&ipver=510&adreqfrm=sec",
 						"widgeturl": "https://timesofindia.indiatimes.com/feeds/newslistingfeed/feedtype-sjson,msid-27136176,tag-alrtmixed,uid-TV-01.cms?platform=iphone&ipver=510&adreqfrm=sec",
-
 						"uid": "Telugu-01"
 					},
 					{
@@ -75,6 +73,56 @@
 						"hl": "Gujarati",
 						"defaulturl": "https://timesofindia.indiatimes.com/feeds/newslistingfeed/feedtype-sjson,msid-31524606,tag-alrtmixed,uid-TV-01.cms?platform=iphone&ipver=510&adreqfrm=sec",
 						"uid": "Gujarati-01"
+					}
+				],
+				"defaultItems": [{
+						"upd": "1556024160000",
+						"lpt": "1556024245311",
+						"dl": "1556023260000",
+						"hl": "Here's what Ashnoor Kaur has to say about former Yeh Rishta Kya Kehlata Hai co-stars Hina Khan and Shivangi Joshi",
+						"imageid": "69010237&pl=178670&v=123",
+						"id": "69009973",
+						"dm": "t",
+						"tn": "news",
+						"wu": "https://timesofindia.indiatimes.com/tv/news/hindi/heres-what-ashnoor-kaur-has-to-say-about-former-yeh-rishta-kya-kehlata-hai-co-stars-hina-khan-and-shivangi-joshi/articleshow/69009973.cms"
+					},
+					{
+						"id": "322084",
+						"tn": "newslistdAd",
+						"pos": "1-2278290-2"
+					},
+					{
+						"upd": "1556018820000",
+						"lpt": "1556018875626",
+						"dl": "1556018820000",
+						"hl": "Erica Fernandes and reel mom-in-law Shubhaavi Choksey leave Kitchen Champion's Arjun Bijlani entertained",
+						"imageid": "69008866&pl=192592&v=123",
+						"id": "69008866",
+						"dm": "t",
+						"tn": "news",
+						"wu": "https://timesofindia.indiatimes.com/tv/news/hindi/erica-fernandes-and-reel-mom-in-law-shubhaavi-choksey-leave-kitchen-champions-arjun-bijlani-entertained/articleshow/69008866.cms"
+					},
+					{
+						"upd": "1556018880000",
+						"lpt": "1556018915489",
+						"dl": "1556018580000",
+						"hl": "Daler Mehndi styles Sapna Chaudhary for a new song; the Haryanvi dancer looks unrecognisable",
+						"imageid": "69008813&pl=355818&v=123",
+						"tn": "photostory",
+						"dm": "t",
+						"id": "68546528",
+						"wu": "https://timesofindia.indiatimes.com/tv/news/hindi/daler-mehendi-styles-sapna-chaudhary-for-a-new-song-the-haryanvi-dancer-looks-unrecognisable/photostory/68546528.cms"
+					},
+					{
+						"upd": "1556018220000",
+						"lpt": "1556018248782",
+						"dl": "1556018220000",
+						"hl": "Kumkum Bhagya's Sriti Jha is enjoying her vacation in Thailand; see pics",
+						"imageid": "69006156&pl=220481&v=123",
+						"id": "69006156",
+						"dm": "t",
+						"tn": "news",
+						"wu": "https://timesofindia.indiatimes.com/tv/news/hindi/kumkum-bhagyas-sriti-jha-is-enjoying-her-vacation-in-thailand-see-pics/articleshow/69006156.cms"
 					}
 				]
 			}
