@@ -15,6 +15,72 @@
 		"securl": "http://m.timesofindia.com/"
 	},
 	"items": [{
+			"hl": "TV",
+			"id": "9191912",
+			"tn": "mixedwidget",
+			"mixedWidgetData": {
+				"defaulturl": "http://timesofindia.indiatimes.com/feeds/testnewslistingfeed/feedtype-sjson,msid-9191915,tag-alrt,uid-Entertainment-01.cms?adreqfrm=sec&platform=iphone&ipver=510",
+				"widgeturl": "http://timesofindia.indiatimes.com/feeds/testnewslistingfeed/feedtype-sjson,msid-9191915,tag-alrt,uid-Entertainment-01.cms?adreqfrm=sec&platform=iphone&ipver=510",
+				"uid": "TV-01",
+				"navType": "tabs",
+				"subSections": [{
+						"hl": "Hindi",
+						"defaulturl": "https://timesofindia.indiatimes.com/feeds/newslistingfeed/feedtype-sjson,msid-2278290,tag-alrtmixed,uid-TV-01,t-f.cms?platform=iphone&ipver=510&adreqfrm=sec",
+						"widgeturl": "https://timesofindia.indiatimes.com/feeds/newslistingfeed/feedtype-sjson,msid-2278290,tag-alrtmixed,uid-TV-01,t-f.cms?platform=iphone&ipver=510&adreqfrm=sec",
+
+						"uid": "Hindi-01"
+					},
+					{
+						"hl": "English",
+						"defaulturl": "https://timesofindia.indiatimes.com/feeds/newslistingfeed/feedtype-sjson,msid-27136027,tag-alrtmixed,uid-TV-01.cms?platform=iphone&ipver=510&adreqfrm=sec",
+						"widgeturl": "https://timesofindia.indiatimes.com/feeds/newslistingfeed/feedtype-sjson,msid-27136027,tag-alrtmixed,uid-TV-01.cms?platform=iphone&ipver=510&adreqfrm=sec",
+						"uid": "English-01"
+					},
+					{
+						"hl": "Tamil",
+						"defaulturl": "https://timesofindia.indiatimes.com/feeds/newslistingfeed/feedtype-sjson,msid-27288929,tag-alrtmixed,uid-TV-01.cms?platform=iphone&ipver=510&adreqfrm=sec",
+						"widgeturl": "https://timesofindia.indiatimes.com/feeds/newslistingfeed/feedtype-sjson,msid-27288929,tag-alrtmixed,uid-TV-01.cms?platform=iphone&ipver=510&adreqfrm=sec",
+						"uid": "Tamil-01"
+					},
+					{
+						"hl": "Telugu",
+						"defaulturl": "https://timesofindia.indiatimes.com/feeds/newslistingfeed/feedtype-sjson,msid-27136176,tag-alrtmixed,uid-TV-01.cms?platform=iphone&ipver=510&adreqfrm=sec",
+						"widgeturl": "https://timesofindia.indiatimes.com/feeds/newslistingfeed/feedtype-sjson,msid-27136176,tag-alrtmixed,uid-TV-01.cms?platform=iphone&ipver=510&adreqfrm=sec",
+
+						"uid": "Telugu-01"
+					},
+					{
+						"hl": "Bengali",
+						"defaulturl": "https://timesofindia.indiatimes.com/feeds/newslistingfeed/feedtype-sjson,msid-27136884,tag-alrtmixed,uid-TV-01.cms?platform=iphone&ipver=510&adreqfrm=sec",
+						"uid": "Bengali-01"
+					},
+					{
+						"hl": "Malayalam",
+						"defaulturl": "https://timesofindia.indiatimes.com/feeds/newslistingfeed/feedtype-sjson,msid-27136510,tag-alrtmixed,uid-TV-01.cms?platform=iphone&ipver=510&adreqfrm=sec",
+						"widgeturl": "https://timesofindia.indiatimes.com/feeds/newslistingfeed/feedtype-sjson,msid-27136510,tag-alrtmixed,uid-TV-01.cms?platform=iphone&ipver=510&adreqfrm=sec",
+						"uid": "Malayalam-01"
+					},
+					{
+						"hl": "Kannada",
+						"defaulturl": "https://timesofindia.indiatimes.com/feeds/newslistingfeed/feedtype-sjson,msid-27136637,tag-alrtmixed,uid-TV-01.cms?platform=iphone&ipver=510&adreqfrm=sec",
+						"widgeturl": "https://timesofindia.indiatimes.com/feeds/newslistingfeed/feedtype-sjson,msid-27136637,tag-alrtmixed,uid-TV-01.cms?platform=iphone&ipver=510&adreqfrm=sec",
+						"uid": "Kannada-01"
+					},
+					{
+						"hl": "Marathi",
+						"defaulturl": "https://timesofindia.indiatimes.com/feeds/newslistingfeed/feedtype-sjson,msid-27137032,tag-alrtmixed,uid-TV-01.cms?platform=iphone&ipver=510&adreqfrm=sec",
+						"widgeturl": "https://timesofindia.indiatimes.com/feeds/newslistingfeed/feedtype-sjson,msid-27137032,tag-alrtmixed,uid-TV-01.cms?platform=iphone&ipver=510&adreqfrm=sec",
+						"uid": "Marathi-01"
+					},
+					{
+						"hl": "Gujarati",
+						"defaulturl": "https://timesofindia.indiatimes.com/feeds/newslistingfeed/feedtype-sjson,msid-31524606,tag-alrtmixed,uid-TV-01.cms?platform=iphone&ipver=510&adreqfrm=sec",
+						"uid": "Gujarati-01"
+					}
+				]
+			}
+		},
+		{
 			"defaulturl": "https://raw.githubusercontent.com/ronitsinghal/Appfeeds/master/AppFeeds/video-list",
 			"name": "Top Videos",
 			"secid": "4762524",
@@ -214,7 +280,8 @@
 					"uid": "Bhojpuri-01"
 				}
 			]
-		}, {
+		},
+		{
 			"hl": "Countdown Election 2019",
 			"imageid": "68668272",
 			"id": "68664895",
@@ -272,7 +339,8 @@
 			"tn": "news",
 			"type": "bigBanner",
 			"wu": "https://timesofindia.indiatimes.com/india/mattur-the-only-village-in-india-where-sanskrit-is-a-way-of-life/articleshow/65435194.cms"
-		}, {
+		},
+		{
 			"upd": "1554275040000",
 			"lpt": "1554275810332",
 			"dl": "1554272580000",
@@ -307,7 +375,8 @@
 			"wu": "http://timesofindia.indiatimes.com/videos/news/is-godse-a-terrorist-or-not-asks-aimim-chief-owaisi/videoshow/68698015.cms?platform=android",
 			"upd": "1554262080000",
 			"type": "smallBanner"
-		}, {
+		},
+		{
 			"hl": "Elections 2019 Schedule - HTML banner",
 			"imageid": "68378044",
 			"id": "68378044",
@@ -365,7 +434,8 @@
 			"dm": "t",
 			"tn": "news",
 			"kws": "Wayanad,PM Modi,Lok Sabha elections,Congress,BJP-Shiv Sena alliance"
-		}, {
+		},
+		{
 			"hl": "Disclaimer : with WU",
 			"syn": "The Times Of India brings you interesting, racy, spicy chatter from Leutyens' Delhi, state capitals and campaign trails. The reports are based on hearsay. We do not vouch for their authenticity. ",
 			"id": "68353688",
@@ -374,7 +444,8 @@
 			"dl": "1531072740000",
 			"tn": "disclaimer",
 			"wu": "https://timesofindia.indiatimes.com/india/too-many-kids-per-class-cbse-schools-may-face-action/articleshow/66152208.cms"
-		}, {
+		},
+		{
 			"id": "54780408",
 			"hl": "Article with inline slideshow and youtube",
 			"dl": "1459826640005",
@@ -391,7 +462,8 @@
 			"imageid": "54823432",
 			"tn": "news",
 			"dm": "t"
-		}, {
+		},
+		{
 			"hl": "Test Article for feed engine for twitter facebook instagram",
 			"id": "64648795",
 			"upd": "1533122062000",
@@ -401,7 +473,8 @@
 			"dm": "t",
 			"imageid": "64648795",
 			"wu": "https://m.timesofindia.com/articleshow/64648795.cms"
-		}, {
+		},
+		{
 			"upd": "1553522340000",
 			"lpt": "1553522357044",
 			"dl": "1553401380000",
@@ -420,7 +493,8 @@
 			"lpt": "1533122062000",
 			"dl": "1531072740000",
 			"tn": "disclaimer-closed"
-		}, {
+		},
+		{
 			"hl": "Test article with headline above image",
 			"id": "68272059",
 			"upd": "1533122062000",
@@ -430,7 +504,8 @@
 			"tn": "news",
 			"dm": "t",
 			"imageid": "68272059"
-		}, {
+		},
+		{
 			"hl": "Test article with headline below lead image - huge synopsis",
 			"id": "68273150",
 			"upd": "1533122062000",
@@ -440,7 +515,8 @@
 			"tn": "news",
 			"dm": "t",
 			"imageid": "68273203"
-		}, {
+		},
+		{
 			"hl": " Test article with headline on top of image - image caption above image",
 			"id": "68273230",
 			"upd": "1533122062000",
@@ -450,7 +526,8 @@
 			"tn": "news",
 			"dm": "t",
 			"imageid": "68273305"
-		}, {
+		},
+		{
 			"hl": "Headline above the image and no synopsis",
 			"id": "67791426",
 			"upd": "1533122062000",
@@ -460,7 +537,8 @@
 			"tn": "news",
 			"dm": "t",
 			"imageid": "67791483"
-		}, {
+		},
+		{
 			"hl": "Headline below the image and no synopsis",
 			"id": "67791506",
 			"upd": "1533122062000",
@@ -470,7 +548,8 @@
 			"cs": "prime",
 			"dm": "t",
 			"imageid": "67791483"
-		}, {
+		},
+		{
 			"hl": "Vertical image with title at bottom centre",
 			"id": "67791614",
 			"upd": "1533122062000",
@@ -480,7 +559,8 @@
 			"cs": "prime",
 			"dm": "t",
 			"imageid": "67847088"
-		}, {
+		},
+		{
 			"hl": "White title at bottom centre",
 			"id": "67851572",
 			"upd": "1533122062000",
@@ -490,7 +570,8 @@
 			"cs": "prime",
 			"dm": "t",
 			"imageid": "67851739"
-		}, {
+		},
+		{
 			"hl": "Black title at bottom centre",
 			"id": "67851838",
 			"upd": "1533122062000",
@@ -500,7 +581,8 @@
 			"cs": "prime",
 			"dm": "t",
 			"imageid": "67992014"
-		}, {
+		},
+		{
 			"hl": "White title at top centre",
 			"id": "67775025",
 			"upd": "1533122062000",
@@ -510,7 +592,8 @@
 			"cs": "prime",
 			"dm": "t",
 			"imageid": "67775025"
-		}, {
+		},
+		{
 			"hl": "Black title at left and highlights medium",
 			"id": "67775270",
 			"upd": "1533122062000",
@@ -520,7 +603,8 @@
 			"cs": "prime",
 			"dm": "t",
 			"imageid": "67775317"
-		}, {
+		},
+		{
 			"hl": "White title at right",
 			"id": "67775339",
 			"upd": "1533122062000",
@@ -530,7 +614,8 @@
 			"cs": "prime",
 			"dm": "t",
 			"imageid": "67775349"
-		}, {
+		},
+		{
 			"hl": "Black title at top and XL highlights",
 			"id": "67775378",
 			"upd": "1533122062000",
@@ -540,7 +625,8 @@
 			"cs": "prime",
 			"dm": "t",
 			"imageid": "67775410"
-		}, {
+		},
+		{
 			"hl": "Black title below the image and huge highlights",
 			"id": "67775421",
 			"upd": "1533122062000",
@@ -550,7 +636,8 @@
 			"cs": "prime",
 			"dm": "t",
 			"imageid": "67775453"
-		}, {
+		},
+		{
 			"hl": "Test Poll",
 			"id": "67795360",
 			"upd": "1533122062000",
@@ -560,7 +647,8 @@
 			"dm": "t",
 			"imageid": "67795360",
 			"wu": "https://timesofindia.indiatimes.com/is-the-budget-good-for-you/polls_test/67795360.cms"
-		}, {
+		},
+		{
 			"au": "MANASH PRATIM GOHAIN",
 			"ag": "TNN",
 			"upd": "1539240765000",
@@ -574,7 +662,8 @@
 			"cs": "prime",
 			"type": "featured",
 			"wu": "https://timesofindia.indiatimes.com/india/too-many-kids-per-class-cbse-schools-may-face-action/articleshow/66152208.cms"
-		}, {
+		},
+		{
 			"ag": "TOI Tech",
 			"upd": "1539240765000",
 			"lpt": "1539240765000",
