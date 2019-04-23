@@ -27,7 +27,6 @@
 						"hl": "Hindi",
 						"defaulturl": "https://timesofindia.indiatimes.com/feeds/newslistingfeed/feedtype-sjson,msid-2278290,tag-alrtmixed,uid-TV-01,t-f.cms?platform=iphone&ipver=510&adreqfrm=sec",
 						"widgeturl": "https://timesofindia.indiatimes.com/feeds/newslistingfeed/feedtype-sjson,msid-2278290,tag-alrtmixed,uid-TV-01,t-f.cms?platform=iphone&ipver=510&adreqfrm=sec",
-
 						"uid": "Hindi-01"
 					},
 					{
@@ -200,7 +199,7 @@
 		},
 		{
 			"name": "Movies",
-			"secid": "9191915",
+			"id": "9191915",
 			"tn": "mixedtabslider",
 			"sectionitems": [{
 					"name": "Hindi",
