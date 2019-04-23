@@ -19,9 +19,7 @@
 			"id": "9191912",
 			"tn": "mixedwidgetslider",
 			"mixedWidgetData": {
-				"defaulturl": "http://timesofindia.indiatimes.com/feeds/testnewslistingfeed/feedtype-sjson,msid-9191915,tag-alrt,uid-Entertainment-01.cms?adreqfrm=sec&platform=iphone&ipver=510",
 				"uid": "TV-01",
-				"navType": "tabs",
 				"subSections": [{
 						"hl": "Hindi",
 						"defaulturl": "https://timesofindia.indiatimes.com/feeds/newslistingfeed/feedtype-sjson,msid-2278290,tag-alrtmixed,uid-TV-01,t-f.cms?platform=iphone&ipver=510&adreqfrm=sec",
