@@ -142,9 +142,9 @@
 			"mixedWidgetData": {
 				"uid": "Video-01",
 				"subSections": [{
-						"hl": "Featured",
-						"defaulturl": "https://timesofindia.indiatimes.com/feeds/vidcombinedfeed/feedtype-sjson,uid-Vdeo-01.cms?adreqfrm=sec&platform=iphone&ipver=510",
-						"widgeturl": "https://timesofindia.indiatimes.com/feeds/vidcombinedfeed/feedtype-sjson,uid-Vdeo-01.cms?adreqfrm=sec&platform=iphone&ipver=510",
+						"hl": "Entertainment",
+						"defaulturl": "https://timesofindia.indiatimes.com/feeds/vidcombinedfeed/feedtype-sjson,msid-62555367,tag-vdo,uid-EntVideo-01,category-VdoEntertainment-01.cms?platform=iphone&ipver=510",
+						"widgeturl": "https://timesofindia.indiatimes.com/feeds/vidcombinedfeed/feedtype-sjson,msid-62555367,tag-vdo,uid-EntVideo-01,category-VdoEntertainment-01.cms?platform=iphone&ipver=510",
 						"tn": "videolist",
 						"uid": "VdoFeatured-01"
 					},
@@ -172,81 +172,92 @@
 					}
 				],
 				"defaultItems": [{
-						"id": "69043183",
-						"hl": "Lok Sabha polls: PM Narendra Modi begins roadshow in Varanasi",
-						"du": "02:28",
-						"imageid": "69043183&pl=568990&v=123",
+						"id": "69044339",
+						"hl": "Arjun Kapoor opens up about wedding rumours with Malaika Arora, calls her 'special'",
+						"du": "01:07",
+						"imageid": "69044339&pl=271332&v=123",
 						"dm": "t",
 						"tn": "video",
-						"upd": "1556195040000",
-						"wu": "https://timesofindia.indiatimes.com/videos/news/lok-sabha-polls-pm-narendra-modi-begins-roadshow-in-varanasi/videoshow/69043183.cms",
-						"su": "http://toi.in/Rgqnab/"
+						"upd": "1556198880000",
+						"wu": "https://timesofindia.indiatimes.com/videos/entertainment/hindi/arjun-kapoor-opens-up-about-wedding-rumours-with-malaika-arora-calls-her-special/videoshow/69044339.cms",
+						"su": "http://toi.in/G7ndNa9/"
 					},
 					{
-						"id": "69038467",
-						"hl": "Ankita Lonkhande publicly kisses rumoured boyfriend, video goes viral",
-						"du": "00:51",
-						"imageid": "69038467&pl=45432&v=123",
+						"id": "69036078",
+						"hl": "Disha Patani ditches her bold outfits, gets trolled for wearing a t-shirt",
+						"du": "00:50",
+						"imageid": "69036078&pl=85937&v=123",
 						"dm": "t",
 						"tn": "video",
-						"upd": "1556178180000",
-						"wu": "https://timesofindia.indiatimes.com/videos/entertainment/hindi/ankita-lonkhande-publicly-kisses-rumoured-boyfriend-vikas-jain-video-goes-viral/videoshow/69038467.cms",
-						"su": "http://toi.in/nhdk1Z46/"
+						"upd": "1556168460000",
+						"wu": "https://timesofindia.indiatimes.com/videos/entertainment/hindi/disha-patani-ditches-her-bold-outfits-gets-trolled-for-wearing-a-t-shirt/videoshow/69036078.cms",
+						"su": "http://toi.in/kadB9Z/"
 					},
 					{
-						"id": "69043371",
-						"hl": "Salman Khan accused of misbehaving and snatching fan's mobile",
-						"du": "01:00",
-						"imageid": "69043371&pl=251374&v=123",
+						"id": "69035586",
+						"hl": "Ranveer Singh hilariously predicts Surveen Chawla's baby will grow up to be a rapper. Here's why!",
+						"du": "00:50",
+						"imageid": "69035586&pl=63674&v=123",
 						"dm": "t",
 						"tn": "video",
-						"upd": "1556195640000",
-						"wu": "https://timesofindia.indiatimes.com/videos/entertainment/hindi/salman-khan-accused-of-misbehaving-and-snatching-fans-mobile-phone-complaint-filed/videoshow/69043371.cms",
-						"su": "http://toi.in/pJz8sa/"
+						"upd": "1556165280000",
+						"wu": "https://timesofindia.indiatimes.com/videos/entertainment/hindi/ranveer-singh-hilariously-predicts-surveen-chawlas-baby-will-grow-up-to-be-a-rapper-heres-why/videoshow/69035586.cms",
+						"su": "http://toi.in/bLbLRZ/"
 					},
 					{
-						"id": "69036811",
-						"hl": "Famous tea stalls jam-packed in Varanasi for ‘Chai pe charcha’ over politics",
-						"du": "01:54",
-						"imageid": "69036811&pl=518869&v=123",
+						"id": "69028528",
+						"hl": "Kareena Kapoor Khan: Daddy Saif says I spoil Taimur",
+						"du": "00:44",
+						"imageid": "69028528&pl=347694&v=123",
 						"dm": "t",
 						"tn": "video",
-						"upd": "1556171520000",
-						"wu": "https://timesofindia.indiatimes.com/videos/news/famous-tea-stalls-jam-packed-in-varanasi-for-chai-pe-charcha-over-politics/videoshow/69036811.cms",
-						"su": "http://toi.in/-EvMKa88/"
+						"upd": "1556115120000",
+						"wu": "https://timesofindia.indiatimes.com/videos/entertainment/hindi/kareena-kapoor-khan-daddy-saif-says-i-spoil-taimur/videoshow/69028528.cms",
+						"su": "http://toi.in/yo_YJa/"
 					},
 					{
-						"id": "69035429",
-						"hl": "BCCI issues notice to Sachin Tendulkar",
-						"du": "01:42",
-						"imageid": "69035429&pl=612272&v=123",
+						"id": "69018469",
+						"hl": "Katrina Kaif looks stunning in 'desi avatar' in new poster from 'Bharat'",
+						"du": "01:21",
+						"imageid": "69018469&pl=633126&v=123",
 						"dm": "t",
 						"tn": "video",
-						"upd": "1556164200000",
-						"wu": "https://timesofindia.indiatimes.com/videos/sports/cricket/bcci-issues-notice-to-sachin-tendulkar-on-conflict-of-interest/videoshow/69035429.cms",
-						"su": "http://toi.in/zbIJEb/"
+						"upd": "1556077320000",
+						"wu": "https://timesofindia.indiatimes.com/videos/entertainment/hindi/katrina-kaif-looks-stunning-in-desi-avatar-in-new-poster-from-bharat/videoshow/69018469.cms",
+						"su": "http://toi.in/YZ5-Wb/"
 					},
 					{
-						"id": "69040657",
-						"hl": "Disha brings back 'Tip Tip Barsa' charm",
-						"du": "00:51",
-						"imageid": "69040657&pl=582766&v=123",
+						"id": "69018159",
+						"hl": "When Sunny Leone walked to her door with knife in hand",
+						"du": "00:50",
+						"imageid": "69018159&pl=613986&v=123",
 						"dm": "t",
 						"tn": "video",
-						"upd": "1556186520000",
-						"wu": "https://timesofindia.indiatimes.com/videos/entertainment/hindi/bharat-disha-patanis-yellow-saree-will-remind-you-of-raveena-tandon-in-tip-tip-barsa-song/videoshow/69040657.cms",
-						"su": "http://toi.in/_I_PTa/"
+						"upd": "1556075760000",
+						"wu": "https://timesofindia.indiatimes.com/videos/entertainment/hindi/when-sunny-leone-walked-to-her-door-with-knife-in-hand/videoshow/69018159.cms",
+						"su": "http://toi.in/9aDEUa/"
 					},
 					{
-						"id": "69038651",
-						"hl": "Congress fields Ajay Rai from Varanasi",
-						"du": "02:43",
-						"imageid": "69038651&pl=427426&v=123",
+						"id": "69013963",
+						"hl": "Surprising facts about your favourite celeb Sara Ali Khan!",
+						"du": "01:05",
+						"imageid": "69013963&pl=266168&v=123",
 						"dm": "t",
 						"tn": "video",
-						"upd": "1556179020000",
-						"wu": "https://timesofindia.indiatimes.com/videos/news/congress-ignores-clamour-for-priyanka-fields-ajay-rai-from-varanasi/videoshow/69038651.cms",
-						"su": "http://toi.in/3d5i8Z/"
+						"upd": "1556037060000",
+						"wu": "https://timesofindia.indiatimes.com/videos/entertainment/hindi/surprising-facts-about-your-favourite-celeb-sara-ali-khan/videoshow/69013963.cms",
+						"su": "http://toi.in/045b0Y/"
+					},
+					{
+						"id": "69010409",
+						"hl": "Watch: Two women lash out at Tamil star Ajith and wife Shalini at the voting booth",
+						"du": "00:44",
+						"imageid": "69010409&pl=269895&v=123",
+						"dm": "t",
+						"tn": "video",
+						"upd": "1556023860000",
+						"wu": "https://timesofindia.indiatimes.com/videos/entertainment/regional/tamil/watch-two-women-lash-out-at-tamil-star-ajith-and-wife-shalini-at-the-voting-booth/videoshow/69010409.cms",
+						"su": "http://toi.in/-7_OKb/"
 					}
 				]
 			}
