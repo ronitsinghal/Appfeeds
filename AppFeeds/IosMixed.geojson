@@ -9,12 +9,249 @@
 	"ads": {
 		"header": "/7176/TOI_App_Test/TOI_APP_TEST_FBM_ATF",
 		"footer": "/7176/TOI_App_Test/TOI_APP_TEST_FBM_BTF",
-		"header_size": ["100"],
+		"header_size": [
+			"100"
+		],
 		"ctnheader": "207018",
 		"ctnfooter": "207018",
 		"securl": "http://m.timesofindia.com/"
 	},
 	"items": [{
+			"hl": "PHOTOS",
+			"id": "919191212",
+			"tn": "mixedwidgetslider",
+			"mixedWidgetData": {
+				"uid": "Photo-01",
+				"subSections": [{
+						"hl": "Featured",
+						"defaulturl": "http://photogallery.indiatimes.com/feeds/testnewslistingfeed/tag-top.cms?feedtype=sjson&platform=iphone&ipver=510",
+						"widgeturl": "http://photogallery.indiatimes.com/feeds/testnewslistingfeed/tag-top.cms?feedtype=sjson&platform=iphone&ipver=510",
+						"uid": "Featured-01",
+						"tn": "photolist"
+					},
+					{
+						"hl": "Movies",
+						"defaulturl": "https://photogallery.indiatimes.com/feeds/testnewslistingfeed/feedtype-sjson,msid-2048925,tag-pc,uid-Photo-01,category-PhotoMovie-01.cms?platform=iphone&ipver=510&adreqfrm=sec",
+						"widgeturl": "https://photogallery.indiatimes.com/feeds/testnewslistingfeed/feedtype-sjson,msid-2048925,tag-pc,uid-Photo-01,category-PhotoMovie-01.cms?platform=iphone&ipver=510&adreqfrm=sec",
+						"tn": "photolist",
+						"uid": "Movies-01"
+
+					},
+					{
+						"hl": "Celebs",
+						"defaulturl": "https://photogallery.indiatimes.com/feeds/testnewslistingfeed/feedtype-sjson,msid-2371672,tag-pc,uid-Photo-01,category-PhotoCelebs-01.cms?platform=iphone&ipver=510&adreqfrm=sec",
+						"tn": "photolist",
+						"uid": "Celebs-01",
+						"widgeturl": "https://photogallery.indiatimes.com/feeds/testnewslistingfeed/feedtype-sjson,msid-2371672,tag-pc,uid-Photo-01,category-PhotoCelebs-01.cms?platform=iphone&ipver=510&adreqfrm=sec"
+					},
+					{
+						"hl": "Fashion",
+						"defaulturl": "https://photogallery.indiatimes.com/feeds/testnewslistingfeed/feedtype-sjson,msid-2371395,tag-pc,uid-Photo-01,category-PhotoFashion-01.cms?platform=iphone&ipver=510&adreqfrm=sec",
+						"widgeturl": "https://photogallery.indiatimes.com/feeds/testnewslistingfeed/feedtype-sjson,msid-2371395,tag-pc,uid-Photo-01,category-PhotoFashion-01.cms?platform=iphone&ipver=510&adreqfrm=sec",
+						"tn": "photolist",
+						"uid": "Fashion-01"
+					}
+				],
+				"defaultItems": [{
+						"upd": "1556099940000",
+						"id": "69024282",
+						"hl": "Bold pictures of diva Sonam Bajwa",
+						"imageid": "69024282",
+						"dm": "p",
+						"tn": "photo",
+						"wu": "http://photogallery.indiatimes.com/celebs/punjabi/sonam-bajwas-pictures/articleshow/69024282.cms",
+						"su": "http://toi.in/JcAw4Y/"
+					},
+					{
+						"upd": "1556007000000",
+						"id": "69005234",
+						"hl": "Sunny shuts down trolls like a boss",
+						"imageid": "69005234",
+						"dm": "p",
+						"tn": "photo",
+						"wu": "http://photogallery.indiatimes.com/celebs/bollywood/sunny-leones-pictures/articleshow/69005234.cms",
+						"su": "http://toi.in/5Hs9uY/"
+					},
+					{
+						"upd": "1556016720000",
+						"id": "69008067",
+						"hl": "Samyuktha turns heads in a bikini",
+						"imageid": "69008067",
+						"dm": "p",
+						"tn": "photo",
+						"wu": "http://photogallery.indiatimes.com/celebs/kannada/samyuktha-hegdes-pictures/articleshow/69008067.cms",
+						"su": "http://toi.in/Pb3Xga67/"
+					},
+					{
+						"upd": "1554291240000",
+						"id": "68705460",
+						"hl": "Nora Fatehi's glamorous photos",
+						"imageid": "68705460",
+						"dm": "p",
+						"tn": "photo",
+						"wu": "http://photogallery.indiatimes.com/celebs/bollywood/nora-fatehis-hot-pictures/articleshow/68705460.cms",
+						"su": "http://toi.in/N0ae5b/"
+					},
+					{
+						"upd": "1556093940000",
+						"id": "69021646",
+						"hl": "Trolls blame Priya for Sridevi's death",
+						"imageid": "69021646",
+						"dm": "p",
+						"tn": "photo",
+						"wu": "http://photogallery.indiatimes.com/celebs/tamil/priya-anands-pictures/articleshow/69021646.cms",
+						"su": "http://toi.in/ethg9b/"
+					},
+					{
+						"upd": "1556089080000",
+						"id": "69021157",
+						"hl": "Manoj Bajpayee’s starry b’day party",
+						"imageid": "69021157",
+						"dm": "p",
+						"tn": "photo",
+						"wu": "http://photogallery.indiatimes.com/events/mumbai/sidharth-malhotra-tabu-randeep-hooda-and-others-attend-manoj-bajpayees-birthday-party/articleshow/69021157.cms",
+						"su": "http://toi.in/ucXP3Y/"
+					},
+					{
+						"upd": "1556105460000",
+						"id": "69020240",
+						"hl": "Avengers: Endgame: Premiere",
+						"imageid": "69020240",
+						"dm": "p",
+						"tn": "photo",
+						"wu": "http://photogallery.indiatimes.com/movies/premiere/avengers-endgame-premiere/articleshow/69020240.cms",
+						"su": "http://toi.in/Y9eB2a/"
+					},
+					{
+						"upd": "1556089200000",
+						"id": "69020074",
+						"hl": "Earthquakes shake Philippines",
+						"imageid": "69020074",
+						"dm": "p",
+						"tn": "photo",
+						"wu": "http://photogallery.indiatimes.com/news/world/at-least-16-dead-as-2-earthquakes-shake-philippines/articleshow/69020074.cms",
+						"su": "http://toi.in/rz7bKY4/"
+					}
+				]
+			}
+		},
+		{
+			"hl": "VIDEOS",
+			"id": "91919212",
+			"tn": "mixedwidgetslider",
+			"mixedWidgetData": {
+				"uid": "Video-01",
+				"subSections": [{
+						"hl": "Featured",
+						"defaulturl": "https://timesofindia.indiatimes.com/feeds/vidcombinedfeed/feedtype-sjson,uid-Vdeo-01.cms?adreqfrm=sec&platform=iphone&ipver=510",
+						"widgeturl": "https://timesofindia.indiatimes.com/feeds/vidcombinedfeed/feedtype-sjson,uid-Vdeo-01.cms?adreqfrm=sec&platform=iphone&ipver=510",
+						"tn": "videolist",
+						"uid": "VdoFeatured-01"
+					},
+					{
+						"hl": "TOI Originals",
+						"defaulturl": "https://timesofindia.indiatimes.com/feeds/newslistingfeed/feedtype-sjson,msid-68200753,tag-vdo,uid-TOIOriginals-01.cms?platform=iphone&ipver=510",
+						"widgeturl": "https://timesofindia.indiatimes.com/feeds/newslistingfeed/feedtype-sjson,msid-68200753,tag-vdo,uid-TOIOriginals-01.cms?platform=iphone&ipver=510",
+						"tn": "videolist",
+						"uid": "TOIOriginals-01"
+
+					},
+					{
+						"hl": "Trending",
+						"defaulturl": "https://timesofindia.indiatimes.com/feeds/newslistingfeed/feedtype-sjson,msid-3812890,tag-mostviewedvdo,uid-Video-01.cms?platform=iphone&ipver=510",
+						"widgeturl": "https://timesofindia.indiatimes.com/feeds/newslistingfeed/feedtype-sjson,msid-3812890,tag-mostviewedvdo,uid-Video-01.cms?platform=iphone&ipver=510",
+						"tn": "videolist",
+						"uid": "VdoTrending-01"
+					},
+					{
+						"hl": "India",
+						"defaulturl": "https://timesofindia.indiatimes.com/feeds/newslistingfeed/feedtype-sjson,msid-3812907,tag-vdo,uid-Video-01.cms?platform=iphone&ipver=510",
+						"widgeturl": "https://timesofindia.indiatimes.com/feeds/newslistingfeed/feedtype-sjson,msid-3812907,tag-vdo,uid-Video-01.cms?platform=iphone&ipver=510",
+						"tn": "videolist",
+						"uid": "VdoNews-01"
+					}
+				],
+				"defaultItems": [{
+						"id": "69043183",
+						"hl": "Lok Sabha polls: PM Narendra Modi begins roadshow in Varanasi",
+						"du": "02:28",
+						"imageid": "69043183&pl=568990&v=123",
+						"dm": "t",
+						"tn": "video",
+						"upd": "1556195040000",
+						"wu": "https://timesofindia.indiatimes.com/videos/news/lok-sabha-polls-pm-narendra-modi-begins-roadshow-in-varanasi/videoshow/69043183.cms",
+						"su": "http://toi.in/Rgqnab/"
+					},
+					{
+						"id": "69038467",
+						"hl": "Ankita Lonkhande publicly kisses rumoured boyfriend, video goes viral",
+						"du": "00:51",
+						"imageid": "69038467&pl=45432&v=123",
+						"dm": "t",
+						"tn": "video",
+						"upd": "1556178180000",
+						"wu": "https://timesofindia.indiatimes.com/videos/entertainment/hindi/ankita-lonkhande-publicly-kisses-rumoured-boyfriend-vikas-jain-video-goes-viral/videoshow/69038467.cms",
+						"su": "http://toi.in/nhdk1Z46/"
+					},
+					{
+						"id": "69043371",
+						"hl": "Salman Khan accused of misbehaving and snatching fan's mobile",
+						"du": "01:00",
+						"imageid": "69043371&pl=251374&v=123",
+						"dm": "t",
+						"tn": "video",
+						"upd": "1556195640000",
+						"wu": "https://timesofindia.indiatimes.com/videos/entertainment/hindi/salman-khan-accused-of-misbehaving-and-snatching-fans-mobile-phone-complaint-filed/videoshow/69043371.cms",
+						"su": "http://toi.in/pJz8sa/"
+					},
+					{
+						"id": "69036811",
+						"hl": "Famous tea stalls jam-packed in Varanasi for ‘Chai pe charcha’ over politics",
+						"du": "01:54",
+						"imageid": "69036811&pl=518869&v=123",
+						"dm": "t",
+						"tn": "video",
+						"upd": "1556171520000",
+						"wu": "https://timesofindia.indiatimes.com/videos/news/famous-tea-stalls-jam-packed-in-varanasi-for-chai-pe-charcha-over-politics/videoshow/69036811.cms",
+						"su": "http://toi.in/-EvMKa88/"
+					},
+					{
+						"id": "69035429",
+						"hl": "BCCI issues notice to Sachin Tendulkar",
+						"du": "01:42",
+						"imageid": "69035429&pl=612272&v=123",
+						"dm": "t",
+						"tn": "video",
+						"upd": "1556164200000",
+						"wu": "https://timesofindia.indiatimes.com/videos/sports/cricket/bcci-issues-notice-to-sachin-tendulkar-on-conflict-of-interest/videoshow/69035429.cms",
+						"su": "http://toi.in/zbIJEb/"
+					},
+					{
+						"id": "69040657",
+						"hl": "Disha brings back 'Tip Tip Barsa' charm",
+						"du": "00:51",
+						"imageid": "69040657&pl=582766&v=123",
+						"dm": "t",
+						"tn": "video",
+						"upd": "1556186520000",
+						"wu": "https://timesofindia.indiatimes.com/videos/entertainment/hindi/bharat-disha-patanis-yellow-saree-will-remind-you-of-raveena-tandon-in-tip-tip-barsa-song/videoshow/69040657.cms",
+						"su": "http://toi.in/_I_PTa/"
+					},
+					{
+						"id": "69038651",
+						"hl": "Congress fields Ajay Rai from Varanasi",
+						"du": "02:43",
+						"imageid": "69038651&pl=427426&v=123",
+						"dm": "t",
+						"tn": "video",
+						"upd": "1556179020000",
+						"wu": "https://timesofindia.indiatimes.com/videos/news/congress-ignores-clamour-for-priyanka-fields-ajay-rai-from-varanasi/videoshow/69038651.cms",
+						"su": "http://toi.in/3d5i8Z/"
+					}
+				]
+			}
+		},
+		{
 			"hl": "TV",
 			"id": "9191912",
 			"tn": "mixedwidgetslider",
@@ -24,8 +261,7 @@
 						"hl": "Hindi",
 						"defaulturl": "https://timesofindia.indiatimes.com/feeds/newslistingfeed/feedtype-sjson,msid-2278290,tag-alrtmixed,uid-TV-01,t-f.cms?platform=iphone&ipver=510&adreqfrm=sec",
 						"widgeturl": "https://timesofindia.indiatimes.com/feeds/newslistingfeed/feedtype-sjson,msid-2278290,tag-alrtmixed,uid-TV-01,t-f.cms?platform=iphone&ipver=510&adreqfrm=widget",
-						"uid": "Hindi-01",
-						"tn": "videolist"
+						"uid": "Hindi-01"
 					},
 					{
 						"hl": "English",
@@ -1598,7 +1834,6 @@
 			"cs": "prime",
 			"wu": "https://timesofindia.indiatimes.com/india/peoples-car-at-a-dead-end/articleshow/66119194.cms"
 		},
-
 		{
 			"ag": "TIMESOFINDIA.COM",
 			"upd": "1536040800000",
