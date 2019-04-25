@@ -142,9 +142,9 @@
 			"mixedWidgetData": {
 				"uid": "Video-01",
 				"subSections": [{
-						"hl": "Entertainment",
-						"defaulturl": "https://timesofindia.indiatimes.com/feeds/vidcombinedfeed/feedtype-sjson,msid-62555367,tag-vdo,uid-EntVideo-01,category-VdoEntertainment-01.cms?platform=iphone&ipver=510",
-						"widgeturl": "https://timesofindia.indiatimes.com/feeds/vidcombinedfeed/feedtype-sjson,msid-62555367,tag-vdo,uid-EntVideo-01,category-VdoEntertainment-01.cms?platform=iphone&ipver=510",
+						"hl": "Hindi",
+						"defaulturl": "https://timesofindia.indiatimes.com/feeds/newslistingfeedmc/feedtype-sjson,msid-4928483,tag-vdo,uid-EntVideo-01.cms?platform=iphone&ipver=510&adreqfrm=sec",
+						"widgeturl": "https://timesofindia.indiatimes.com/feeds/newslistingfeedmc/feedtype-sjson,msid-4928483,tag-vdo,uid-EntVideo-01.cms?platform=iphone&ipver=510&adreqfrm=sec",
 						"tn": "videolist",
 						"uid": "VdoFeatured-01"
 					},
@@ -172,92 +172,103 @@
 					}
 				],
 				"defaultItems": [{
+						"id": "69044715",
+						"hl": "Ankita Lonkhande publicly kisses rumoured boyfriend; Arjun Kapoor opens up on wedding rumours with Malaika Arora, and more",
+						"du": "01:56",
+						"imageid": "69044715&pl=329300&v=123",
+						"tn": "video",
+						"dm": "t",
+						"wu": "https://timesofindia.indiatimes.com/videos/entertainment/hindi/ankita-lonkhande-publicly-kisses-rumoured-boyfriend-arjun-kapoor-opens-up-on-wedding-rumours-with-malaika-arora-and-more/videoshow/69044715.cms",
+						"su": "http://toi.in/DtvmPZ46/",
+						"upd": "1556200500000"
+					},
+					{
 						"id": "69044339",
 						"hl": "Arjun Kapoor opens up about wedding rumours with Malaika Arora, calls her 'special'",
 						"du": "01:07",
 						"imageid": "69044339&pl=271332&v=123",
-						"dm": "t",
 						"tn": "video",
-						"upd": "1556198880000",
+						"dm": "t",
 						"wu": "https://timesofindia.indiatimes.com/videos/entertainment/hindi/arjun-kapoor-opens-up-about-wedding-rumours-with-malaika-arora-calls-her-special/videoshow/69044339.cms",
-						"su": "http://toi.in/G7ndNa9/"
+						"su": "http://toi.in/G7ndNa9/",
+						"upd": "1556198880000"
 					},
 					{
-						"id": "69036078",
-						"hl": "Disha Patani ditches her bold outfits, gets trolled for wearing a t-shirt",
-						"du": "00:50",
-						"imageid": "69036078&pl=85937&v=123",
-						"dm": "t",
+						"id": "69044289",
+						"hl": "When Ranveer Singh made Shikhar Dhawan perform 'Khalibali'",
+						"du": "00:47",
+						"imageid": "69044289&pl=208866&v=123",
 						"tn": "video",
-						"upd": "1556168460000",
-						"wu": "https://timesofindia.indiatimes.com/videos/entertainment/hindi/disha-patani-ditches-her-bold-outfits-gets-trolled-for-wearing-a-t-shirt/videoshow/69036078.cms",
-						"su": "http://toi.in/kadB9Z/"
+						"dm": "t",
+						"wu": "https://timesofindia.indiatimes.com/videos/entertainment/hindi/when-ranveer-singh-made-shikhar-dhawan-perform-khalibali/videoshow/69044289.cms",
+						"su": "http://toi.in/sTuBTZ65/",
+						"upd": "1556198700000"
 					},
 					{
-						"id": "69035586",
-						"hl": "Ranveer Singh hilariously predicts Surveen Chawla's baby will grow up to be a rapper. Here's why!",
-						"du": "00:50",
-						"imageid": "69035586&pl=63674&v=123",
-						"dm": "t",
+						"id": "69043843",
+						"hl": "Vikram Bhatt slams Kangana Ranaut's sister Rangoli Chandel",
+						"du": "06:06",
+						"imageid": "69043843&pl=527381&v=123",
 						"tn": "video",
-						"upd": "1556165280000",
-						"wu": "https://timesofindia.indiatimes.com/videos/entertainment/hindi/ranveer-singh-hilariously-predicts-surveen-chawlas-baby-will-grow-up-to-be-a-rapper-heres-why/videoshow/69035586.cms",
-						"su": "http://toi.in/bLbLRZ/"
+						"dm": "t",
+						"wu": "https://timesofindia.indiatimes.com/videos/entertainment/hindi/vikram-bhatt-slams-kangana-ranauts-sister-rangoli-chandel/videoshow/69043843.cms",
+						"su": "http://toi.in/xczTdb/",
+						"upd": "1556197140000"
 					},
 					{
-						"id": "69028528",
-						"hl": "Kareena Kapoor Khan: Daddy Saif says I spoil Taimur",
-						"du": "00:44",
-						"imageid": "69028528&pl=347694&v=123",
-						"dm": "t",
+						"id": "69043662",
+						"hl": "'Bharat': Salman Khan and Katrina Kaif's fans want both to get married soon",
+						"du": "01:15",
+						"imageid": "69043662&pl=467487&v=123",
 						"tn": "video",
-						"upd": "1556115120000",
-						"wu": "https://timesofindia.indiatimes.com/videos/entertainment/hindi/kareena-kapoor-khan-daddy-saif-says-i-spoil-taimur/videoshow/69028528.cms",
-						"su": "http://toi.in/yo_YJa/"
+						"dm": "t",
+						"wu": "https://timesofindia.indiatimes.com/videos/entertainment/hindi/bharat-salman-khan-and-katrina-kaifs-fans-want-both-to-get-married-soon/videoshow/69043662.cms",
+						"su": "http://toi.in/GjEs7b/",
+						"upd": "1556196720000"
 					},
 					{
-						"id": "69018469",
-						"hl": "Katrina Kaif looks stunning in 'desi avatar' in new poster from 'Bharat'",
-						"du": "01:21",
-						"imageid": "69018469&pl=633126&v=123",
-						"dm": "t",
+						"id": "69043391",
+						"hl": "Taimur Ali Khan in 'Student of the Year 10'? Director Punit Malhotra reveals",
+						"du": "01:33",
+						"imageid": "69043391&pl=580825&v=123",
 						"tn": "video",
-						"upd": "1556077320000",
-						"wu": "https://timesofindia.indiatimes.com/videos/entertainment/hindi/katrina-kaif-looks-stunning-in-desi-avatar-in-new-poster-from-bharat/videoshow/69018469.cms",
-						"su": "http://toi.in/YZ5-Wb/"
+						"dm": "t",
+						"wu": "https://timesofindia.indiatimes.com/videos/entertainment/hindi/taimur-ali-khan-in-student-of-the-year-10-director-punit-malhotra-reveals/videoshow/69043391.cms",
+						"su": "http://toi.in/VDRrka/",
+						"upd": "1556195700000"
 					},
 					{
-						"id": "69018159",
-						"hl": "When Sunny Leone walked to her door with knife in hand",
-						"du": "00:50",
-						"imageid": "69018159&pl=613986&v=123",
-						"dm": "t",
+						"id": "69043371",
+						"hl": "Salman Khan accused of misbehaving and snatching fan's mobile phone, complaint filed",
+						"du": "01:00",
+						"imageid": "69043371&pl=251374&v=123",
 						"tn": "video",
-						"upd": "1556075760000",
-						"wu": "https://timesofindia.indiatimes.com/videos/entertainment/hindi/when-sunny-leone-walked-to-her-door-with-knife-in-hand/videoshow/69018159.cms",
-						"su": "http://toi.in/9aDEUa/"
+						"dm": "t",
+						"wu": "https://timesofindia.indiatimes.com/videos/entertainment/hindi/salman-khan-accused-of-misbehaving-and-snatching-fans-mobile-phone-complaint-filed/videoshow/69043371.cms",
+						"su": "http://toi.in/pJz8sa/",
+						"upd": "1556195640000"
 					},
 					{
-						"id": "69013963",
-						"hl": "Surprising facts about your favourite celeb Sara Ali Khan!",
-						"du": "01:05",
-						"imageid": "69013963&pl=266168&v=123",
-						"dm": "t",
+						"id": "69043200",
+						"hl": "Photographer blackmails Russian actress for sexual favours, arrested in Chennai",
+						"du": "01:03",
+						"imageid": "69043200&pl=287543&v=123",
 						"tn": "video",
-						"upd": "1556037060000",
-						"wu": "https://timesofindia.indiatimes.com/videos/entertainment/hindi/surprising-facts-about-your-favourite-celeb-sara-ali-khan/videoshow/69013963.cms",
-						"su": "http://toi.in/045b0Y/"
+						"dm": "t",
+						"wu": "https://timesofindia.indiatimes.com/videos/entertainment/hindi/photographer-blackmails-russian-actress-for-sexual-favours-arrested-in-chennai/videoshow/69043200.cms",
+						"su": "http://toi.in/LxbGJa/",
+						"upd": "1556195100000"
 					},
 					{
-						"id": "69010409",
-						"hl": "Watch: Two women lash out at Tamil star Ajith and wife Shalini at the voting booth",
-						"du": "00:44",
-						"imageid": "69010409&pl=269895&v=123",
-						"dm": "t",
+						"id": "69043101",
+						"hl": "Diljit Dosanjh releases official audio of latest single ‘Kylie+Kareena’",
+						"du": "01:13",
+						"imageid": "69043101&pl=469040&v=123",
 						"tn": "video",
-						"upd": "1556023860000",
-						"wu": "https://timesofindia.indiatimes.com/videos/entertainment/regional/tamil/watch-two-women-lash-out-at-tamil-star-ajith-and-wife-shalini-at-the-voting-booth/videoshow/69010409.cms",
-						"su": "http://toi.in/-7_OKb/"
+						"dm": "t",
+						"wu": "https://timesofindia.indiatimes.com/videos/entertainment/hindi/diljit-dosanjh-releases-official-audio-of-latest-single-kyliekareena/videoshow/69043101.cms",
+						"su": "http://toi.in/WyYPSY27/",
+						"upd": "1556194800000"
 					}
 				]
 			}
