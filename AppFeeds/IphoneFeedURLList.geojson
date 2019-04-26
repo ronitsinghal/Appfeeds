@@ -15,6 +15,13 @@
 			"uid": "Briefs-01",
 			"ct": "15",
 			"secid": "65858213"
+		},{
+			"name": "prime-list-live",
+			"defaulturl": "https://raw.githubusercontent.com/ronitsinghal/Appfeeds/master/AppFeeds/prime-list-live",
+			"tn": "mixed",
+			"uid": "prime-list-live-01",
+			"ct": "10",
+			"secid": "58110651"
 		},
 		{
 			"name": "IOS MIXED",
@@ -23,14 +30,6 @@
 			"uid": "IOSMixed",
 			"ct": "5",
 			"secid": ""
-		},
-		 {
-			"name": "prime-list-live",
-			"defaulturl": "https://raw.githubusercontent.com/ronitsinghal/Appfeeds/master/AppFeeds/prime-list-live",
-			"tn": "mixed",
-			"uid": "prime-list-live-01",
-			"ct": "10",
-			"secid": "58110651"
 		},
 		 {
 			"name": "Featured Mixed",
