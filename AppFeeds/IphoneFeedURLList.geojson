@@ -8,6 +8,14 @@
 			"IsPinned": "true",
 			"secid": "51396865"
 		},
+		 {
+			"name": "BRIEFS",
+			"defaulturl": "https://raw.githubusercontent.com/ronitsinghal/Appfeeds/master/AppFeeds/briefs",
+			"tn": "mixed",
+			"uid": "Briefs-01",
+			"ct": "15",
+			"secid": "65858213"
+		},
 		{
 			"name": "IOS MIXED",
 			"defaulturl": "https://raw.githubusercontent.com/ronitsinghal/Appfeeds/master/AppFeeds/IosMixed.geojson",
@@ -53,14 +61,7 @@
 			"ct": "7",
 			"secid": ""
 		},
-		{
-			"name": "BRIEFS",
-			"defaulturl": "https://raw.githubusercontent.com/ronitsinghal/Appfeeds/master/AppFeeds/briefs",
-			"tn": "mixed",
-			"uid": "Briefs-01",
-			"ct": "15",
-			"secid": "65858213"
-		},
+		
 		{
 			"name": "Video Tab",
 			"defaulturl": "https://timesofindia.indiatimes.com/feeds/testvidcombinedfeed/feedtype-sjson,uid-Vdeo-01.cms?platform=iphone&ipver=510&adreqfrm=sec",
