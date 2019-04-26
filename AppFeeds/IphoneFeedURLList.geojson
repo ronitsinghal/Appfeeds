@@ -55,7 +55,7 @@
 		},
 		{
 			"name": "BRIEFS",
-			"defaulturl": "https://timesofindia.indiatimes.com/feeds/testnewslistingfeed/feedtype-sjson,msid-65858213,tag-alrt,uid-Briefs-01,type-brief.cms?platform=iphone&ipver=510&adreqfrm=sec",
+			"defaulturl": "https://raw.githubusercontent.com/ronitsinghal/Appfeeds/master/AppFeeds/briefs",
 			"tn": "mixed",
 			"uid": "Briefs-01",
 			"ct": "15",
