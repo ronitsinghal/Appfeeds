@@ -1,0 +1,62 @@
+{
+	"default_ads": {
+		"header": [
+			"7176 / TOI_App_Android / TOI_App_AOS_Home / TOI_App_AOS_HP_PT_ATF"
+		],
+		"footer": [
+			"7176/TOI_App_Android/TOI_App_AOS_Home/TOI_App_AOS_HP_PT_BTF"
+		],
+		"mrec": [
+			"7176/TOI_App_Android/TOI_App_AOS_Home/TOI_App_AOS_HP_Mrec"
+		]
+	},
+	"section_mapping": [{
+			"uid": "Top-01",
+			"header": "/7176/TOI_App_Test/TOI_APP_TEST_FBM_ATF",
+			"footer": "/7176/TOI_App_Test/TOI_APP_TEST_FBM_BTF",
+			"dfpmrec": "/7176/TOI_App_Android/TOI_App_AOS_Home/TOI_App_AOS_HP_Mrec"
+
+		},
+		{
+			"uid": "Briefs-01",
+			"header": "/7176/TOI_App_Test/TOI_APP_TEST_FBM_ATF",
+			"footer": "/7176/TOI_App_Test/TOI_APP_TEST_FBM_BTF"
+		}, {
+			"uid": "City-01",
+			"header": "/7176/TOI_App_Test/TOI_APP_TEST_FBM_ATF",
+			"footer": "/7176/TOI_App_Test/TOI_APP_TEST_FBM_BTF",
+			"dfpmrec": "7176/TOI_App_Android/TOI_App_AOS_Latest/TOI_App_AOS_LTST_Mrec"
+		},
+		{
+			"uid": "Latest-01",
+			"header": "7176/TOI_App_Android/TOI_App_AOS_Latest/TOI_App_AOS_LTST_ATF",
+			"footer": "7176/TOI_App_Android/TOI_App_AOS_Latest/TOI_App_AOS_LTST_BTF",
+			"dfpmrec": "7176/TOI_App_Android/TOI_App_AOS_Latest/TOI_App_AOS_LTST_Mrec"
+		}
+	],
+	"mrec_fallback": [{
+			"hl": "Manage your home Screen",
+			"imageid": "69247787&pl=129712&v=123",
+			"tn": "deeplink",
+			"wu": "ManageHome"
+		},
+		{
+			"hl": "Do you know?",
+			"imageid": "69247787&pl=129712&v=123",
+			"tn": "deeplink",
+			"wu": "HomeL1/Briefs-01"
+		},
+		{
+			"hl": "Try Now",
+			"imageid": "69247787&pl=129712&v=123",
+			"tn": "deeplink",
+			"wu": "settings"
+		},
+		{
+			"hl": "Check this out",
+			"imageid": "69247787&pl=129712&v=123",
+			"tn": "htmlview",
+			"wu": "https://timesofindia.indiatimes.com/elections/news/can-gulp-down-abuses-in-all-dictionaries-of-the-world-pm-modi-on-mamata-banerjee/articleshow/69247727.cms"
+		}
+	]
+}
