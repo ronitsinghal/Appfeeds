@@ -1,5 +1,5 @@
 {
-	"default_ads": {
+	"fallback_dfp_ads": {
 		"header": [
 			"7176 / TOI_App_Android / TOI_App_AOS_Home / TOI_App_AOS_HP_PT_ATF"
 		],
@@ -34,7 +34,7 @@
 			"dfpmrec": "7176/TOI_App_Android/TOI_App_AOS_Latest/TOI_App_AOS_LTST_Mrec"
 		}
 	],
-	"mrec_fallback": [{
+	"product_mrec_fallback": [{
 			"hl": "Manage your home Screen",
 			"imageid": "69247787&pl=129712&v=123",
 			"tn": "deeplink",
