@@ -1,13 +1,19 @@
 {
 	"dfp_ads_fallback": {
 		"header": [
-			"7176 / TOI_App_Android / TOI_App_AOS_Home / TOI_App_AOS_HP_PT_ATF"
+			"/7176/TOI_App_Android/TOI_App_AOS_Fallback/TOI_APP_AOS_FB_ATF_1",
+			"/7176/TOI_App_Android/TOI_App_AOS_Fallback/TOI_APP_AOS_FB_ATF_2",
+			"/7176/TOI_App_Android/TOI_App_AOS_Fallback/TOI_APP_AOS_FB_ATF_3"
 		],
 		"footer": [
-			"7176/TOI_App_Android/TOI_App_AOS_Home/TOI_App_AOS_HP_PT_BTF"
+			"/7176/TOI_App_Android/TOI_App_AOS_Fallback/TOI_APP_AOS_FB_BTF_1",
+			"/7176/TOI_App_Android/TOI_App_AOS_Fallback/TOI_APP_AOS_FB_BTF_2",
+			"/7176/TOI_App_Android/TOI_App_AOS_Fallback/TOI_APP_AOS_FB_BTF_3"
 		],
 		"mrec": [
-			"7176/TOI_App_Android/TOI_App_AOS_Home/TOI_App_AOS_HP_Mrec"
+			"/7176/TOI_App_Android/TOI_App_AOS_Fallback/TOI_APP_AOS_FB_Mrec_1",
+			"/7176/TOI_App_Android/TOI_App_AOS_Fallback/TOI_APP_AOS_FB_Mrec_2",
+			"/7176/TOI_App_Android/TOI_App_AOS_Fallback/TOI_APP_AOS_FB_Mrec_3"
 		]
 	},
 	"section_mapping": [{
