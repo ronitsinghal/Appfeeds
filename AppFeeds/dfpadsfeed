@@ -41,26 +41,25 @@
 		}
 	],
 	"product_mrec_fallback": [{
-			"hl": "Manage your home Screen",
-			"imageid": "69247787&pl=129712&v=123",
+			"hl": "Deeplinked to briefs",
+			"imageid": "69272054",
+			"tn": "deeplink",
+			"wu": "HomeL1/Briefs-01"
+		}, {
+			"hl": "Deeplinked to Manage Home",
+			"imageid": "69272054",
 			"tn": "deeplink",
 			"wu": "ManageHome"
 		},
 		{
-			"hl": "Do you know?",
-			"imageid": "69247787&pl=129712&v=123",
+			"hl": "Deeplinked to notification settings",
+			"imageid": "69272054",
 			"tn": "deeplink",
-			"wu": "HomeL1/Briefs-01"
-		},
-		{
-			"hl": "Try Now",
-			"imageid": "69247787&pl=129712&v=123",
-			"tn": "deeplink",
-			"wu": "settings"
+			"wu": "notification"
 		},
 		{
 			"hl": "Check this out",
-			"imageid": "69247787&pl=129712&v=123",
+			"imageid": "69272054",
 			"tn": "htmlview",
 			"wu": "https://timesofindia.indiatimes.com/elections/news/can-gulp-down-abuses-in-all-dictionaries-of-the-world-pm-modi-on-mamata-banerjee/articleshow/69247727.cms"
 		}
