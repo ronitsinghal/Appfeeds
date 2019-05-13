@@ -16,6 +16,7 @@
 			"/7176/TOI_App_Android/TOI_App_AOS_Fallback/TOI_APP_AOS_FB_Mrec_3"
 		]
 	},
+	  "top_sections":["Top-01", "Briefs-01","City-01","StateElecTab2017-01"],
 	"section_mapping": [{
 			"uid": "Top-01",
 			"header": "/7176/TOI_App_Test/TOI_APP_TEST_FBM_ATF",
