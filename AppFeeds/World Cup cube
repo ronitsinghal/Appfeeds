@@ -1,53 +1,51 @@
 {
-	st: "true",
-	dpt: "15",
-	nst: "300",
-	rt: "10",
-	hl: "ICC World Cup 2019",
-	items: [{
-			tn: "score",
-			hl: "ICC World Cup 2019",
-			wu: "https://m.timesofindia.com/elections",
-			teamA_name: "INDIA",
-			teamA_imgID: "",
-			teamA_score: "162",
-			teamA_wicket: "8",
-			teamA_over: "20.0",
-			teamB_name: "AUS",
-			teamB_imgID: "",
-			teamB_score: "162",
-			teamB_wicket: "8",
-			teamB_over: "20.0",
-			teamB_status: "Yet to bat",
-			status: "India need 20 runs to win"
-		},
-		{
-			tn: "ad"
-		},
-		{
-			{
-				tn: "score",
-				hl: "ICC World Cup 2019",
-				wu: "https://m.timesofindia.com/elections",
-				playerA_name: "S. Dhawan",
-				playerA_imgID: "",
-				playerA_runs: "20",
-				playerA_balls: "10",
-				playerA_status: "onstrike"
-				playerB_runs: "30"
-				playerB_balls: "20",
-				status: "CSK won the toss"
-			},
-
-		},
-		{
-			tn: "ad"
-		}
-	],
-	smallAd: {
-		url: "/7176/TOI_App_Android/TOI_APP_AOS_ROS/TOI_APP_AOS_ROS_CUBE_195x30"
-	},
-	bigAd: {
-		url: "/7176/TOI_App_Android/TOI_APP_AOS_ROS/TOI_APP_AOS_ROS_CUBE_195x85"
-	}
+  "st": "true",
+  "dpt": "15",
+  "nst": "300",
+  "rt": "10",
+  "hl": "ICC World Cup 2019",
+  "items": [
+    {
+      "tn": "score",
+      "hl": "ICC World Cup 2019",
+      "wu": "https://m.timesofindia.com/elections",
+      "teamA_name": "INDIA",
+      "teamA_imgID": "",
+      "teamA_score": "162",
+      "teamA_wicket": "8",
+      "teamA_over": "20.0",
+      "teamB_name": "AUS",
+      "teamB_imgID": "",
+      "teamB_score": "162",
+      "teamB_wicket": "8",
+      "teamB_over": "20.0",
+      "teamB_status": "Yet to bat",
+      "status": "India need 20 runs to win"
+    },
+    {
+      "tn": "ad"
+    },
+    {
+      "tn": "score",
+      "hl": "ICC World Cup 2019",
+      "wu": "https://m.timesofindia.com/elections",
+      "playerA_name": "S. Dhawan",
+      "playerA_imgID": "",
+      "playerA_runs": "20",
+      "playerA_balls": "10",
+      "playerA_status": "onstrike",
+      "playerB_runs": "30",
+      "playerB_balls": "20",
+      "status": "CSK won the toss"
+    },
+    {
+      "tn": "ad"
+    }
+  ],
+  "smallAd": {
+    "url": "/7176/TOI_App_Android/TOI_APP_AOS_ROS/TOI_APP_AOS_ROS_CUBE_195x30"
+  },
+  "bigAd": {
+    "url": "/7176/TOI_App_Android/TOI_APP_AOS_ROS/TOI_APP_AOS_ROS_CUBE_195x85"
+  }
 }
