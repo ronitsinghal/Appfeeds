@@ -17,6 +17,50 @@
 		"securl": "http://m.timesofindia.com/"
 	},
 	"items": [{
+			"hl": "",
+			"id": "68890250",
+			"upd": "1533122062000",
+			"lpt": "1533122062000",
+			"dl": "1531072740000",
+			"tn": "html",
+			"type": "featured",
+			"imageid": "68890250",
+			"wu": "https://m.timesofindia.com/sports/cricket/icc-cricket-world-cup-2019/teams/india"
+		},
+		{
+			"hl": "",
+			"id": "68890250",
+			"upd": "1533122062000",
+			"lpt": "1533122062000",
+			"dl": "1531072740000",
+			"tn": "html",
+			"type": "featured",
+			"imageid": "68890250",
+			"wu": "https://m.timesofindia.com/sports/cricket/icc-cricket-world-cup-2019/teams/australia"
+		},
+		{
+			"hl": "",
+			"id": "68890250",
+			"upd": "1533122062000",
+			"lpt": "1533122062000",
+			"dl": "1531072740000",
+			"tn": "html",
+			"type": "featured",
+			"imageid": "68890250",
+			"wu": "https://m.timesofindia.com/sports/cricket/icc-cricket-world-cup-2019/venues/lords-london"
+		},
+		{
+			"hl": "",
+			"id": "68890250",
+			"upd": "1533122062000",
+			"lpt": "1533122062000",
+			"dl": "1531072740000",
+			"tn": "html",
+			"type": "featured",
+			"imageid": "68890250",
+			"wu": "https://m.timesofindia.com/sports/cricket/icc-cricket-world-cup-2019/venues/old-trafford-manchester"
+		},
+		{
 			"hl": "PHOTOS",
 			"id": "919191212",
 			"tn": "mixedwidgetslider",
