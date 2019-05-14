@@ -16,6 +16,22 @@
 			"secid": "59180198"
 		},
 		{
+			"name": "Venues",
+			"defaulturl": "https://raw.githubusercontent.com/ronitsinghal/Appfeeds/master/AppFeeds/IosMixed.geojson",
+			"tn": "tiledmixed",
+			"uid": "India-01",
+			"ct": "10",
+			"secid": "-2128936835"
+		},
+		{
+			"name": "Teams",
+			"defaulturl": "https://raw.githubusercontent.com/ronitsinghal/Appfeeds/master/AppFeeds/IosMixed.geojson",
+			"tn": "tiledmixed",
+			"uid": "India-01",
+			"ct": "10",
+			"secid": "-2128936835"
+		},
+		{
 			"name": "PrimeList",
 			"defaulturl": "https://timesofindia.indiatimes.com/feeds/testnewslistingfeed/feedtype-sjson,msid-60478120,tag-alrt,uid-PrimeTest-01.cms?platform=iphone&ipver=530&adreqfrm=sec",
 			"tn": "mixed",
