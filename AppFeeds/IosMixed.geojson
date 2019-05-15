@@ -57,6 +57,60 @@
 			"wu": "https://m.timesofindia.com/sports/cricket/icc-cricket-world-cup-2019/venues/old-trafford-manchester"
 		},
 		{
+			"dm": "t",
+			"id": "69038712",
+			"tn": "news",
+			"imageId": "69304866",
+			"wu": "https://timesofindia.indiatimes.com/business/india-business/homeowners-in-india-roll-up-sleeves-to-complete-unfinished-flats/articleshow/69038712.cms"
+		},
+		{
+			"dm": "t",
+			"hl": "Photostory: whats your blood group the answer might reveal some-interesting things about you",
+			"id": "69024174",
+			"imageId": "69304866",
+			"tn": "photostory",
+			"wu": "https://timesofindia.indiatimes.com/life-style/health-fitness/health-news/whats-your-blood-group-the-answer-might-reveal-some-interesting-things-about-you/photostory/69024174.cms"
+		},
+		{
+			"dm": "t",
+			"hl": "Movie-review: kalank",
+			"id": "68918304",
+			"imageId": "69304866",
+			"tn": "movie reviews",
+			"wu": "https://timesofindia.indiatimes.com/entertainment/hindi/movie-reviews/kalank/movie-review/68918304.cms"
+		},
+		{
+			"dm": "t",
+			"hl": "Video: Lok sabha elections 2019 arvind kejriwal releases aaps manifesto, Lok sabha elections 2019 arvind kejriwal.",
+			"id": "69043008",
+			"imageId": "69304866",
+			"tn": "video",
+			"wu": "https://timesofindia.indiatimes.com/videos/news/lok-sabha-elections-2019-arvind-kejriwal-releases-aaps-manifesto/videoshow/69043008.cms"
+		},
+		{
+			"dm": "p",
+			"hl": "Photo: Nora fatehi's hot pictures",
+			"id": "68705460",
+			"imageId": "69304866",
+			"tn": "photo",
+			"wu": "https://photogallery.indiatimes.com/celebs/bollywood/nora-fatehis-hot-pictures/articleshow/68705460.cms"
+		},
+		{
+			"hl": "Live Blog: PM Modi holds mega roadshow in Varanasi",
+			"id": "69034712",
+			"imageId": "69304866",
+			"tn": "htmlview",
+			"wu": "https://timesofindia.indiatimes.com/elections/lok-sabha-elections-2019-live-updates-pm-modi-to-hold-roadshow-in-varanasi-today/liveblog/69034712.cms"
+		},
+		{
+			"dm": "t",
+			"hl": "Article: Homeowners in India roll up sleeves to complete unfinished flats",
+			"id": "69038712",
+			"imageId": "69304866",
+			"tn": "news",
+			"wu": "https://timesofindia.indiatimes.com/business/india-business/homeowners-in-india-roll-up-sleeves-to-complete-unfinished-flats/articleshow/69038712.cms"
+		},
+		{
 			"hl": "PHOTOS",
 			"id": "919191212",
 			"tn": "mixedwidgetslider",
