@@ -1,0 +1,122 @@
+{
+"st": "true",
+"dpt": "30",
+"nst": "60",
+"rt": "5",
+"hl": "ICC World Cup 2019",
+"items": [
+{
+"isLive": "true",
+"tn": "score_teams",
+"hl": "ICC WC 2019, Match 10",
+"wu": "http://m.timesofindia.com/sports/cricket/match-center/icc-cricket-world-cup-warm-up-matches-2019-india-vs-bangladesh-live-cricket-score/scorecard/matchfile-bain05282019189776.cms",
+"lable_imageId": "69535919",
+"teama": {
+"status": "batting",
+"imageid": "63802785",
+"name": "India",
+"score": "251",
+"wickets": "4",
+"overs": "41.0"
+},
+"teamb": {
+"status": "Yet to bat",
+"imageid": "63802666",
+"name": "Bangladesh",
+"score": "",
+"wickets": "",
+"overs": ""
+},
+"result": "Last wicket: Vijay Shankar - 2(7)"
+},
+{
+"tn": "ad"
+},
+{
+"isLive": "true",
+"tn": "score_batting",
+"hl": "ICC WC 2019, Match 10",
+"wu": "http://m.timesofindia.com/sports/cricket/match-center/icc-cricket-world-cup-warm-up-matches-2019-india-vs-bangladesh-live-cricket-score/scorecard/matchfile-bain05282019189776.cms",
+"lable_imageId": "69535919",
+"playera": {
+"name": "Lokesh Rahul",
+"runs": "98",
+"balls": "92",
+"status": ""
+},
+"playerb": {
+"name": "MS Dhoni (W)",
+"runs": "63",
+"balls": "51",
+"status": "onstrike"
+},
+"result": "Last wicket: Vijay Shankar - 2(7)"
+},
+{
+"isLive": "true",
+"tn": "score_teams",
+"hl": "ICC WC 2019, Match 9",
+"wu": "http://m.timesofindia.com/sports/cricket/match-center/icc-cricket-world-cup-warm-up-matches-2019-west-indies-vs-new-zealand-live-cricket-score/scorecard/matchfile-winz05282019189775.cms",
+"lable_imageId": "69535919",
+"teama": {
+"status": "batting",
+"imageid": "63802974",
+"name": "West Indies",
+"score": "367",
+"wickets": "6",
+"overs": "44.1"
+},
+"teamb": {
+"status": "Yet to bat",
+"imageid": "63802846",
+"name": "New Zealand",
+"score": "",
+"wickets": "",
+"overs": ""
+},
+"result": "Last wicket: Nicholas Pooran - 9(7)"
+},
+{
+"tn": "ad"
+},
+{
+"isLive": "true",
+"tn": "score_batting",
+"hl": "ICC WC 2019, Match 9",
+"wu": "http://m.timesofindia.com/sports/cricket/match-center/icc-cricket-world-cup-warm-up-matches-2019-west-indies-vs-new-zealand-live-cricket-score/scorecard/matchfile-winz05282019189775.cms",
+"lable_imageId": "69535919",
+"playera": {
+"name": "Jason Holder (C)",
+"runs": "47",
+"balls": "31",
+"status": "onstrike"
+},
+"playerb": {
+"name": "Andre Russell",
+"runs": "53",
+"balls": "23",
+"status": ""
+},
+"result": "Last wicket: Nicholas Pooran - 9(7)"
+},
+{
+"ag": "TIMESOFINDIA.COM",
+"upd": "1559049000000",
+"lpt": "1559049036110",
+"dl": "1559049000000",
+"hl": "India v Ban Live: Rahul, Dhoni take India forward",
+"imageid": "69543017&pl=171791",
+"id": "69536131",
+"dm": "t",
+"tn": "news",
+"wu": "https://timesofindia.indiatimes.com/sports/cricket/icc-world-cup/icc-cricket-world-cup-2019-india-vs-bangladesh-live-cricket-score-online-streaming/articleshow/69536131.cms",
+"kws": "world cup 2019,live score,live cricket score,India vs Bangladesh,india national cricket team,ind vs ban live score,ind vs ban,ICC World Cup 2019,Cricket World Cup,Bangladesh cricket team"
+}
+],
+"smallAd": {
+"url": "/7176/TOI_App_Android/TOI_APP_AOS_ROS/TOI_APP_AOS_ROS_CUBE_195x30"
+},
+"bigAd": {
+"url": "/7176/TOI_App_Android/TOI_APP_AOS_ROS/TOI_APP_AOS_ROS_CUBE_195x85"
+}
+}
