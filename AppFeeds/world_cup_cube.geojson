@@ -1,0 +1,67 @@
+{
+    "hl": "ICC World Cup 2019",
+    "st": "true",
+    "dpt": "15",
+    "nst": "30",
+    "rt": "5",
+    "items": [
+        {
+            "tn": "score_teams",
+            "hl": "ICC World Cup 2019",
+            "wu": "https://m.timesofindia.com/elections",
+            "isLive":"true",
+            "teamA": {
+                "name": "INDIA",
+                "imgID": "",
+                "score": "162",
+                "wickets": "8",
+                "overs": "20.0"
+            },
+            "teamB": {
+                "name": "AUS",
+                "imgID": "",
+                "score": "142",
+                "wickets": "5",
+                "overs": "15.0",
+                "status": "batting"
+            },
+            "result": "India need 20 runs to win"
+        },
+        {
+            "tn": "ad"
+        },
+        {
+            "tn": "score_batting",
+            "hl": "ICC World Cup 2019",
+            "wu": "https://m.timesofindia.com/elections",
+            "playerB": {
+                "name": "S. Dhawan",
+                "imgID": "",
+                "runs": "30",
+                "balls": "20",
+                "status": "offstrike"
+            },
+            "result": "CSK won the toss"
+        },
+        {
+            "tn": "ad"
+        },
+        {
+            "id": "66810254",
+            "hl": "Prime Photo story for Android New Prime Photo story for Android New Prime Photo story for Android New",
+            "imageid": "66810254",
+            "dl": "1533122062000",
+            "upd": "1533122062000",
+            "tn": "htmlview",
+            "dm": "t",
+            "wu": "https://m.timesofindia.com/slidesowdev/hingot-yuddh-tradition-trumps-over-safety-test/photostory/66810254.cms?platform=android"
+        }
+    ],
+    "smallAd": {
+        "url": "/7176/TOI_App_Android/TOI_APP_AOS_ROS/TOI_APP_AOS_ROS_CUBE_195x30"
+    },
+    "bigAd": {
+        "url": "/7176/TOI_App_Android/TOI_APP_AOS_ROS/TOI_APP_AOS_ROS_CUBE_195x85"
+    }
+}
+
