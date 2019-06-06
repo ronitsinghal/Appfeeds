@@ -35,7 +35,7 @@
             "hl": "ICC World Cup 2019",
             "wu": "https://m.timesofindia.com/elections",
             "playerA": {
-                "name": "R. Sharma",
+                "name": "Ankit Bhardwa",
                 "imgID": "",
                 "runs": "20",
                 "balls": "10",
@@ -46,7 +46,7 @@
                 "imgID": "",
                 "runs": "30",
                 "balls": "20",
-                "status": "offstrike"
+                "status": "onstrike"
             },
             "result": "CSK won the toss"
         },
