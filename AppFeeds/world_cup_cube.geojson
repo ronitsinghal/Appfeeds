@@ -35,11 +35,6 @@
             "hl": "ICC World Cup 2019",
             "wu": "https://m.timesofindia.com/elections",
             "playerA": {
-                "name": "Ankit Bhardwa",
-                "imgID": "",
-                "runs": "20",
-                "balls": "10",
-                "status": "onstrike"
             },
             "playerB": {
                 "name": "S. Dhawan",
