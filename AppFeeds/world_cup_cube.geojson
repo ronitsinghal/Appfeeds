@@ -34,6 +34,13 @@
             "tn": "score_batting",
             "hl": "ICC World Cup 2019",
             "wu": "https://m.timesofindia.com/elections",
+            "playerA": {
+                "name": "R. Sharma",
+                "imgID": "",
+                "runs": "20",
+                "balls": "10",
+                "status": "onstrike"
+            },
             "playerB": {
                 "name": "S. Dhawan",
                 "imgID": "",
@@ -64,4 +71,3 @@
         "url": "/7176/TOI_App_Android/TOI_APP_AOS_ROS/TOI_APP_AOS_ROS_CUBE_195x85"
     }
 }
-
