@@ -1,0 +1,383 @@
+{
+	"dfp_ads_fallback": {
+		"footer": [
+			"/7176/TOI_App_Android/TOI_App_AOS_Fallback/TOI_APP_AOS_FB_BTF_1",
+			"/7176/TOI_App_Android/TOI_App_AOS_Fallback/TOI_APP_AOS_FB_BTF_2",
+			"/7176/TOI_App_Android/TOI_App_AOS_Fallback/TOI_APP_AOS_FB_BTF_3"
+		],
+		"header": [
+			"/7176/TOI_App_Android/TOI_App_AOS_Fallback/TOI_APP_AOS_FB_ATF_1",
+			"/7176/TOI_App_Android/TOI_App_AOS_Fallback/TOI_APP_AOS_FB_ATF_2",
+			"/7176/TOI_App_Android/TOI_App_AOS_Fallback/TOI_APP_AOS_FB_ATF_3"
+		],
+		"mrec": [
+			"/7176/TOI_App_Android/TOI_App_AOS_Fallback/TOI_APP_AOS_FB_Mrec_1",
+			"/7176/TOI_App_Android/TOI_App_AOS_Fallback/TOI_APP_AOS_FB_Mrec_2",
+			"/7176/TOI_App_Android/TOI_App_AOS_Fallback/TOI_APP_AOS_FB_Mrec_3"
+		]
+	},
+	"top_sections": [
+		"Top-01",
+		"Briefs-01",
+		"City-01",
+		"StateElec2017-01"
+	],
+	"product_mrec_fallback": [{
+			"hl": "Short on time",
+			"imageid": "69272054",
+			"tn": "deeplink",
+			"wu": "HomeL1/Briefs-01"
+		},
+		{
+			"hl": "DoYouKnow_ManageHome",
+			"imageid": "69773145",
+			"tn": "deeplink",
+			"wu": "ManageHome"
+		},
+		{
+			"hl": "GettingTooManyNotification",
+			"imageid": "69773181",
+			"tn": "deeplink",
+			"wu": "notification"
+		}, {
+			"hl": "Running Late",
+			"imageid": "69773119",
+			"tn": "deeplink",
+			"wu": "HomeL1/Briefs-01"
+		},
+		{
+			"hl": "DoYouKnow_CustomiseHome",
+			"imageid": "69773169",
+			"tn": "deeplink",
+			"wu": "ManageHome"
+		},
+		{
+			"hl": "GettingTooManyNotification2",
+			"imageid": "69773607",
+			"tn": "deeplink",
+			"wu": "notification"
+		}
+	],
+	"section_mapping": [{
+			"uid": "NC-01",
+			"footer": "/7176/TOI_App_Android/TOI_APP_AOS_Notifications/TOI_App_AOS_NOTI_BTF"
+		},
+		{
+			"uid": "DairyFree-01",
+			"header": "/7176/TOI_App_Test/TOI_App_Test_ATF1",
+			"footer": "/7176/TOI_App_Test/TOI_App_Test_BTF1",
+			"mreclist": "/7176/TOI_App_Test/TOI_App_Test_Mrec1",
+			"mrecshow": "/7176/TOI_App_Test/TOI_App_Test_Mrec1"
+		},
+		{
+			"uid": "FightDengue-01",
+			"header": "/7176/TOI_App_Test/TOI_App_Test_ATF1",
+			"footer": "/7176/TOI_App_Test/TOI_App_Test_BTF1",
+			"mreclist": "/7176/TOI_App_Test/TOI_App_Test_Mrec1",
+			"mrecshow": "/7176/TOI_App_Test/TOI_App_Test_Mrec1"
+		},
+		{
+			"uid": "Mocktale-01",
+			"header": "/7176/TOI_App_Test/TOI_App_Test_ATF1",
+			"footer": "/7176/TOI_App_Test/TOI_App_Test_BTF1",
+			"mreclist": "/7176/TOI_App_Test/TOI_App_Test_Mrec1",
+			"mrecshow": "/7176/TOI_App_Test/TOI_App_Test_Mrec1"
+		},
+		{
+			"uid": "CitizenReporter-01",
+			"header": "/7176/TOI_App_Test/TOI_App_Test_ATF1",
+			"footer": "/7176/TOI_App_Test/TOI_App_Test_BTF1",
+			"mreclist": "/7176/TOI_App_Test/TOI_App_Test_Mrec1",
+			"mrecshow": "/7176/TOI_App_Test/TOI_App_Test_Mrec1"
+		},
+		{
+			"uid": "Others-01",
+			"header": "/7176/TOI_App_Test/TOI_App_Test_ATF1",
+			"footer": "/7176/TOI_App_Test/TOI_App_Test_BTF1",
+			"mreclist": "/7176/TOI_App_Test/TOI_App_Test_Mrec1",
+			"mrecshow": "/7176/TOI_App_Test/TOI_App_Test_Mrec1"
+		},
+		{
+			"uid": "UniformCivilCode-01",
+			"header": "/7176/TOI_App_Test/TOI_App_Test_ATF1",
+			"footer": "/7176/TOI_App_Test/TOI_App_Test_BTF1",
+			"mreclist": "/7176/TOI_App_Test/TOI_App_Test_Mrec1",
+			"mrecshow": "/7176/TOI_App_Test/TOI_App_Test_Mrec1"
+		},
+		{
+			"uid": "Brandwire-01",
+			"header": "/7176/TOI_App_Test/TOI_App_Test_ATF1",
+			"footer": "/7176/TOI_App_Test/TOI_App_Test_BTF1",
+			"mreclist": "/7176/TOI_App_Test/TOI_App_Test_Mrec1",
+			"mrecshow": "/7176/TOI_App_Test/TOI_App_Test_Mrec1"
+		},
+		{
+			"uid": "StateElec2017-01",
+			"header": "/7176/TOI_App_Test/TOI_App_Test_ATF1",
+			"footer": "/7176/TOI_App_Test/TOI_App_Test_BTF1",
+			"mreclist": "/7176/TOI_App_Test/TOI_App_Test_Mrec1",
+			"mrecshow": "/7176/TOI_App_Test/TOI_App_Test_Mrec1"
+		},
+		{
+			"uid": "StateElec2018-01",
+			"header": "/7176/TOI_App_Test/TOI_App_Test_ATF1",
+			"footer": "/7176/TOI_App_Test/TOI_App_Test_BTF1",
+			"mreclist": "/7176/TOI_App_Test/TOI_App_Test_Mrec1",
+			"mrecshow": "/7176/TOI_App_Test/TOI_App_Test_Mrec1"
+		},
+		{
+			"uid": "Humour-01",
+			"header": "/7176/TOI_App_Test/TOI_App_Test_ATF1",
+			"footer": "/7176/TOI_App_Test/TOI_App_Test_BTF1",
+			"mreclist": "/7176/TOI_App_Test/TOI_App_Test_Mrec1",
+			"mrecshow": "/7176/TOI_App_Test/TOI_App_Test_Mrec1"
+		},
+		{
+			"uid": "GoodGovernance-01",
+			"header": "/7176/TOI_App_Test/TOI_App_Test_ATF1",
+			"footer": "/7176/TOI_App_Test/TOI_App_Test_BTF1",
+			"mreclist": "/7176/TOI_App_Test/TOI_App_Test_Mrec1",
+			"mrecshow": "/7176/TOI_App_Test/TOI_App_Test_Mrec1"
+		},
+		{
+			"uid": "Campaign-01",
+			"header": "/7176/TOI_App_Test/TOI_App_Test_ATF1",
+			"footer": "/7176/TOI_App_Test/TOI_App_Test_BTF1",
+			"mreclist": "/7176/TOI_App_Test/TOI_App_Test_Mrec1",
+			"mrecshow": "/7176/TOI_App_Test/TOI_App_Test_Mrec1"
+		},
+		{
+			"uid": "GoodNews-01",
+			"header": "/7176/TOI_App_Test/TOI_App_Test_ATF1",
+			"footer": "/7176/TOI_App_Test/TOI_App_Test_BTF1",
+			"mreclist": "/7176/TOI_App_Test/TOI_App_Test_Mrec1",
+			"mrecshow": "/7176/TOI_App_Test/TOI_App_Test_Mrec1"
+		},
+		{
+			"uid": "Trending-01",
+			"header": "/7176/TOI_App_Test/TOI_App_Test_ATF1",
+			"footer": "/7176/TOI_App_Test/TOI_App_Test_BTF1",
+			"mreclist": "/7176/TOI_App_Test/TOI_App_Test_Mrec1",
+			"mrecshow": "/7176/TOI_App_Test/TOI_App_Test_Mrec1"
+		},
+		{
+			"uid": "Briefs-01",
+			"header": "/7176/TOI_App_Test/TOI_App_Test_ATF1",
+			"footer": "/7176/TOI_App_Test/TOI_App_Test_BTF1",
+			"mreclist": "/7176/TOI_App_Test/TOI_App_Test_Mrec1",
+			"mrecshow": "/7176/TOI_App_Test/TOI_App_Test_Mrec1"
+		},
+		{
+			"uid": "Latest-01",
+			"header": "/7176/TOI_App_Test/TOI_App_Test_ATF1",
+			"footer": "/7176/TOI_App_Test/TOI_App_Test_BTF1",
+			"mreclist": "/7176/TOI_App_Test/TOI_App_Test_Mrec1",
+			"mrecshow": "/7176/TOI_App_Test/TOI_App_Test_Mrec1"
+		},
+		{
+			"uid": "Top-01",
+			"header": "/7176/TOI_App_Test/TOI_App_Test_ATF1",
+			"footer": "/7176/TOI_App_Test/TOI_App_Test_BTF1",
+			"mreclist": "/7176/TOI_App_Test/TOI_App_Test_Mrec1",
+			"mrecshow": "/7176/TOI_App_Test/TOI_App_Test_Mrec1"
+		},
+		{
+			"uid": "City-01",
+			"header": "/7176/TOI_App_Test/TOI_App_Test_ATF1",
+			"footer": "/7176/TOI_App_Test/TOI_App_Test_BTF1",
+			"mreclist": "/7176/TOI_App_Test/TOI_App_Test_Mrec1",
+			"mrecshow": "/7176/TOI_App_Test/TOI_App_Test_Mrec1"
+		},
+		{
+			"uid": "India-01",
+			"header": "/7176/TOI_App_Test/TOI_App_Test_ATF1",
+			"footer": "/7176/TOI_App_Test/TOI_App_Test_BTF1",
+			"mreclist": "/7176/TOI_App_Test/TOI_App_Test_Mrec1",
+			"mrecshow": "/7176/TOI_App_Test/TOI_App_Test_Mrec1"
+		},
+		{
+			"uid": "World-01",
+			"header": "/7176/TOI_App_Test/TOI_App_Test_ATF1",
+			"footer": "/7176/TOI_App_Test/TOI_App_Test_BTF2",
+			"mreclist": "/7176/TOI_App_Test/TOI_App_Test_Mrec1",
+			"mrecshow": "/7176/TOI_App_Test/TOI_App_Test_Mrec1"
+		},
+		{
+			"uid": "Business-01",
+			"header": "/7176/TOI_App_Test/TOI_App_Test_ATF1",
+			"footer": "/7176/TOI_App_Test/TOI_App_Test_BTF1",
+			"mreclist": "/7176/TOI_App_Test/TOI_App_Test_Mrec1",
+			"mrecshow": "/7176/TOI_App_Test/TOI_App_Test_Mrec1"
+		},
+		{
+			"uid": "Budget2018-01",
+			"header": "/7176/TOI_App_Test/TOI_App_Test_ATF1",
+			"footer": "/7176/TOI_App_Test/TOI_App_Test_BTF1",
+			"mreclist": "/7176/TOI_App_Test/TOI_App_Test_Mrec1",
+			"mrecshow": "/7176/TOI_App_Test/TOI_App_Test_Mrec1"
+		},
+		{
+			"uid": "IndependenceDay-01",
+			"header": "/7176/TOI_App_Test/TOI_App_Test_ATF1",
+			"footer": "/7176/TOI_App_Test/TOI_App_Test_BTF1",
+			"mreclist": "/7176/TOI_App_Test/TOI_App_Test_Mrec1",
+			"mrecshow": "/7176/TOI_App_Test/TOI_App_Test_Mrec1"
+		},
+		{
+			"uid": "Tech-01",
+			"header": "/7176/TOI_App_Test/TOI_App_Test_ATF1",
+			"footer": "/7176/TOI_App_Test/TOI_App_Test_BTF1",
+			"mreclist": "/7176/TOI_App_Test/TOI_App_Test_Mrec1",
+			"mrecshow": "/7176/TOI_App_Test/TOI_App_Test_Mrec1"
+		},
+		{
+			"uid": "Sport-01",
+			"header": "/7176/TOI_App_Test/TOI_App_Test_ATF1",
+			"footer": "/7176/TOI_App_Test/TOI_App_Test_BTF1",
+			"mreclist": "/7176/TOI_App_Test/TOI_App_Test_Mrec1",
+			"mrecshow": "/7176/TOI_App_Test/TOI_App_Test_Mrec1"
+		},
+		{
+			"uid": "IPL2017-01",
+			"header": "/7176/TOI_App_Test/TOI_App_Test_ATF1",
+			"footer": "/7176/TOI_App_Test/TOI_App_Test_BTF1",
+			"mreclist": "/7176/TOI_App_Test/TOI_App_Test_Mrec1",
+			"mrecshow": "/7176/TOI_App_Test/TOI_App_Test_Mrec1"
+		},
+		{
+			"uid": "NRI-01",
+			"header": "/7176/TOI_App_Test/TOI_App_Test_ATF1",
+			"footer": "/7176/TOI_App_Test/TOI_App_Test_BTF1",
+			"mreclist": "/7176/TOI_App_Android/TOI_App_AOS_NRI/TOI_App_AOS_NRI_Mrec",
+			"mrecshow": "/7176/TOI_App_Android/TOI_App_AOS_NRI/TOI_App_AOS_NRI_Mrec"
+		},
+		{
+			"uid": "MovieReview-01",
+			"header": "/7176/Etimes_app_android/Etimes_app_aos_movies/Etimes_APP_AOS_Movies_ATF",
+			"footer": "/7176/Etimes_app_android/Etimes_app_aos_movies/Etimes_APP_AOS_Movies_BTF",
+			"mreclist": "/7176/Etimes_app_android/Etimes_app_aos_movies/Etimes_APP_AOS_Movies_Mrec_1",
+			"mrecshow": "/7176/Etimes_app_android/Etimes_app_aos_movies/Etimes_APP_AOS_Movies_Mrec"
+		},
+		{
+			"uid": "Entertainment-01",
+			"header": "/7176/Etimes_app_android/Etimes_app_aos_home/Etimes_APP_AOS_HP_ATF",
+			"footer": "/7176/Etimes_app_android/Etimes_app_aos_home/Etimes_APP_AOS_HP_BTF",
+			"mreclist": "/7176/Etimes_app_android/Etimes_app_aos_home/Etimes_APP_AOS_HP_Mrec_1",
+			"mrecshow": "/7176/Etimes_app_android/Etimes_app_aos_home/Etimes_APP_AOS_HP_Mrec"
+		},
+		{
+			"uid": "TV-01",
+			"header": "/7176/Etimes_app_android/Etimes_app_aos_TV/Etimes_APP_AOS_TV_ATF",
+			"footer": "/7176/Etimes_app_android/Etimes_app_aos_TV/Etimes_APP_AOS_TV_BTF",
+			"mreclist": "/7176/Etimes_app_android/Etimes_app_aos_TV/Etimes_APP_AOS_TV_Mrec_1",
+			"mrecshow": "/7176/Etimes_app_android/Etimes_app_aos_TV/Etimes_APP_AOS_TV_Mrec"
+		},
+		{
+			"uid": "Events-01",
+			"header": "/7176/Etimes_app_android/Etimes_app_aos_home/Etimes_APP_AOS_HP_ATF",
+			"footer": "/7176/Etimes_app_android/Etimes_app_aos_home/Etimes_APP_AOS_HP_BTF",
+			"mreclist": "/7176/Etimes_app_android/Etimes_app_aos_home/Etimes_APP_AOS_HP_Mrec",
+			"mrecshow": "/7176/Etimes_app_android/Etimes_app_aos_home/Etimes_APP_AOS_HP_Mrec"
+		},
+		{
+			"uid": "Beauty_Pageants-01",
+			"header": "/7176/Etimes_app_android/Etimes_APP_AOS_BeautyPegeants/Etimes_APP_AOS_BeautyP_ATF",
+			"footer": "/7176/Etimes_app_android/Etimes_APP_AOS_BeautyPegeants/Etimes_APP_AOS_BeautyP_FBN",
+			"mreclist": "/7176/Etimes_app_android/Etimes_APP_AOS_BeautyPegeants/Etimes_APP_AOS_BeautyP_Mrec",
+			"mrecshow": "/7176/Etimes_app_android/Etimes_APP_AOS_BeautyPegeants/Etimes_APP_AOS_BeautyP_Mrec"
+		},
+		{
+			"uid": "LifeStyle-01",
+			"header": "/7176/Etimes_app_android/Etimes_app_aos_LNS/Etimes_APP_AOS_LNS_ATF",
+			"footer": "/7176/Etimes_app_android/Etimes_app_aos_LNS/Etimes_APP_AOS_LNS_BTF",
+			"mreclist": "'/7176/Etimes_app_android/Etimes_app_aos_LNS/Etimes_APP_AOS_LNS_Mrec_1",
+			"mrecshow": "/7176/Etimes_app_android/Etimes_app_aos_LNS/Etimes_APP_AOS_LNS_Mrec"
+		},
+		{
+			"uid": "EntVideo-01",
+			"header": "/7176/Etimes_app_android/Etimes_app_aos_videos/Etimes_APP_AOS_Videos_ATF",
+			"footer": "/7176/Etimes_app_android/Etimes_app_aos_videos/Etimes_APP_AOS_Videos_BTF",
+			"mreclist": "/7176/Etimes_app_android/Etimes_app_aos_videos/Etimes_APP_AOS_Videos_Mrec",
+			"mrecshow": "/7176/Etimes_app_android/Etimes_app_aos_videos/Etimes_APP_AOS_Videos_Mrec"
+		},
+		{
+			"uid": "EntPhoto-01",
+			"header": "/7176/Etimes_app_android/Etimes_app_aos_photos/Etimes_APP_AOS_Photos_ATF",
+			"footer": "/7176/Etimes_app_android/Etimes_app_aos_photos/Etimes_APP_AOS_Photos_BTF",
+			"mreclist": "/7176/Etimes_app_android/Etimes_app_aos_photos/Etimes_APP_AOS_Photos_Mrec",
+			"mrecshow": "/7176/Etimes_app_android/Etimes_app_aos_photos/Etimes_APP_AOS_Photos_Mrec"
+		},
+		{
+			"uid": "HealthFitness-01",
+			"header": "/7176/TOI_App_Android/TOI_App_AOS_LifeStyle/TOI_App_AOS_LST_PT_ATF",
+			"footer": "/7176/TOI_App_Android/TOI_App_AOS_LifeStyle/TOI_App_AOS_LST_PT_BTF",
+			"mreclist": "/7176/TOI_App_Android/TOI_App_AOS_LifeStyle/TOI_APP_AOS_Health_Mrec",
+			"mrecshow": "/7176/TOI_App_Android/TOI_App_AOS_LifeStyle/TOI_APP_AOS_Health_Mrec"
+		},
+		{
+			"uid": "Education-01",
+			"header": "/7176/TOI_App_Test/TOI_APP_TEST_FBM_ATF",
+			"footer": "/7176/TOI_App_Test/TOI_APP_TEST_FBM_BTF",
+			"mreclist": "/7176/TOI_App_Test/TOI_APP_TEST_FBM_MREC",
+			"mrecshow": "/7176/TOI_App_Test/TOI_APP_TEST_FBM_MREC"
+		},
+		{
+			"uid": "Environment-01",
+			"header": "/7176/TOI_App_Android/TOI_App_AOS_Environment/TOI_App_AOS_ENV_PT_ATF",
+			"footer": "/7176/TOI_App_Android/TOI_App_AOS_Environment/TOI_App_AOS_ENV_PT_BTF",
+			"mreclist": "/7176/TOI_App_Android/TOI_App_AOS_Environment/TOI_App_AOS_ENV_Mrec",
+			"mrecshow": "/7176/TOI_App_Android/TOI_App_AOS_Environment/TOI_App_AOS_ENV_Mrec"
+		},
+		{
+			"uid": "Science-01",
+			"header": "/7176/TOI_App_Android/TOI_App_AOS_Science/TOI_App_AOS_SCI_PT_ATF",
+			"footer": "/7176/TOI_App_Android/TOI_App_AOS_Science/TOI_App_AOS_SCI_PT_BTF",
+			"mreclist": "/7176/TOI_App_Android/TOI_App_AOS_Science/TOI_App_AOS_SCI_Mrec",
+			"mrecshow": "/7176/TOI_App_Android/TOI_App_AOS_Science/TOI_App_AOS_SCI_Mrec"
+		},
+		{
+			"uid": "Photo-01",
+			"header": "/7176/TOI_App_Android/TOI_App_AOS_Photos/TOI_App_AOS_PHT_PT_ATF",
+			"footer": "/7176/TOI_App_Android/TOI_App_AOS_Photos/TOI_App_AOS_PHT_PT_BTF"
+		},
+		{
+			"uid": "USELECTIONS2016-01",
+			"header": "/7176/TOI_App_Android/TOI_App_AOS_USElection/TOI_App_AOS_USElec_ATF",
+			"footer": "/7176/TOI_App_Android/TOI_App_AOS_USElection/TOI_App_AOS_USElec_BTF",
+			"mreclist": "/7176/TOI_App_Android/TOI_App_AOS_USElection/TOI_App_AOS_USElec_Mrec",
+			"mrecshow": "/7176/TOI_App_Android/TOI_App_AOS_USElection/TOI_App_AOS_USElec_Mrec"
+		},
+		{
+			"uid": "RioOlympic-01",
+			"header": "/7176/TOI_App_Android/TOI_App_AOS_Olyampics/TOI_App_AOS_Olyampics_ATF",
+			"footer": "/7176/TOI_App_Android/TOI_App_AOS_Olyampics/TOI_App_AOS_Olyampics_BTF",
+			"mreclist": "/7176/TOI_App_Android/TOI_App_AOS_Olyampics/TOI_App_AOS_Olyampics_Mrec",
+			"mrecshow": "/7176/TOI_App_Android/TOI_App_AOS_Olyampics/TOI_App_AOS_Olyampics_Mrec"
+		},
+		{
+			"uid": "Auto-01",
+			"header": "/7176/TOI_App_Test/TOI_APP_TEST_FBM_ATF",
+			"footer": "/7176/TOI_App_Test/TOI_APP_TEST_FBM_BTF",
+			"mreclist": "/7176/TOI_App_Test/TOI_APP_TEST_FBM_MREC",
+			"mrecshow": "/7176/TOI_App_Test/TOI_APP_TEST_FBM_MREC"
+		},
+		{
+			"uid": "EntVideo-01",
+			"header": "/7176/Etimes_app_android/Etimes_app_aos_videos/Etimes_APP_AOS_Videos_ATF",
+			"footer": "/7176/Etimes_app_android/Etimes_app_aos_videos/Etimes_APP_AOS_Videos_BTF",
+			"mreclist": "/7176/Etimes_app_android/Etimes_app_aos_movies/Etimes_APP_AOS_Movies_Mrec_1",
+			"mrecshow": "/7176/Etimes_app_android/Etimes_app_aos_movies/Etimes_APP_AOS_Movies_Mrec"
+		},
+		{
+			"uid": "Video-01",
+			"footer": "/7176/TOI_App_Android/TOI_App_AOS_Videos/TOI_App_AOS_VDO_PT_BTF"
+		},
+		{
+			"uid": "Generic-01",
+			"header": "/7176/TOI_App_Test/TOI_App_Test_ATF1",
+			"footer": "/7176/Microsite/TOI_Microsite_App_Android/TOI_Microsite_App_AOS_BTF",
+			"mreclist": "/7176/Microsite/TOI_Microsite_App_Android/TOI_Microsite_App_AOS_Mrec",
+			"mrecshow": "/7176/Microsite/TOI_Microsite_App_Android/TOI_Microsite_App_AOS_Mrec"
+		}
+	]
+}
