@@ -7,7 +7,7 @@
 		"isNotificationCenterEnabled": 1,
 		"isSpecialTickerEnabled": 1,
 		"isAdFreeEnabled": 0,
-		"isSecondSplashEnabled": 0,
+		"isSecondSplashEnabled": 1,
 		"isTVGuideEnabled": 1,
 		"isNotificaitonEnabled": 1,
 		"isHomeTopWidgetEnabled": 0,
@@ -98,6 +98,11 @@
 			"hid": "83"
 		},
 		{
+			"k": "mk",
+			"v": "https://www.misskyra.com",
+			"ak": "MK"
+		},
+		{
 			"k": "gn",
 			"v": "https://www.gadgetsnow.com",
 			"ak": "GTech",
@@ -109,6 +114,7 @@
 	"info": {
 		"old_story_limit_hrs": "2160",
 		"DFPInterstitialScreenCount": 5,
+		"cubeDisableCount": "2",
 		"cmp": {
 			"n": "d",
 			"l": "h",
@@ -164,8 +170,9 @@
 		"CtnRecommended_adcode": "207066"
 	},
 	"URLs": {
-		"cubeurl": "https://toibnews.timesofindia.indiatimes.com/Election/election2017_test_ios_app_cube_widget.htm",
-		"dataHubUrl": "https://timesofindia.indiatimes.com/feeds/loksabha_app_datahub_feed.cms?feedtype=sjson&year=%@",
+		"FEED_BRIEF_SHOW": "https://timesofindia.indiatimes.com/feeds/briefshowfeed/feedtype-sjson.cms?msid=%@&ipver=533",
+		"wccubeurl": "https://timesofindia.indiatimes.com/feeds/test_app_cube_cricket_feed.cms?feedtype=sjson&cc=%@",
+		"dataHubUrl": "https://timesofindia.indiatimes.com/feeds/test_loksabha_app_datahub_feed.cms?feedtype=sjson&year=%@",
 		"text_to_speech_url": "https://timesofindia.indiatimes.com/feeds/texttospeechfeed.cms?platform=iphone",
 		"tp_subscription_status": "https://subscription.timesprime.com/til/subscription/app/checkStatus",
 		"tp_savings_api": "https://stage.timesprime.com/TimesPrime/prime/external/updateTOISavings",
@@ -177,34 +184,34 @@
 		"geoUrl": "https://newspointfeeds.indiatimes.com/service/locate",
 		"commentRateInfo": "/feeds/commentrateinfo/feedtype-sjson.cms?msid=%@&getuserrating=1&ratingcount=1",
 		"movieRatingJsonUrl": "/feeds/testshowmovieratingfeed.cms?donotshowurl=1&msid=%@&getuserrating=1",
-		"dailyBriefJsonFormat": "/feeds/testshowfeed.cms?feedtype=sjson&tag=db&msid=%@&ipver=530",
-		"deepShowJsonFormat": "/feeds/testshowfeed.cms?feedtype=sjson&version=v4&tag=deep&msid=%@&ipver=510",
-		"newsDetailUrl": "https://timesofindia.indiatimes.com/feeds/testbookmarkinfo/feedtype-sjson.cms?tag=dngrp&version=v9&%@&ipver=510",
-		"photoStoryJsonFormat": "/feeds/testshowfeed.cms?tag=pssl&perpage=20&feedtype=sjson&msid=%@&ipver=510",
-		"slideShowLinkFeed": "/feeds/testshowfeed.cms?tag=ssl&perpage=20&feedtype=sjson&msid=%@&ipver=510",
-		"dynamicFeedUrl": "https://raw.githubusercontent.com/ronitsinghal/Appfeeds/master/AppFeeds/IphoneFeedURLList.geojson",
-		"lsJsonFormat": "/feeds/testshowfeed.cms?feedtype=sjson&version=v4&tag=ls&msid=%@&ipver=510",
-		"answersJsonFormat": "/feeds/testshowfeed.cms?feedtype=sjson&version=v4&tag=answers&msid=%@&ipver=510",
+		"dailyBriefJsonFormat": "/feeds/testshowfeed.cms?feedtype=sjson&tag=db&msid=%@&ipver=542",
+		"deepShowJsonFormat": "/feeds/testshowfeed.cms?feedtype=sjson&version=v4&tag=deep&msid=%@&ipver=533",
+		"newsDetailUrl": "https://timesofindia.indiatimes.com/feeds/testbookmarkinfo/feedtype-sjson.cms?tag=dngrp&version=v9&%@&ipver=533",
+		"photoStoryJsonFormat": "/feeds/testshowfeed.cms?tag=pssl&perpage=20&feedtype=sjson&msid=%@&ipver=533",
+		"slideShowLinkFeed": "/feeds/testshowfeed.cms?tag=ssl&perpage=20&feedtype=sjson&msid=%@&ipver=533",
+		"dynamicFeedUrl": "https://timesofindia.indiatimes.com/feeds/testfeedurllist4.cms?ts=&platform=iphone&feedtype=sjson&ipver=542",
+		"lsJsonFormat": "/feeds/testshowfeed.cms?feedtype=sjson&version=v4&tag=ls&msid=%@&ipver=533",
+		"answersJsonFormat": "/feeds/testshowfeed.cms?feedtype=sjson&version=v4&tag=answers&msid=%@&ipver=533",
 		"submitReadVoteJsonFeed": "/feeds/vote_json.cms?txtPolliD=%@&PRadio=%@",
-		"articleJsonFormat": "/feeds/testshowfeed.cms?feedtype=sjson&version=v9&tag=news&msid=%@",
-		"movieReviewJsonFormat": "/feeds/testshowfeed.cms?feedtype=sjson&version=v9&tag=mr&msid=%@&ipver=510",
-		"videoJsonFormat": "/feeds/testshowfeed.cms?feedtype=sjson&version=v4&tag=vdo&msid=%@&ipver=510",
-		"pollJsonFormat": "/feeds/testshowfeed.cms?feedtype=sjson&version=v9&tag=poll&msid=%@&ipver=510",
-		"specialsTickerUrl": "https://timesofindia.indiatimes.com/feeds/testspecialtickerfeed/feedtype-sjson.cms?platform=iphone&ipver=460",
+		"articleJsonFormat": "/feeds/testshowfeed.cms?feedtype=sjson&ipver=533&version=v9&tag=news&msid=%@",
+		"movieReviewJsonFormat": "/feeds/testshowfeed.cms?feedtype=sjson&version=v9&tag=mr&msid=%@&ipver=533",
+		"videoJsonFormat": "/feeds/testshowfeed.cms?feedtype=sjson&version=v4&tag=vdo&msid=%@&ipver=533",
+		"pollJsonFormat": "/feeds/testshowfeed.cms?feedtype=sjson&version=v9&tag=poll&msid=%@&ipver=533",
+		"specialsTickerUrl": "https://timesofindia.indiatimes.com/feeds/testspecialtickerfeed/feedtype-sjson.cms?platform=iphone&ipver=542",
 		"stockMarketUrl": "https://toibselivefeeds.indiatimes.com/homepagetoi.json",
-		"adUrl": "https://timesofindia.indiatimes.com/feeds/testtoiadsfeed.cms?feedtype=sjson&platform=iphone&uid=%@&tag=mr&ipver=530",
-		"secondSplashUrl": "https://timesofindia.indiatimes.com/feeds/testtoiiphonesecondsplash.cms?cc=%@&feedtype=sjson&ipver=530",
+		"adUrl": "https://timesofindia.indiatimes.com/feeds/testtoiadsfeed.cms?feedtype=sjson&platform=iphone&uid=%@&tag=mr&ipver=542",
+		"secondSplashUrl": "https://timesofindia.indiatimes.com/feeds/testtoiiphonesecondsplash.cms?cc=%@&feedtype=sjson&ipver=542",
 		"electionAppHomeWidget": "https://timesofindia.indiatimes.com/feeds/testappelectionhomewidget.cms?feedtype=sjson",
 		"homeWidget": "https://timesofindia.indiatimes.com/feeds/testapphomewidget.cms?feedtype=sjson",
-		"searchNewsFeed": "https://timesofindia.indiatimes.com/feeds/testappsearch.cms?t=n&cleantag=syn&feedtype=sjson&query=%@&tag=%@&ipver=530",
-		"searchPhotoFeed": "https://timesofindia.indiatimes.com/feeds/testappsearch.cms?t=p&cleantag=syn&feedtype=sjson&query=%@&ipver=530",
+		"searchNewsFeed": "https://timesofindia.indiatimes.com/feeds/testappsearch.cms?t=n&cleantag=syn&feedtype=sjson&query=%@&tag=%@&ipver=542",
+		"searchPhotoFeed": "https://timesofindia.indiatimes.com/feeds/testappsearch.cms?t=p&cleantag=syn&feedtype=sjson&query=%@&ipver=542",
 		"ePaperListPageURL": "http://newspointepaperfeeds.indiatimes.com/NPRSS/epaper/newedition?pub=TOI%20CAP&edition=Delhi&date=%@",
 		"ePaperShowPageURL": "https://s3-ap-southeast-1.amazonaws.com/newspoint/%@",
-		"otherAppLink": "https://timesofindia.indiatimes.com/feeds/applist.cms?platform=iphone&ipver=530",
+		"otherAppLink": "https://timesofindia.indiatimes.com/feeds/applist.cms?platform=iphone&ipver=542",
 		"privacyPolicyUrl": "https://m.timesofindia.com/androidprivacypolicy.cms?frmapp=yes",
 		"termsOfUseUrl": "https://m.timesofindia.com/androidtermsofuse.cms?frmapp=yes",
 		"aboutUsUrl": "http://m.timesofindia.com/androidaboutus.cms?frmapp=yes",
-		"videoCheckUrl": "https://timesofindia.indiatimes.com/feeds/testlivetvgeofeed.cms?feedtype=sjson&cc=%@&ipver=530",
+		"videoCheckUrl": "https://timesofindia.indiatimes.com/feeds/testlivetvgeofeed.cms?feedtype=sjson&cc=%@&ipver=542",
 		"gdpr_User_Consent": "https://etservices2.indiatimes.com/times/consent",
 		"gdpr_User_Data": "http://sp.m.timesofindia.com/getuserdata",
 		"gdpr_User_Data_Otp_Verify": "https://gdprservices.indiatimes.com/changeVerificationStatus",
@@ -215,7 +222,7 @@
 		"reportABugEmailId": "toi.iphone@timesinternet.in",
 		"thumbUrlFormat": "https://timesofindia.indiatimes.com/thumb.cms?photoid=",
 		"deepLinkWebUrl": "http://toi.in/%@",
-		"geoLocationURL": "https://timesofindia.indiatimes.com/feeds/testgeocitiesfeed.cms?loc=%@&secname=%@&feedtype=sjson&ipver=530",
+		"geoLocationURL": "https://timesofindia.indiatimes.com/feeds/testgeocitiesfeed.cms?loc=%@&secname=%@&feedtype=sjson&ipver=542",
 		"commentCount": "https://myt.indiatimes.com/mytimes/sharedEntityV2?msids=%@&appKey=%@&activityName=Commented&isMovieReviewArticle=%@&ticketId=%@",
 		"addCommentUrl": "/feeds/testpostcomment.cms",
 		"mytTopComment": "https://myt.indiatimes.com/mytimes/mobile/topcomment/feed?msid=%@&appkey=%@&sortcriteria=discussed",
@@ -621,23 +628,26 @@
 			"footer": "/7176/TOI_App_Android/TOI_APP_AOS_Notifications/TOI_App_AOS_NOTI_BTF"
 		},
 		"inlinefullscreen": [{
-				"adcode": "207018",
-				"publisher": "CTN",
-				"type": "articleshow",
-				"screencount": "5"
+				"adcode": "326552",
+				"type": "articleshowfullscreen",
+				"expiry": "24"
 			},
 			{
-				"adcode": "297494",
-				"publisher": "CTN",
+				"adcode": "328140",
 				"type": "brieffullscreen",
-				"screencount": "5"
+				"expiry": "24"
 			},
 			{
-				"adcode": "129993",
-				"publisher": "CTN",
+				"adcode": "328141",
 				"type": "photosfullscreen",
-				"screencount": "5"
+				"expiry": "24"
 			}
+		],
+		"inline_fallback_images": [
+			"69272054",
+			"69272054",
+			"69272054",
+			"69272054"
 		]
 	}
 }
