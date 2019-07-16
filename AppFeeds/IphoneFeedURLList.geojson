@@ -1,66 +1,36 @@
 {
 	"home": [{
 			"name": "TOP",
-			"defaulturl": "https://timesofindia.indiatimes.com/feeds/testhomenewslistingfeed/feedtype-sjson,msid-51396865,tag-strt,uid-Top-01.cms?platform=iphone&ipver=550&adreqfrm=home&secid=<top_cityid>",
+			"defaulturl": "https://timesofindia.indiatimes.com/feeds/testhomenewslistingfeed/feedtype-sjson,msid-51396865,tag-strt,uid-Top-01.cms?platform=iphone&ipver=545&adreqfrm=home&secid=<top_cityid>",
 			"tn": "mixed",
 			"uid": "Top-01",
 			"auid": "Top-01",
+			"IsPinned": "true",
 			"ct": "3",
 			"secid": "51396865"
 		},
 		{
-			"name": "ETimes",
-			"display_name": "ETimes",
-			"defaulturl": "https://timesofindia.indiatimes.com/feeds/testnewslistingfeedetimes/feedtype-sjson,msid-0001,tag-alrt,uid-Entertainment-01,category-Entertainment-01,t-f.cms?platform=iphone&ipver=550&adreqfrm=sec",
-			"widgeturl": "https://timesofindia.indiatimes.com/feeds/testnewslistingfeedetimes/feedtype-sjson,msid-0001,tag-alrt,uid-Entertainment-01,category-Entertainment-01,t-f.cms?platform=iphone&ipver=550&adreqfrm=widget",
-			"tn": "mixed",
-			"uid": "Entertainment-01",
-			"auid": "Entertainment-01",
-			"ct": "10",
-			"secid": "0001",
-			"geo": "yes"
-		},
-		{
-			"name": "PrimeList",
-			"defaulturl": "https://timesofindia.indiatimes.com/feeds/testnewslistingfeed/feedtype-sjson,msid-60478120,tag-alrt,uid-PrimeTest-01.cms?platform=iphone&ipver=550&adreqfrm=sec",
-			"tn": "mixed",
-			"uid": "KARTabElection123-01",
-			"auid": "PrimeTest-01",
-			"ct": "10",
-			"secid": "60478120"
-		},
-		{
-			"name": "PrimeList ALL",
-			"defaulturl": "https://timesofindia.indiatimes.com/feeds/testnewslistingfeed/feedtype-sjson,msid-60478120,tag-alrt,uid-PrimeTest-01,type-primeall.cms?platform=iphone&ipver=550&adreqfrm=sec",
-			"tn": "mixed",
-			"uid": "PrimeListAll-01",
-			"auid": "PrimeTest-01",
-			"ct": "10",
-			"secid": "60478120"
-		},
-		{
-			"name": "VIDEOS",
-			"defaulturl": "https://timesofindia.indiatimes.com/feeds/testvidcombinedfeed/feedtype-sjson,uid-Vdeo-01.cms?platform=iphone&ipver=550&adreqfrm=sec&regvidid=<reg_videoid>",
-			"tn": "mixed",
-			"uid": "VideoTB-01",
-			"auid": "Vdeo-01",
-			"ct": "10",
-			"IsPinned": "true",
-			"secid": ""
-		},
-		{
 			"name": "BRIEFS",
-			"defaulturl": "https://timesofindia.indiatimes.com/feeds/testnewslistingfeed/feedtype-sjson,msid-48986328,tag-alrt,uid-Briefs-01,type-brief,category-Briefs-01.cms?platform=iphone&ipver=550&adreqfrm=sec",
+			"defaulturl": "https://timesofindia.indiatimes.com/feeds/testnewslistingfeed/feedtype-sjson,msid-48986328,tag-alrt,uid-Briefs-01,type-brief,category-Briefs-01.cms?platform=iphone&ipver=545&adreqfrm=sec",
 			"tn": "mixed",
 			"uid": "Briefs-01",
 			"auid": "Briefs-01",
 			"ct": "15",
+			"IsPinned": "true",
 			"secid": "48986328"
 		},
 		{
+			"name": "VIDEOS",
+			"defaulturl": "https://timesofindia.indiatimes.com/feeds/testvidcombinedfeed/feedtype-sjson,msid-,uid-Vdeo-01.cms?platform=iphone&ipver=545&adreqfrm=sec&regvidid=<reg_videoid>",
+			"tn": "mixed",
+			"uid": "VideoTB-01",
+			"auid": "Vdeo-01",
+			"ct": "10",
+			"secid": ""
+		},
+		{
 			"name": "Local",
-			"display_name": "All Cities",
-			"defaulturl": "https://timesofindia.indiatimes.com/feeds/testnewslistingfeedmc/feedtype-sjson,msid--2128932452,tag-alrt,uid-City-01,category-City-01,t-f.cms?platform=iphone&ipver=550&adreqfrm=sec",
+			"defaulturl": "https://timesofindia.indiatimes.com/feeds/testnewslistingfeedmc/feedtype-sjson,msid--2128932452,tag-alrt,uid-City-01,category-City-01,t-f.cms?platform=iphone&ipver=545&adreqfrm=sec",
 			"tn": "mixed",
 			"uid": "City-01",
 			"auid": "City-01",
@@ -69,44 +39,8 @@
 			"geo": "yes"
 		},
 		{
-			"name": "Elections 2019",
-			"defaulturl": "https://timesofindia.indiatimes.com/feeds/testnewslistingfeed/feedtype-sjson,msid-56330004,tag-alrt,uid-StateElec2017-01,category-StateElec2017-01.cms?platform=iphone&ipver=550&adreqfrm=sec",
-			"tn": "mixed",
-			"uid": "StateElecTab2017-01",
-			"auid": "StateElec2017-01",
-			"ct": "10",
-			"IsPinned": "true",
-			"secid": "56330004"
-		},
-		{
-			"name": "ICC WC 2019",
-			"defaulturl": "https://timesofindia.indiatimes.com/feeds/testnewslistingfeed/feedtype-sjson,msid-56330004,tag-alrt,uid-StateElec2017-01,category-ICCWC2019-01.cms?platform=iphone&ipver=550&adreqfrm=sec",
-			"tn": "mixed",
-			"uid": "StateElecTab2018-01",
-			"auid": "StateElec2017-01",
-			"ct": "10",
-			"IsPinned": "true",
-			"secid": "56330004"
-		},
-		{
-			"name": "Election Mixed",
-			"defaulturl": "https://timesofindia.indiatimes.com/feeds/election_mixed_test_feed/feedtype-sjson.cms?platform=iphone&ipver=550&adreqfrm=sec",
-			"tn": "mixed",
-			"uid": "ElectionMixed-01",
-			"ct": "10",
-			"secid": ""
-		},
-		{
-			"name": "Election Mixed2",
-			"defaulturl": "https://timesofindia.indiatimes.com/feeds/election_mixed_test_feed1/feedtype-sjson.cms?platform=iphone&ipver=550&adreqfrm=sec",
-			"tn": "mixed",
-			"uid": "ElectionMixed1-01",
-			"ct": "10",
-			"secid": ""
-		},
-		{
 			"name": "PHOTOS",
-			"defaulturl": "https://photogallery.indiatimes.com/feeds/testcombinedfeed/feedtype-sjson,uid-Photos-01.cms?platform=iphone&ipver=550&adreqfrm=sec",
+			"defaulturl": "https://photogallery.indiatimes.com/feeds/testcombinedfeed/feedtype-sjson,msid-,uid-Photos-01.cms?platform=iphone&ipver=545&adreqfrm=sec",
 			"tn": "mixed",
 			"uid": "Photos-01",
 			"auid": "Photos-01",
@@ -115,7 +49,7 @@
 		},
 		{
 			"name": "LATEST",
-			"defaulturl": "https://timesofindia.indiatimes.com/feeds/testnewslistingfeed/feedtype-sjson,tag-latest,uid-Latest-01.cms?platform=iphone&ipver=550&adreqfrm=sec",
+			"defaulturl": "https://timesofindia.indiatimes.com/feeds/testnewslistingfeed/feedtype-sjson,msid-,tag-latest,uid-Latest-01.cms?platform=iphone&ipver=545&adreqfrm=sec",
 			"tn": "mixed",
 			"uid": "Latest-01",
 			"auid": "Latest-01",
@@ -124,7 +58,7 @@
 		},
 		{
 			"name": "Live TV",
-			"defaulturl": "https://timesofindia.indiatimes.com/feeds/feedurllist4/feedtype-sjson,uid-Channels-01,category-livetv.cms?platform=iphone&ipver=550&adreqfrm=sec",
+			"defaulturl": "https://timesofindia.indiatimes.com/feeds/feedurllist4/feedtype-sjson,msid-,uid-Channels-01,category-livetv.cms?platform=iphone&ipver=545&adreqfrm=sec",
 			"tn": "channels",
 			"uid": "Channels-01",
 			"auid": "Channels-01",
@@ -132,45 +66,10 @@
 			"secid": ""
 		},
 		{
-			"name": "Gadgets",
-			"defaulturl": "https://www.gadgetsnow.com/feeds/testnewslistingfeed/feedtype-sjson,msid-58110651,tag-hierarchy,uid-Gadgetsnow-01,category-TechTab-01.cms?platform=iphone&ipver=550&adreqfrm=sec",
-			"tn": "mixed",
-			"uid": "TopGadgets-01",
-			"auid": "Gadgetsnow-01",
-			"ct": "10",
-			"secid": "58110651"
-		},
-		{
-			"name": "TRENDING",
-			"defaulturl": "https://timesofindia.indiatimes.com/feeds/testnewslistingfeed/feedtype-sjson,tag-trending,uid-Trending-01.cms?platform=iphone&ipver=550&adreqfrm=sec",
-			"tn": "mixed",
-			"uid": "Trending-01",
-			"auid": "Trending-01",
-			"ct": "30",
-			"secid": ""
-		},
-		{
-			"name": "Mixed",
-			"defaulturl": "https://timesofindia.indiatimes.com/feeds/ntoitestfeed/feedtype-sjson,uid-Kichdi-01.cms?platform=iphone&ipver=550&adreqfrm=sec",
-			"tn": "mixed",
-			"uid": "Kichdi-01",
-			"auid": "Kichdi-01",
-			"ct": "7",
-			"secid": ""
-		},
-		{
 			"name": "IOS MIXED",
 			"defaulturl": "https://raw.githubusercontent.com/ronitsinghal/Appfeeds/master/AppFeeds/IosMixed.geojson",
-			"tn": "mixed",
+			"tn": "prmixed",
 			"uid": "IOSMixed",
-			"ct": "5",
-			"secid": ""
-		},
-		{
-			"name": "Rajanikant",
-			"defaulturl": "https://raw.githubusercontent.com/himanshu021/android-prime/master/androidprime.json",
-			"tn": "mixed",
-			"uid": "RajaniKant-01",
 			"ct": "5",
 			"secid": ""
 		}
@@ -178,8 +77,8 @@
 	"items": [{
 			"name": "Entertainment (ETimes)",
 			"display_name": "ETimes",
-			"defaulturl": "https://timesofindia.indiatimes.com/feeds/testnewslistingfeedetimes/feedtype-sjson,msid-0001,tag-alrt,uid-Entertainment-01,category-Entertainment-01,t-f.cms?platform=iphone&ipver=550&adreqfrm=sec",
-			"widgeturl": "https://timesofindia.indiatimes.com/feeds/testnewslistingfeedetimes/feedtype-sjson,msid-0001,tag-alrt,uid-Entertainment-01,category-Entertainment-01,t-f.cms?platform=iphone&ipver=550&adreqfrm=widget",
+			"defaulturl": "https://timesofindia.indiatimes.com/feeds/testnewslistingfeedetimes/feedtype-sjson,msid-0001,tag-alrt,uid-Entertainment-01,category-Entertainment-01,t-f.cms?platform=iphone&ipver=545&adreqfrm=sec",
+			"widgeturl": "https://timesofindia.indiatimes.com/feeds/testnewslistingfeedmc/feedtype-sjson,msid-1081479906,tag-alrt,uid-Entertainment-01,category-Entertainment-01,t-f.cms?platform=iphone&ipver=545&adreqfrm=widget",
 			"tn": "mixed",
 			"uid": "Entertainment-01",
 			"auid": "Entertainment-01",
@@ -188,27 +87,8 @@
 			"geo": "yes"
 		},
 		{
-			"name": "Web Series",
-			"defaulturl": "https://m.timesofindia.com/web-series/mx-player?frmapp=yes",
-			"tn": "htmlview",
-			"uid": "WebSeries-01",
-			"auid": "-01",
-			"ct": "10",
-			"dnseu": "true",
-			"secid": ""
-		},
-		{
-			"name": "Test Featured",
-			"defaulturl": "https://timesofindia.indiatimes.com/feeds/testnewslistingfeed/feedtype-sjson,msid-7327198,tag-alrtdf,uid-Entertainment-01.cms?platform=iphone&ipver=550&adreqfrm=sec",
-			"tn": "mixed",
-			"uid": "TestFeatured-01",
-			"auid": "Entertainment-01",
-			"ct": "10",
-			"secid": "7327198"
-		},
-		{
 			"name": "PrimeList Mix",
-			"defaulturl": "https://timesofindia.indiatimes.com/feeds/testnewslistingfeed/feedtype-sjson,msid-60478120,tag-alrt,uid-PrimeTest-01.cms?platform=iphone&ipver=550&adreqfrm=sec",
+			"defaulturl": "https://timesofindia.indiatimes.com/feeds/testnewslistingfeed/feedtype-sjson,msid-60478120,tag-alrt,uid-PrimeTest-01.cms?platform=iphone&ipver=545&adreqfrm=sec",
 			"tn": "prmixed",
 			"uid": "TOIPlus-01",
 			"auid": "PrimeTest-01",
@@ -219,56 +99,10 @@
 			"nbrimageid": "https://timesofindia.indiatimes.com/photo/68354904.cms"
 		},
 		{
-			"name": "Prime Test New",
-			"defaulturl": "https://timesofindia.indiatimes.com/feeds/newslistingfeed/feedtype-sjson,msid-66511333,tag-alrt,uid-StateElec2017-01.cms?platform=iphone&ipver=550&adreqfrm=sec",
-			"tn": "mixed",
-			"uid": "StateElec20-01",
-			"auid": "StateElec2017-01",
-			"ct": "10",
-			"secid": "66511333"
-		},
-		{
-			"name": "Elections 2019",
-			"defaulturl": "https://timesofindia.indiatimes.com/feeds/testnewslistingfeed/feedtype-sjson,msid-56330004,tag-alrt,uid-StateElec2017-01,category-StateElec2017-01.cms?platform=iphone&ipver=550&adreqfrm=sec",
-			"widgeturl": "https://timesofindia.indiatimes.com/feeds/testnewslistingfeed/feedtype-sjson,msid-56330004,tag-alrt,uid-StateElec2017-01,category-StateElec2017-01.cms?platform=iphone&ipver=550&adreqfrm=widget",
-			"tn": "mixed",
-			"uid": "StateElec2017-01",
-			"auid": "StateElec2017-01",
-			"ct": "10",
-			"IsPinned": "true",
-			"secid": "56330004"
-		},
-		{
-			"name": "Data Hub",
-			"defaulturl": "https://timesofindia.indiatimes.com/feeds/loksabha_app_datahub_feed.cms?feedtype=sjson&year=2014",
-			"tn": "datahublist",
-			"uid": "DataHubList-01",
-			"ct": "10",
-			"secid": ""
-		},
-		{
-			"name": "Election Mixed",
-			"defaulturl": "https://timesofindia.indiatimes.com/feeds/election_mixed_test_feed/feedtype-sjson.cms?platform=iphone&ipver=550&adreqfrm=sec",
-			"tn": "mixed",
-			"uid": "ElectionMixed-01",
-			"ct": "10",
-			"secid": ""
-		},
-		{
-			"name": "IPL 2019",
-			"defaulturl": "https://timesofindia.indiatimes.com/feeds/testnewslistingfeedmc/feedtype-sjson,msid-57119951,tag-alrt,uid-IPL2017-01,category-IPL2017-01.cms?platform=iphone&ipver=550&adreqfrm=sec",
-			"widgeturl": "https://timesofindia.indiatimes.com/feeds/testnewslistingfeedmc/feedtype-sjson,msid-57119951,tag-alrt,uid-IPL2017-01,category-IPL2017-01.cms?platform=iphone&ipver=550&adreqfrm=widget",
-			"tn": "mixed",
-			"uid": "IPL2017-01",
-			"auid": "IPL2017-01",
-			"ct": "10",
-			"secid": "57119951"
-		},
-		{
 			"name": "Local",
 			"display_name": "All Cities",
-			"defaulturl": "https://timesofindia.indiatimes.com/feeds/testnewslistingfeedmc/feedtype-sjson,msid--2128932452,tag-alrt,uid-City-01,category-City-01,t-f.cms?platform=iphone&ipver=550&adreqfrm=sec",
-			"widgeturl": "https://timesofindia.indiatimes.com/feeds/testnewslistingfeedmc/feedtype-sjson,msid--2128932452,tag-alrt,uid-City-01,category-City-01,t-f.cms?platform=iphone&ipver=550&adreqfrm=widget",
+			"defaulturl": "https://timesofindia.indiatimes.com/feeds/testnewslistingfeedmc/feedtype-sjson,msid--2128932452,tag-alrt,uid-City-01,category-City-01,t-f.cms?platform=iphone&ipver=545&adreqfrm=sec",
+			"widgeturl": "https://timesofindia.indiatimes.com/feeds/testnewslistingfeedmc/feedtype-sjson,msid--2128932452,tag-alrt,uid-City-01,category-City-01,t-f.cms?platform=iphone&ipver=545&adreqfrm=widget",
 			"tn": "mixed",
 			"uid": "City-01",
 			"auid": "City-01",
@@ -290,7 +124,7 @@
 		},
 		{
 			"name": "India",
-			"defaulturl": "https://timesofindia.indiatimes.com/feeds/testnewslistingfeedmc/feedtype-sjson,msid-4440100,tag-alrt,uid-India-01,category-India-01.cms?platform=iphone&ipver=550&adreqfrm=sec",
+			"defaulturl": "https://timesofindia.indiatimes.com/feeds/testnewslistingfeedmc/feedtype-sjson,msid-4440100,tag-alrt,uid-India-01,category-India-01.cms?platform=iphone&ipver=545&adreqfrm=sec",
 			"tn": "mixed",
 			"uid": "India-01",
 			"auid": "India-01",
@@ -299,7 +133,7 @@
 		},
 		{
 			"name": "Politics",
-			"defaulturl": "https://timesofindia.indiatimes.com/feeds/testnewslistingfeedmc/feedtype-sjson,msid-66274811,tag-alrt,uid-India-01,category-Politics-01.cms?platform=iphone&ipver=550&adreqfrm=sec",
+			"defaulturl": "https://timesofindia.indiatimes.com/feeds/testnewslistingfeedmc/feedtype-sjson,msid-66274811,tag-alrt,uid-India-01,category-Politics-01.cms?platform=iphone&ipver=545&adreqfrm=sec",
 			"tn": "mixed",
 			"uid": "Politics-01",
 			"auid": "India-01",
@@ -308,7 +142,7 @@
 		},
 		{
 			"name": "World",
-			"defaulturl": "https://timesofindia.indiatimes.com/feeds/testnewslistingfeedmc/feedtype-sjson,msid-296589292,tag-alrt,uid-World-01,category-World-01.cms?platform=iphone&ipver=550&adreqfrm=sec",
+			"defaulturl": "https://timesofindia.indiatimes.com/feeds/testnewslistingfeedmc/feedtype-sjson,msid-296589292,tag-alrt,uid-World-01,category-World-01.cms?platform=iphone&ipver=545&adreqfrm=sec",
 			"tn": "mixed",
 			"uid": "World-01",
 			"auid": "World-01",
@@ -317,7 +151,7 @@
 		},
 		{
 			"name": "Times Fact-Check",
-			"defaulturl": "https://timesofindia.indiatimes.com/feeds/testnewslistingfeedmc/feedtype-sjson,msid-65606380,tag-alrt,uid-Others-01,category-TimesFactCheck-01.cms?platform=iphone&ipver=550&adreqfrm=sec",
+			"defaulturl": "https://timesofindia.indiatimes.com/feeds/testnewslistingfeedmc/feedtype-sjson,msid-65606380,tag-alrt,uid-Others-01,category-TimesFactCheck-01.cms?platform=iphone&ipver=545&adreqfrm=sec",
 			"tn": "mixed",
 			"uid": "TimesFactCheck-01",
 			"auid": "Others-01",
@@ -336,7 +170,7 @@
 		},
 		{
 			"name": "Photos (ETimes)",
-			"defaulturl": "https://photogallery.indiatimes.com/feeds/testnewslistingfeed/feedtype-sjson,tag-top,uid-Photo-01,category-Photo-01.cms?platform=iphone&ipver=550&adreqfrm=sec",
+			"defaulturl": "https://photogallery.indiatimes.com/feeds/testnewslistingfeed/feedtype-sjson,msid-,tag-top,uid-Photo-01,category-Photo-01.cms?platform=iphone&ipver=545&adreqfrm=sec",
 			"tn": "photolist",
 			"uid": "Photo-01",
 			"auid": "Photo-01",
@@ -345,7 +179,7 @@
 		},
 		{
 			"name": "Movie Reviews",
-			"defaulturl": "https://timesofindia.indiatimes.com/feeds/testnewslistingfeedetimes/feedtype-sjson,msid-0003,tag-dummy,uid-Entertainment-01,category-MovieReview-01.cms?platform=iphone&ipver=550&adreqfrm=sec",
+			"defaulturl": "https://timesofindia.indiatimes.com/feeds/testnewslistingfeedetimes/feedtype-sjson,msid-0003,tag-dummy,uid-Entertainment-01,category-MovieReview-01.cms?platform=iphone&ipver=545&adreqfrm=sec",
 			"tn": "mixed",
 			"uid": "EntMovieReviews-01",
 			"auid": "Entertainment-01",
@@ -354,19 +188,19 @@
 		},
 		{
 			"name": "TV",
-			"defaulturl": "https://timesofindia.indiatimes.com/feeds/testnewslistingfeedetimes/feedtype-sjson,msid-17781976,tag-alrt,uid-Entertainment-01,category-TV-01,t-f.cms?platform=iphone&ipver=550&adreqfrm=sec",
-			"widgeturl": "https://timesofindia.indiatimes.com/feeds/testnewslistingfeedetimes/feedtype-sjson,msid-17781976,tag-alrt,uid-Entertainment-01,category-TV-01,t-f.cms?platform=iphone&ipver=550&adreqfrm=widget",
+			"defaulturl": "https://timesofindia.indiatimes.com/feeds/testnewslistingfeedetimes/feedtype-sjson,msid-17781976,tag-alrt,uid-TV-01,category-TV-01,t-f.cms?platform=iphone&ipver=545&adreqfrm=sec",
+			"widgeturl": "https://timesofindia.indiatimes.com/feeds/testnewslistingfeedmc/feedtype-sjson,msid-17781976,tag-alrt,uid-TV-01,category-TVWidgetNews-01,t-f.cms?platform=iphone&ipver=545&adreqfrm=widget",
 			"tn": "mixed",
 			"uid": "TV-01",
-			"auid": "Entertainment-01",
+			"auid": "TV-01",
 			"ct": "10",
 			"secid": "17781976",
 			"geo": "yes"
 		},
 		{
 			"name": "Life & Style",
-			"defaulturl": "https://timesofindia.indiatimes.com/feeds/testnewslistingfeedetimes/feedtype-sjson,msid-2886704,tag-alrt,uid-Entertainment-01,category-LifeStyle-01,t-f.cms?platform=iphone&ipver=550&adreqfrm=sec",
-			"widgeturl": "https://timesofindia.indiatimes.com/feeds/testnewslistingfeedetimes/feedtype-sjson,msid-2886704,tag-alrt,uid-Entertainment-01,category-LifeStyle-01,t-f.cms?platform=iphone&ipver=550&adreqfrm=widget",
+			"defaulturl": "https://timesofindia.indiatimes.com/feeds/testnewslistingfeedetimes/feedtype-sjson,msid-2886704,tag-alrt,uid-Entertainment-01,category-LifeStyle-01,t-f.cms?platform=iphone&ipver=545&adreqfrm=sec",
+			"widgeturl": "https://timesofindia.indiatimes.com/feeds/testnewslistingfeedetimes/feedtype-sjson,msid-2886704,tag-alrt,uid-Entertainment-01,category-LifeStyle-01,t-f.cms?platform=iphone&ipver=545&adreqfrm=widget",
 			"tn": "mixed",
 			"uid": "LifeStyle-01",
 			"auid": "Entertainment-01",
@@ -376,8 +210,8 @@
 		{
 			"name": "Cricket",
 			"defaulturl": "http://www.cricbuzz.com/",
-			"widgeturl": "https://timesofindia.indiatimes.com/feeds/testnewslistingfeedmc/feedtype-sjson,msid-4719161,tag-alrt.cms?platform=iphone&ipver=550&adreqfrm=widget",
-			"tn": "htmlview",
+			"widgeturl": "https://timesofindia.indiatimes.com/feeds/testnewslistingfeedmc/feedtype-sjson,msid-4719161,tag-alrt.cms?platform=iphone&ipver=545&adreqfrm=widget",
+			"tn": "sfview",
 			"uid": "Cricket-01",
 			"ct": "10",
 			"dnseu": "true",
@@ -385,7 +219,7 @@
 		},
 		{
 			"name": "HOCKEY WORLD CUP",
-			"defaulturl": "https://timesofindia.indiatimes.com/feeds/testnewslistingfeedmc/feedtype-sjson,msid-66119642,tag-alrt,uid-Sport-01.cms?platform=iphone&ipver=550&adreqfrm=sec",
+			"defaulturl": "https://timesofindia.indiatimes.com/feeds/testnewslistingfeedmc/feedtype-sjson,msid-66119642,tag-alrt,uid-Sport-01.cms?platform=iphone&ipver=545&adreqfrm=sec",
 			"tn": "mixed",
 			"uid": "Hockeyworldcup-01",
 			"auid": "Sport-01",
@@ -394,8 +228,8 @@
 		},
 		{
 			"name": "Sports",
-			"defaulturl": "https://timesofindia.indiatimes.com/feeds/testnewslistingfeedmc/feedtype-sjson,msid-4719148,tag-alrt,uid-Sport-01,category-Sport-01.cms?platform=iphone&ipver=550&adreqfrm=sec",
-			"widgeturl": "https://timesofindia.indiatimes.com/feeds/testnewslistingfeedmc/feedtype-sjson,msid-4719148,tag-alrt,uid-Sport-01,category-Sport-01.cms?platform=iphone&ipver=550&adreqfrm=widget",
+			"defaulturl": "https://timesofindia.indiatimes.com/feeds/testnewslistingfeedmc/feedtype-sjson,msid-4719148,tag-alrt,uid-Sport-01,category-Sport-01.cms?platform=iphone&ipver=545&adreqfrm=sec",
+			"widgeturl": "https://timesofindia.indiatimes.com/feeds/testnewslistingfeedmc/feedtype-sjson,msid-4719148,tag-alrt,uid-Sport-01,category-Sport-01.cms?platform=iphone&ipver=545&adreqfrm=widget",
 			"tn": "mixed",
 			"uid": "Sport-01",
 			"auid": "Sport-01",
@@ -404,8 +238,8 @@
 		},
 		{
 			"name": "Business",
-			"defaulturl": "https://timesofindia.indiatimes.com/feeds/testnewslistingfeed/feedtype-sjson,msid-1898055,tag-alrt,uid-Business-01,category-Budget2017-01.cms?platform=iphone&ipver=550&adreqfrm=sec",
-			"widgeturl": "https://timesofindia.indiatimes.com/feeds/testnewslistingfeed/feedtype-sjson,msid-1898055,tag-alrt,uid-Business-01,category-Budget2017-01.cms?platform=iphone&ipver=550&adreqfrm=widget",
+			"defaulturl": "https://timesofindia.indiatimes.com/feeds/testnewslistingfeed/feedtype-sjson,msid-1898055,tag-alrt,uid-Business-01,category-Budget2017-01.cms?platform=iphone&ipver=545&adreqfrm=sec",
+			"widgeturl": "https://timesofindia.indiatimes.com/feeds/testnewslistingfeed/feedtype-sjson,msid-1898055,tag-alrt,uid-Business-01,category-Budget2017-01.cms?platform=iphone&ipver=545&adreqfrm=widget",
 			"tn": "mixed",
 			"uid": "Business-01",
 			"auid": "Business-01",
@@ -414,8 +248,8 @@
 		},
 		{
 			"name": "Tech",
-			"defaulturl": "https://www.gadgetsnow.com/feeds/testnewslistingfeed/feedtype-sjson,msid-52830510,tag-alrt,uid-Gadgetsnow-01,category-Gadgetsnow-01.cms?platform=iphone&ipver=550&adreqfrm=sec",
-			"widgeturl": "https://www.gadgetsnow.com/feeds/testnewslistingfeed/feedtype-sjson,msid-52830510,tag-alrt,uid-Gadgetsnow-01,category-Gadgetsnow-01.cms?platform=iphone&ipver=550&adreqfrm=widget",
+			"defaulturl": "https://www.gadgetsnow.com/feeds/testnewslistingfeed/feedtype-sjson,msid-52830510,tag-alrt,uid-Gadgetsnow-01,category-Gadgetsnow-01.cms?platform=iphone&ipver=545&adreqfrm=sec",
+			"widgeturl": "https://www.gadgetsnow.com/feeds/testnewslistingfeed/feedtype-sjson,msid-52830510,tag-alrt,uid-Gadgetsnow-01,category-Gadgetsnow-01.cms?platform=iphone&ipver=545&adreqfrm=widget",
 			"tn": "mixed",
 			"uid": "Gadgetsnow-01",
 			"auid": "Gadgetsnow-01",
@@ -424,7 +258,7 @@
 		},
 		{
 			"name": "Auto",
-			"defaulturl": "https://timesofindia.indiatimes.com/feeds/testnewslistingfeedhc/feedtype-sjson,msid-49896634,tag-alrt,uid-Auto-01,category-Auto-01.cms?platform=iphone&ipver=550&adreqfrm=sec",
+			"defaulturl": "https://timesofindia.indiatimes.com/feeds/testnewslistingfeedhc/feedtype-sjson,msid-49896634,tag-alrt,uid-Auto-01,category-Auto-01.cms?platform=iphone&ipver=545&adreqfrm=sec",
 			"tn": "mixed",
 			"uid": "Auto-01",
 			"auid": "Auto-01",
@@ -442,7 +276,7 @@
 		},
 		{
 			"name": "Pageants",
-			"defaulturl": "https://beautypageants.indiatimes.com/feeds/allfeedlist/feedtype-sjson,uid-BeautyPageants-01,category-BeautyPageants-01.cms?platform=iphone&ipver=550&adreqfrm=sec",
+			"defaulturl": "https://beautypageants.indiatimes.com/feeds/allfeedlist/feedtype-sjson,msid-,uid-BeautyPageants-01,category-BeautyPageants-01.cms?platform=iphone&ipver=545&adreqfrm=sec",
 			"tn": "mixed",
 			"uid": "BeautyPageants-01",
 			"auid": "BeautyPageants-01",
@@ -451,7 +285,7 @@
 		},
 		{
 			"name": "Gaming",
-			"defaulturl": "https://timesofindia.indiatimes.com/feeds/testnewslistingfeedetimes/feedtype-sjson,msid-65838594,tag-alrt,uid-Entertainment-01.cms?platform=iphone&ipver=550&adreqfrm=sec",
+			"defaulturl": "https://timesofindia.indiatimes.com/feeds/testnewslistingfeedetimes/feedtype-sjson,msid-65838594,tag-alrt,uid-Entertainment-01.cms?platform=iphone&ipver=545&adreqfrm=sec",
 			"tn": "mixed",
 			"uid": "Gaming-01",
 			"auid": "Entertainment-01",
@@ -460,7 +294,7 @@
 		},
 		{
 			"name": "Events",
-			"defaulturl": "https://timesofindia.indiatimes.com/feeds/testnewslistingfeedetimes/feedtype-sjson,msid-2277129,tag-alrt,uid-Entertainment-01,category-Events-01,t-f.cms?platform=iphone&ipver=550&adreqfrm=sec",
+			"defaulturl": "https://timesofindia.indiatimes.com/feeds/testnewslistingfeedetimes/feedtype-sjson,msid-2277129,tag-alrt,uid-Entertainment-01,category-Events-01,t-f.cms?platform=iphone&ipver=545&adreqfrm=sec",
 			"tn": "mixed",
 			"uid": "EntEvents-01",
 			"auid": "Entertainment-01",
@@ -469,7 +303,7 @@
 		},
 		{
 			"name": "Humour",
-			"defaulturl": "https://timesofindia.indiatimes.com/feeds/testnewslistingfeedmc/feedtype-sjson,msid-50680967,tag-alrt,uid-Humour-01,category-Humour-01.cms?platform=iphone&ipver=550&adreqfrm=sec",
+			"defaulturl": "https://timesofindia.indiatimes.com/feeds/testnewslistingfeedmc/feedtype-sjson,msid-50680967,tag-alrt,uid-Humour-01,category-Humour-01.cms?platform=iphone&ipver=545&adreqfrm=sec",
 			"tn": "mixed",
 			"uid": "Humour-01",
 			"auid": "Humour-01",
@@ -479,7 +313,7 @@
 		{
 			"name": "Opinion",
 			"defaulturl": "http://blogs.timesofindia.indiatimes.com/?source=app",
-			"tn": "htmlview",
+			"tn": "sfview",
 			"uid": "Opinion-01",
 			"auid": "Opinion-01",
 			"ct": "10",
@@ -488,7 +322,7 @@
 		},
 		{
 			"name": "Science",
-			"defaulturl": "https://timesofindia.indiatimes.com/feeds/testnewslistingfeedhc/feedtype-sjson,msid--2128672765,tag-alrtdf,uid-Science-01.cms?platform=iphone&ipver=550&adreqfrm=sec",
+			"defaulturl": "https://timesofindia.indiatimes.com/feeds/testnewslistingfeedhc/feedtype-sjson,msid--2128672765,tag-alrtdf,uid-Science-01.cms?platform=iphone&ipver=545&adreqfrm=sec",
 			"tn": "mixed",
 			"uid": "Science-01",
 			"auid": "Science-01",
@@ -498,7 +332,7 @@
 		{
 			"name": "Food & Recipes",
 			"defaulturl": "https://m.recipes.timesofindia.com/?frmapp=yes",
-			"tn": "htmlview",
+			"tn": "sfview",
 			"uid": "Foodrecipes-01",
 			"ct": "10",
 			"dnseu": "true",
@@ -506,7 +340,7 @@
 		},
 		{
 			"name": "NRI",
-			"defaulturl": "https://timesofindia.indiatimes.com/feeds/testnewslistingfeedhc/feedtype-sjson,msid-7098563,tag-alrtdf,uid-NRI-01,category-NRI-01.cms?platform=iphone&ipver=550&adreqfrm=sec",
+			"defaulturl": "https://timesofindia.indiatimes.com/feeds/testnewslistingfeedhc/feedtype-sjson,msid-7098563,tag-alrtdf,uid-NRI-01,category-NRI-01.cms?platform=iphone&ipver=545&adreqfrm=sec",
 			"tn": "mixed",
 			"uid": "NRI-01",
 			"auid": "NRI-01",
@@ -515,7 +349,7 @@
 		},
 		{
 			"name": "Education",
-			"defaulturl": "https://timesofindia.indiatimes.com/feeds/testnewslistingfeedhc/feedtype-sjson,msid-913168846,tag-alrtdf,uid-Education-01,category-Education-01.cms?platform=iphone&ipver=550&adreqfrm=sec",
+			"defaulturl": "https://timesofindia.indiatimes.com/feeds/testnewslistingfeedhc/feedtype-sjson,msid-913168846,tag-alrtdf,uid-Education-01,category-Education-01.cms?platform=iphone&ipver=545&adreqfrm=sec",
 			"tn": "mixed",
 			"uid": "Education-01",
 			"auid": "Education-01",
@@ -525,25 +359,16 @@
 		{
 			"name": "Femina",
 			"defaulturl": "http://m.femina.in/?frmapp=yes",
-			"tn": "htmlview",
+			"tn": "sfview",
 			"uid": "Femina-01",
 			"ct": "10",
 			"dnseu": "true",
 			"secid": ""
 		},
 		{
-			"name": "New on Netflix",
-			"defaulturl": "https://timesofindia.indiatimes.com/Netflix.cms?frmapp=yes",
-			"tn": "htmlview",
-			"uid": "NewonNetflix-01",
-			"ct": "10",
-			"dnseu": "true",
-			"secid": ""
-		},
-		{
 			"name": "Citizen Reporter",
-			"defaulturl": "https://timesofindia.indiatimes.com/feeds/testnewslistingfeedmc/feedtype-sjson,msid-53265631,tag-cr,uid-CitizenReporter-01,category-CitizenReporter-01.cms?platform=iphone&ipver=550&adreqfrm=sec",
-			"widgeturl": "https://timesofindia.indiatimes.com/feeds/testnewslistingfeedmc/feedtype-sjson,msid-53265631,tag-cr,uid-CitizenReporter-01,category-CitizenReporter-01.cms?platform=iphone&ipver=550&adreqfrm=widget",
+			"defaulturl": "https://timesofindia.indiatimes.com/feeds/testnewslistingfeedmc/feedtype-sjson,msid-53265631,tag-cr,uid-CitizenReporter-01,category-CitizenReporter-01.cms?platform=iphone&ipver=545&adreqfrm=sec",
+			"widgeturl": "https://timesofindia.indiatimes.com/feeds/testnewslistingfeedmc/feedtype-sjson,msid-53265631,tag-cr,uid-CitizenReporter-01,category-CitizenReporter-01.cms?platform=iphone&ipver=545&adreqfrm=widget",
 			"tn": "mixed",
 			"uid": "CitizenReporter-01",
 			"auid": "CitizenReporter-01",
@@ -553,7 +378,7 @@
 		},
 		{
 			"name": "Environment",
-			"defaulturl": "https://timesofindia.indiatimes.com/feeds/testnewslistingfeedhc/feedtype-sjson,msid-2647163,tag-alrt,uid-Environment-01,category-Environment-01.cms?platform=iphone&ipver=550&adreqfrm=sec",
+			"defaulturl": "https://timesofindia.indiatimes.com/feeds/testnewslistingfeedhc/feedtype-sjson,msid-2647163,tag-alrt,uid-Environment-01,category-Environment-01.cms?platform=iphone&ipver=545&adreqfrm=sec",
 			"tn": "mixed",
 			"uid": "Environment-01",
 			"auid": "Environment-01",
@@ -563,7 +388,7 @@
 		{
 			"name": "Travel",
 			"defaulturl": "https://timesofindia.indiatimes.com/travel",
-			"tn": "htmlview",
+			"tn": "sfview",
 			"uid": "Travel-01",
 			"ct": "10",
 			"dnseu": "true",
@@ -571,7 +396,7 @@
 		},
 		{
 			"name": "Infographics",
-			"defaulturl": "https://timesofindia.indiatimes.com/feeds/testnewslistingfeed/feedtype-sjson,msid-48281708,tag-alrt,uid-Others-01,type-infogps,category-Infographics-01.cms?platform=iphone&ipver=550&adreqfrm=sec",
+			"defaulturl": "https://timesofindia.indiatimes.com/feeds/testnewslistingfeed/feedtype-sjson,msid-48281708,tag-alrt,uid-Others-01,type-infogps,category-Infographics-01.cms?platform=iphone&ipver=545&adreqfrm=sec",
 			"tn": "mixed",
 			"uid": "Infographics-01",
 			"auid": "Others-01",
@@ -580,7 +405,7 @@
 		},
 		{
 			"name": "Good Governance",
-			"defaulturl": "https://timesofindia.indiatimes.com/feeds/testnewslistingfeedmc/feedtype-sjson,msid-47082088,tag-alrt,uid-GoodGovernance-01,category-GoodGovernance.cms?platform=iphone&ipver=550&adreqfrm=sec",
+			"defaulturl": "https://timesofindia.indiatimes.com/feeds/testnewslistingfeedmc/feedtype-sjson,msid-47082088,tag-alrt,uid-GoodGovernance-01,category-GoodGovernance.cms?platform=iphone&ipver=545&adreqfrm=sec",
 			"tn": "mixed",
 			"uid": "GoodGovernance-01",
 			"auid": "GoodGovernance-01",
@@ -589,7 +414,7 @@
 		},
 		{
 			"name": "Uniform Civil Code",
-			"defaulturl": "https://timesofindia.indiatimes.com/feeds/testnewslistingfeedmc/feedtype-sjson,msid-60374085,tag-alrt,uid-UniformCivilCode-01.cms?platform=iphone&ipver=550&adreqfrm=sec",
+			"defaulturl": "https://timesofindia.indiatimes.com/feeds/testnewslistingfeedmc/feedtype-sjson,msid-60374085,tag-alrt,uid-UniformCivilCode-01.cms?platform=iphone&ipver=545&adreqfrm=sec",
 			"tn": "mixed",
 			"uid": "UniformCivilCode-01",
 			"auid": "UniformCivilCode-01",
@@ -598,7 +423,7 @@
 		},
 		{
 			"name": "Brandwire",
-			"defaulturl": "https://timesofindia.indiatimes.com/feeds/testnewslistingfeedmc/feedtype-sjson,msid-55686662,tag-alrt,uid-Brandwire-01,category-Brandwire-01.cms?platform=iphone&ipver=550&adreqfrm=sec",
+			"defaulturl": "https://timesofindia.indiatimes.com/feeds/testnewslistingfeedmc/feedtype-sjson,msid-55686662,tag-alrt,uid-Brandwire-01,category-Brandwire-01.cms?platform=iphone&ipver=545&adreqfrm=sec",
 			"tn": "mixed",
 			"uid": "Brandwire-01",
 			"auid": "Brandwire-01",
@@ -607,28 +432,10 @@
 		},
 		{
 			"name": "Campaign",
-			"defaulturl": "https://timesofindia.indiatimes.com/feeds/testnewslistingfeedmc/feedtype-sjson,tag-campaign,uid-Campaign-01.cms?platform=iphone&ipver=550&adreqfrm=sec",
+			"defaulturl": "https://timesofindia.indiatimes.com/feeds/testnewslistingfeedmc/feedtype-sjson,msid-,tag-campaign,uid-Campaign-01.cms?platform=iphone&ipver=545&adreqfrm=sec",
 			"tn": "mixed",
 			"uid": "Campaign-01",
 			"auid": "Campaign-01",
-			"ct": "10",
-			"secid": ""
-		},
-		{
-			"name": "Fight Dengue",
-			"defaulturl": "https://timesofindia.indiatimes.com/feeds/testnewslistingfeedmc/feedtype-sjson,msid-65306365,tag-alrt,uid-FightDengue-01.cms?platform=iphone&ipver=550&adreqfrm=sec",
-			"tn": "mixed",
-			"uid": "FightDengue-01",
-			"auid": "FightDengue-01",
-			"ct": "10",
-			"secid": "65306365"
-		},
-		{
-			"name": "Photos",
-			"defaulturl": "https://photogallery.indiatimes.com/feeds/testnewslistingfeed/feedtype-sjson,tag-top,uid-Entertainment-01,category-Photo-01.cms?platform=iphone&ipver=550&adreqfrm=sec",
-			"tn": "photolist",
-			"uid": "Photo-01",
-			"auid": "Entertainment-01",
 			"ct": "10",
 			"secid": ""
 		}
