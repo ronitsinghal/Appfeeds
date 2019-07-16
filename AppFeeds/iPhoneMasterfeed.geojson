@@ -189,7 +189,7 @@
 		"newsDetailUrl": "https://timesofindia.indiatimes.com/feeds/testbookmarkinfo/feedtype-sjson.cms?tag=dngrp&version=v9&%@&ipver=533",
 		"photoStoryJsonFormat": "/feeds/testshowfeed.cms?tag=pssl&perpage=20&feedtype=sjson&msid=%@&ipver=533",
 		"slideShowLinkFeed": "/feeds/testshowfeed.cms?tag=ssl&perpage=20&feedtype=sjson&msid=%@&ipver=533",
-		"dynamicFeedUrl": "https://timesofindia.indiatimes.com/feeds/testfeedurllist4.cms?ts=&platform=iphone&feedtype=sjson&ipver=542",
+		"dynamicFeedUrl": "https://raw.githubusercontent.com/ronitsinghal/Appfeeds/master/AppFeeds/IphoneFeedURLList.geojson",
 		"lsJsonFormat": "/feeds/testshowfeed.cms?feedtype=sjson&version=v4&tag=ls&msid=%@&ipver=533",
 		"answersJsonFormat": "/feeds/testshowfeed.cms?feedtype=sjson&version=v4&tag=answers&msid=%@&ipver=533",
 		"submitReadVoteJsonFeed": "/feeds/vote_json.cms?txtPolliD=%@&PRadio=%@",
