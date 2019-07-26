@@ -5,7 +5,7 @@
 		"isCTNEnabled": 1,
 		"isDFPEnabled": 1,
 		"isNotificationCenterEnabled": 1,
-		"isSpecialTickerEnabled": 1,
+		"isSpecialTickerEnabled": 0,
 		"isAdFreeEnabled": 0,
 		"isSecondSplashEnabled": 1,
 		"isTVGuideEnabled": 1,
