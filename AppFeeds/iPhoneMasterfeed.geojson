@@ -170,6 +170,7 @@
 		"CtnRecommended_adcode": "207066"
 	},
 	"URLs": {
+		"share_app_url": "",
 		"FEED_BRIEF_SHOW": "https://timesofindia.indiatimes.com/feeds/briefshowfeed/feedtype-sjson.cms?msid=%@&ipver=533",
 		"wccubeurl": "https://timesofindia.indiatimes.com/feeds/test_app_cube_cricket_feed.cms?feedtype=sjson&cc=%@",
 		"dataHubUrl": "https://timesofindia.indiatimes.com/feeds/test_loksabha_app_datahub_feed.cms?feedtype=sjson&year=%@",
