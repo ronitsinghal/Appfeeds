@@ -180,7 +180,6 @@
 		"instagramurl": "https://api.instagram.com/oembed/?url=https://www.instagram.com/p/%@",
 		"actualurl": "https://timesofindia.indiatimes.com/feeds/getmirconurl.cms?feedtype=json&showexturl=1&upcache=2&url=%@",
 		"ePaper_Publications": "https://timesofindia.indiatimes.com/publicationfeed.cms?feedtype=sjson",
-		"share_app_url": "https://timesofindia.onelink.me/efRt/whatsappviaapp",
 		"geoUrl": "https://newspointfeeds.indiatimes.com/service/locate",
 		"commentRateInfo": "/feeds/commentrateinfo/feedtype-sjson.cms?msid=%@&getuserrating=1&ratingcount=1",
 		"movieRatingJsonUrl": "/feeds/testshowmovieratingfeed.cms?donotshowurl=1&msid=%@&getuserrating=1",
