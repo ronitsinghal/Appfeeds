@@ -9,7 +9,7 @@
 		"isPrimeEnabled": 1,
 		"isNotificationCenterEnabled": 1,
 		"isCTNEnabled": 1,
-		"isDFPEnabled": 1,
+		"isDFPEnabled": 0,
 		"isAdFreeEnabled": 0,
 		"isSpecialTickerEnabled": 0,
 		"isSecondSplashEnabled": 0,
