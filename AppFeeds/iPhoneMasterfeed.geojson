@@ -179,7 +179,7 @@
 		"dailyBriefJsonFormat": "/feeds/showfeed.cms?feedtype=sjson&tag=db&msid=%@&ipver=566",
 		"slideShowLinkFeed": "/feeds/showfeed.cms?tag=ssl&ipver=425&perpage=20&feedtype=sjson&msid=%@",
 		"lsJsonFormat": "/feeds/showfeed.cms?feedtype=sjson&version=v4&tag=ls&msid=%@&ipver=425",
-		"dynamicFeedUrl": "https://timesofindia.indiatimes.com/feeds/feedurllist4.cms?ts=1522744040000&platform=iphone&feedtype=sjson&ipver=566",
+		"dynamicFeedUrl": "https://raw.githubusercontent.com/ronitsinghal/Appfeeds/master/AppFeeds/IphoneFeedURLList.geojson",
 		"combinedUrl": "https://timesofindia.indiatimes.com/feeds/combinedfeed.cms?secname=%@&feedtype=sjson&stryno=%@&ipver=566",
 		"articleJsonFormat": "/feeds/showfeed.cms?feedtype=sjson&ipver=560&version=v9&tag=news&msid=%@",
 		"movieReviewJsonFormat": "/feeds/showfeed.cms?feedtype=sjson&version=v9&tag=mr&msid=%@&ipver=425",
