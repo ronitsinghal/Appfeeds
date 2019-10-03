@@ -8,17 +8,21 @@
 	"ads": {
 		"header": "/7176/TOI_App_Test/TOI_APP_TEST_FBM_ATF",
 		"footer": "/7176/TOI_App_Test/TOI_APP_TEST_FBM_BTF",
-		"header_size": [
-			"100"
-		],
-		"footer_size": [
-			"100"
-		],
 		"ctnheader": "207018",
 		"ctnfooter": "207018",
 		"securl": "http://m.timesofindia.com/"
 	},
 	"items": [{
+			"id": "331328",
+			"hl":"video ad code",
+			"tn": "listctnmrec",
+			"pos": "1-51396865-2"
+		},{
+			"id": "327572",
+			"hl":"survey ad code",
+			"tn": "listctnmrec",
+			"pos": "1-51396865-2"
+		},{
 			"name": "Anuj",
 		"hl": "Anuj - headline",
 			"imageid": "71325288",
@@ -36,17 +40,7 @@
 			"wu": "https://timesofindia.indiatimes.com/kumbh_mela.cms",
 			"imageid": "67586593",
 			"dm": "t"
-		}, {
-			"id": "331328",
-			"hl":"video ad code",
-			"tn": "listctnmrec",
-			"pos": "1-51396865-2"
-		},{
-			"id": "327572",
-			"hl":"survey ad code",
-			"tn": "listctnmrec",
-			"pos": "1-51396865-2"
-		},
+		}, 
 		{
 			"cs": "prime",
 			"ag": "TNN",
