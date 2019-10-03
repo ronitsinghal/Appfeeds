@@ -47,31 +47,6 @@
 			"hl":"survey ad code",
 			"tn": "listctnmrec",
 			"pos": "1-51396865-2"
-		},{
-			"id": "326552",
-			"tn": "listctnmrec",
-			"pos": "1-51396865-2"
-		},
-		{
-			"id": "324644",
-			"tn": "listctnmrec",
-			"pos": "1-51396865-4"
-		},
-		{
-			"id": "297494",
-			"tn": "listctnmrec",
-			"pos": "1-51396865-6"
-		},
-		{
-			"id": "123445113",
-			"tn": "scorecardOSwidget",
-			"defaulturl": "https://toibnews.timesofindia.indiatimes.com/Election/election2017_test_appscorecardfeed_new.htm"
-		},
-
-		{
-			"id": "129086",
-			"tn": "listctnmrec",
-			"pos": "1-51396865-10"
 		},
 		{
 			"cs": "prime",
