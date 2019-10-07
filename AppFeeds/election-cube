@@ -4,6 +4,8 @@
 	"nst": "300",
 	"rt": "5",
 	"items": [{
+		"small_placeholder_img":"71476267",
+		"big_placeholder_img":"71476281",
 		"tn": "election",
 		"wu": "https://m.timesofindia.com/elections",
 		"ttl_seats": "543",
@@ -28,6 +30,7 @@
 			"cc": "#888888"
 		}]
 	}, {
+		"small_placeholder_img":"71476325",
 		"tn": "ad"
 	}, {
 		"tn": "election",
