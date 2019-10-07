@@ -93,12 +93,16 @@
 			"cc": "#888888"
 		}]
 	}, {
-		"tn": "ad"
+		"tn": "fullAd"
 	}],
 	"smallAd": {
 		"url": "/7176/TOI_App_Android/TOI_APP_AOS_ROS/TOI_APP_AOS_ROS_CUBE_195x30"
 	},
 	"bigAd": {
 		"url": "/7176/TOI_App_Android/TOI_APP_AOS_ROS/TOI_APP_AOS_ROS_CUBE_195x85"
+	},
+	"fullAd": {
+		"url": "/7176/TOI_App_Android/TOI_APP_AOS_ROS/TOI_APP_AOS_ROS_CUBE_195x85"
 	}
+	
 }
