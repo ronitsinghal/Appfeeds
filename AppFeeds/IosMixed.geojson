@@ -23,6 +23,30 @@
 			"tn": "html",
 			"type": "featured",
 			"wu": "https://timesofindia.indiatimes.com/india-italy-stand-off-over-fishermens-killing/other-headlines/where-the-law-stands-on-whistleblowers-in-india/articleshow/71951274.cms"
+		},
+		  {
+			"upd": "1572946080000",
+			"lpt": "1572946085057",
+			"dl": "1572915180000",
+			"hl": "Sample story with hide to prime - news",
+			"imageid": "71921140",
+			"id": "71914921",
+			"dm": "t",
+			"tn": "news",
+			"type": "featured",
+			  "cs":"hideToPrime",
+			"wu": "https://timesofindia.indiatimes.com/india-italy-stand-off-over-fishermens-killing/other-headlines/where-the-law-stands-on-whistleblowers-in-india/articleshow/71951274.cms"
+		},{
+			"upd": "1572946080000",
+			"lpt": "1572946085057",
+			"dl": "1572915180000",
+			"hl": "Sample story with hide to prime - HTML",
+			"imageid": "71921140",
+			"id": "71914921",
+			"dm": "t",
+			"tn": "html",
+			 "cs":"hideToPrime",
+			"wu": "https://timesofindia.indiatimes.com/india-italy-stand-off-over-fishermens-killing/other-headlines/where-the-law-stands-on-whistleblowers-in-india/articleshow/71951274.cms"
 		},{
 			"upd": "1572946080000",
 			"lpt": "1572946085057",
@@ -522,7 +546,8 @@
 			"kws": "UP police,UP govt,Subodh Singh,Law and order,bulandshahr"
 		},
 		{
-			"hl": "PHOTOS",
+			"hl": "PHOTOS - hide to prime",
+			"cs":"hideToPrime",
 			"id": "919191212",
 			"tn": "mixedwidgetslider",
 			"mixedWidgetData": {
@@ -641,9 +666,10 @@
 			}
 		},
 		{
-			"hl": "VIDEOS",
+			"hl": "VIDEOS - hide to prime",
+			"cs":"hideToPrime",
 			"id": "91919212",
-			"tn": "mixedwidgetslider",
+			"tn": "mixedslider",
 			"mixedWidgetData": {
 				"uid": "Video-01",
 				"subSections": [{
