@@ -4,6 +4,8 @@
       "id": "111111111",
       "tn": "datahublist",
       "wu": "https://timesofindia.indiatimes.com/feeds/loksabha_app_datahub_feed.cms?feedtype=sjson&year=2014",
+      "defaulturl": "https://timesofindia.indiatimes.com/feeds/loksabha_app_datahub_feed.cms?feedtype=sjson&year=2014",
+      "imageid": "67586593",
       "type": "banner"
     },
     {
