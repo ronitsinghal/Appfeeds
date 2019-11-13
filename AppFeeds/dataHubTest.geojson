@@ -1,0 +1,31 @@
+{
+  "items": [
+    {
+      "id": "12345678",
+      "tn": "datahub",
+      "url": "http://toibnews.timesofindia.indiatimes.com/Election/app/lok-sabha-nationaldatahub/2014.htm",
+      "filterurl": "https://toibnews.timesofindia.indiatimes.com/ls-2019-filter.json",
+      "yytrendurl": "https://toibnews.timesofindia.indiatimes.com/Election/applkndatahub/yoytrending/2019.htm",
+      "oth_label": "OTH",
+      "svgUrl": "https://static.toiimg.com/photo/69113587.cms",
+      "notes": "Election was cancelled in Vellore by EC. Election data prior to 2003 is of undivided MP, UP and Bihar. Election data prior to 2014 is of undivided Andhra Pradesh.",
+      "sourcetext": "Source : VMR and Loki.ai",
+      "su": "https://timesofindia.indiatimes.com/elections/constituency-map"
+    }
+  ],
+  "ads": {
+    "header": "/7176/TOI_App_Test/TOI_App_Test_ATF1",
+    "footer": "/7176/TOI_App_Test/TOI_App_Test_BTF1",
+    "ctnheader": "324413",
+    "ctnfooter": "324414",
+    "header_size": [
+      "100"
+    ],
+    "footer_size": [
+      "100"
+    ],
+    "securl": "http://m.timesofindia.com/latest.cms",
+    "fanfooter": "TestValue",
+    "fanheader": "TestValue"
+  }
+}
