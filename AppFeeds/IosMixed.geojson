@@ -9,6 +9,11 @@
       "type": "banner"
     },
     {
+      "tn": "primeNudge",
+      "freeShowDays": ["1","2","3","4","5","6","7","8","9","10","11","12","13","14","15","16","17","18"],
+      "subscribedShowDays": ["1","2","3","4","5","6","7","8","9","10","11","12","13","14","15","16","17","18"]
+    },
+    {
       "upd": "1572946080000",
       "lpt": "1572946085057",
       "dl": "1572915180000",
@@ -32,6 +37,12 @@
       "type": "featured",
       "cs": "hideToPrime",
       "wu": "https://timesofindia.indiatimes.com/india-italy-stand-off-over-fishermens-killing/other-headlines/where-the-law-stands-on-whistleblowers-in-india/articleshow/71951274.cms"
+    },
+    
+        {
+      "tn": "primeNudge",
+      "freeShowDays": ["1","2","3","4","5","6","7","8","9","10","11","12","13","14","15","16","17","18"],
+      "subscribedShowDays": ["1","2","3","4","5","6","7","8","9","10","11","12","13","14","15","16","17","18"]
     },
     {
       "upd": "1572946080000",
