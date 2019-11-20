@@ -689,7 +689,7 @@
     },
     {
       "hl": "VIDEOS - hide to prime",
-      "cs": "hideToPrime",
+      "cs": "prime",
       "id": "91919212",
       "tn": "mixedslider",
       "mixedWidgetData": {
