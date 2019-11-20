@@ -29,6 +29,35 @@
       "type": "featured",
       "wu": "https://timesofindia.indiatimes.com/india-italy-stand-off-over-fishermens-killing/other-headlines/where-the-law-stands-on-whistleblowers-in-india/articleshow/71951274.cms"
     },
+    
+        {
+      "upd": "1572946080000",
+      "lpt": "1572946085057",
+      "dl": "1572915180000",
+      "hl": "Sample Prime HTML story with timeline embed for Ayodhya Verdict",
+      "imageid": "71921140",
+      "id": "71914921",
+      "dm": "t",
+          "cs":"prime",
+      "tn": "html",
+      "type": "featured",
+      "wu": "https://timesofindia.indiatimes.com/india-italy-stand-off-over-fishermens-killing/other-headlines/where-the-law-stands-on-whistleblowers-in-india/articleshow/71951274.cms"
+    },
+    
+        {
+      "upd": "1572946080000",
+      "lpt": "1572946085057",
+      "dl": "1572915180000",
+      "hl": "Sample story with prime - news",
+      "imageid": "71921140",
+      "id": "71914921",
+      "dm": "t",
+      "tn": "news",
+      "type": "featured",
+      "cs": "prime",
+      "wu": "https://timesofindia.indiatimes.com/india-italy-stand-off-over-fishermens-killing/other-headlines/where-the-law-stands-on-whistleblowers-in-india/articleshow/71951274.cms"
+    },
+    
     {
       "upd": "1572946080000",
       "lpt": "1572946085057",
