@@ -1,6 +1,13 @@
 {
   "items": [
     {
+      "id": "68579237",
+      "hl": "Box Content",
+      "tn": "news",
+      "dm": "t",
+      "wu": "https://timesofindia.indiatimes.com/articleshow/68579237.cms"
+    },
+    {
       "id": "111111111",
       "tn": "datahublist",
       "wu": "https://timesofindia.indiatimes.com/feeds/loksabha_app_datahub_feed.cms?feedtype=sjson&year=2014",
@@ -10,13 +17,50 @@
     },
     {
       "tn": "primeNudge",
-      "freeShowDays": ["1","2","3","4","5","6","7","8","9","10","11","12","13","14","15","16","17","18"],
-      "subscribedShowDays": ["1","2","3","4","5","6","7","8","9","10","11","12","13","14","15","16","17","18"]
+      "freeShowDays": [
+        "1",
+        "2",
+        "3",
+        "4",
+        "5",
+        "6",
+        "7",
+        "8",
+        "9",
+        "10",
+        "11",
+        "12",
+        "13",
+        "14",
+        "15",
+        "16",
+        "17",
+        "18"
+      ],
+      "subscribedShowDays": [
+        "1",
+        "2",
+        "3",
+        "4",
+        "5",
+        "6",
+        "7",
+        "8",
+        "9",
+        "10",
+        "11",
+        "12",
+        "13",
+        "14",
+        "15",
+        "16",
+        "17",
+        "18"
+      ]
     },
-    
-        {
+    {
       "tn": "plus_blocker"
-        },
+    },
     {
       "upd": "1572946080000",
       "lpt": "1572946085057",
@@ -29,8 +73,7 @@
       "type": "featured",
       "wu": "https://timesofindia.indiatimes.com/india-italy-stand-off-over-fishermens-killing/other-headlines/where-the-law-stands-on-whistleblowers-in-india/articleshow/71951274.cms"
     },
-    
-        {
+    {
       "upd": "1572946080000",
       "lpt": "1572946085057",
       "dl": "1572915180000",
@@ -38,13 +81,12 @@
       "imageid": "71921140",
       "id": "71914921",
       "dm": "t",
-          "cs":"prime",
+      "cs": "prime",
       "tn": "html",
       "type": "featured",
       "wu": "https://timesofindia.indiatimes.com/india-italy-stand-off-over-fishermens-killing/other-headlines/where-the-law-stands-on-whistleblowers-in-india/articleshow/71951274.cms"
     },
-    
-        {
+    {
       "upd": "1572946080000",
       "lpt": "1572946085057",
       "dl": "1572915180000",
@@ -57,7 +99,6 @@
       "cs": "prime",
       "wu": "https://timesofindia.indiatimes.com/india-italy-stand-off-over-fishermens-killing/other-headlines/where-the-law-stands-on-whistleblowers-in-india/articleshow/71951274.cms"
     },
-    
     {
       "upd": "1572946080000",
       "lpt": "1572946085057",
@@ -71,11 +112,48 @@
       "cs": "hideToPrime",
       "wu": "https://timesofindia.indiatimes.com/india-italy-stand-off-over-fishermens-killing/other-headlines/where-the-law-stands-on-whistleblowers-in-india/articleshow/71951274.cms"
     },
-    
-        {
+    {
       "tn": "primeNudge",
-      "freeShowDays": ["1","2","3","4","5","6","7","8","9","10","11","12","13","14","15","16","17","18"],
-      "subscribedShowDays": ["1","2","3","4","5","6","7","8","9","10","11","12","13","14","15","16","17","18"]
+      "freeShowDays": [
+        "1",
+        "2",
+        "3",
+        "4",
+        "5",
+        "6",
+        "7",
+        "8",
+        "9",
+        "10",
+        "11",
+        "12",
+        "13",
+        "14",
+        "15",
+        "16",
+        "17",
+        "18"
+      ],
+      "subscribedShowDays": [
+        "1",
+        "2",
+        "3",
+        "4",
+        "5",
+        "6",
+        "7",
+        "8",
+        "9",
+        "10",
+        "11",
+        "12",
+        "13",
+        "14",
+        "15",
+        "16",
+        "17",
+        "18"
+      ]
     },
     {
       "upd": "1572946080000",
@@ -759,7 +837,7 @@
             "hl": "Ankita Lonkhande publicly kisses rumoured boyfriend; Arjun Kapoor opens up on wedding rumours with Malaika Arora, and more",
             "du": "01:56",
             "imageid": "69044715&pl=329300&v=123",
-                  "cs": "prime",
+            "cs": "prime",
             "tn": "video",
             "dm": "t",
             "wu": "https://timesofindia.indiatimes.com/videos/entertainment/hindi/ankita-lonkhande-publicly-kisses-rumoured-boyfriend-arjun-kapoor-opens-up-on-wedding-rumours-with-malaika-arora-and-more/videoshow/69044715.cms",
@@ -772,7 +850,7 @@
             "du": "01:07",
             "imageid": "69044339&pl=271332&v=123",
             "tn": "video",
-             "cs": "prime",
+            "cs": "prime",
             "dm": "t",
             "wu": "https://timesofindia.indiatimes.com/videos/entertainment/hindi/arjun-kapoor-opens-up-about-wedding-rumours-with-malaika-arora-calls-her-special/videoshow/69044339.cms",
             "su": "http://toi.in/G7ndNa9/",
@@ -894,7 +972,7 @@
           "du": "00:38",
           "imageid": "68727845&imgsize=689852&v=123",
           "dm": "t",
-          "cs":"prime",
+          "cs": "prime",
           "tn": "video",
           "wu": "http://timesofindia.indiatimes.com/videos/entertainment/hindi/sunny-leone-shares-a-sizzling-picture-on-instagram-raises-the-temperature-online/videoshow/68727845.cms?platform=android",
           "upd": "1554438060000",
