@@ -1,0 +1,57 @@
+{
+	"et": "1576069783000",
+	"st": "true",
+	"dpt": "10",
+	"nst": "60",
+  "notes": "BJP needs to win 7 seats to continue be in power.",
+	"id": "123456891",
+	"header": [{
+		"hl": "ELECTION",
+		"syn": "ASSEMBLY BYPOLL",
+		"id": "-50994439",
+		"tn": "htmlview",
+		"wu": "https://spmdev.indiatimes.com/elections/assembly-elections/results"
+	}, {
+		"hl": "LIVE UPDATES",
+		"id": "67034014",
+		"tn": "htmlview",
+		"wu": "https://timesofindia.indiatimes.com/india/rajasthan-madhya-pradesh-mizoram-chhattisgarh-telangana-assembly-election-results-2018-live-updates/liveblog/67034014.cms"
+	}, {
+		"hl": "WATCH",
+		"imageid": "49162416",
+		"tn": "livetv",
+		"channel_id": "times-now"
+	}],
+	"states": [{
+		"key": "ka",
+		"name": "Karnataka",
+		"ts": "15",
+		"text": "L+W:",
+		"ls": "0",
+		"cap": "RESULTS",
+		"ws": "15",
+		"tn": "html",
+		"wu": "https://spmdev.indiatimes.com/elections/assembly-elections/maharashtra/results",
+		"items": [{
+			"name": "BJP",
+			"lw": "8",
+			"rank": "1",
+			"cc": "#FF7D1D"
+		}, {
+			"name": "INC",
+			"lw": "4",
+			"rank": "2",
+			"cc": "#0076CC"
+		}, {
+			"name": "JDS+",
+			"lw": "2",
+			"rank": "3",
+			"cc": "#84898B"
+		}, {
+			"name": "OTH",
+			"lw": "1",
+			"rank": "4",
+			"cc": "#CCCCCC"
+		}]
+	}]
+}
