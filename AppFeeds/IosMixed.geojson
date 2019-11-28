@@ -1,8 +1,14 @@
 {
 	"items": [{
-			"id": "938891855555555",
+			"id": "55555555",
 			"tn": "onestatepie",
 			"defaulturl": "https://raw.githubusercontent.com/ronitsinghal/Appfeeds/master/State_pie"
+		},
+		  {
+			"id": "12355555555",
+			"tn": "allstatepie",
+			"defaulturl": "https://raw.githubusercontent.com/ronitsinghal/Appfeeds/master/State_pie",
+			  "key":"ka"
 		},
 		{
 			"id": "68579237",
