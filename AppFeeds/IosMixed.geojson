@@ -2,7 +2,7 @@
 	"items": [{
 			"id": "938891855555555",
 			"tn": "onestatepie",
-			"wu": "https://raw.githubusercontent.com/ronitsinghal/Appfeeds/master/State_pie"
+			"defaulturl": "https://raw.githubusercontent.com/ronitsinghal/Appfeeds/master/State_pie"
 		},
 		{
 			"id": "68579237",
