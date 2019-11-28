@@ -4,12 +4,7 @@
 			"tn": "onestatepie",
 			"defaulturl": "https://raw.githubusercontent.com/ronitsinghal/Appfeeds/master/State_pie"
 		},
-		  {
-			"id": "12355555555",
-			"tn": "allstatepie",
-			"defaulturl": "https://raw.githubusercontent.com/ronitsinghal/Appfeeds/master/State_pie",
-			  "key":"ka"
-		},
+		  
 		{
 			"id": "68579237",
 			"hl": "Box Content",
@@ -24,6 +19,11 @@
 			"defaulturl": "https://raw.githubusercontent.com/ronitsinghal/Appfeeds/master/AppFeeds/dataHubTest.geojson",
 			"imageid": "67586593",
 			"type": "banner"
+		},{
+			"id": "12355555555",
+			"tn": "allstatepie",
+			"defaulturl": "https://raw.githubusercontent.com/ronitsinghal/Appfeeds/master/State_pie",
+			  "key":"ka"
 		},
 		{
 			"tn": "primeNudge",
