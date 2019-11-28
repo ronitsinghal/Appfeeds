@@ -4,23 +4,6 @@
 			"tn": "onestatepie",
 			"wu": "https://raw.githubusercontent.com/ronitsinghal/Appfeeds/master/State_pie"
 		},
-		  {
-			"id": "93889123324855555555",
-			"tn": "onestatepie",
-			"defaulturl": "https://raw.githubusercontent.com/ronitsinghal/Appfeeds/master/State_pie_2"
-		},
-		  {
-			"id": "93889185555125555",
-			"tn": "allstatepie",
-			"wu": "https://raw.githubusercontent.com/ronitsinghal/Appfeeds/master/State_pie",
-			  "key":"ka"
-		},
-		  {
-			"id": "93889123324855123555555",
-			"tn": "allstatepie",
-			"defaulturl": "https://raw.githubusercontent.com/ronitsinghal/Appfeeds/master/State_pie",
-			  "key":"ka"
-		},
 		{
 			"id": "68579237",
 			"hl": "Box Content",
