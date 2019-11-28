@@ -6,7 +6,7 @@
   "notes": "BJP needs to win 7 seats to continue be in power.",
 	"id": "123456891",
 	"header": [{
-		"hl": "ELECTION-1",
+		"hl": "KARNATAKA ELECTION",
 		"syn": "ASSEMBLY BYPOLL",
 		"id": "-50994439",
 		"tn": "htmlview",
@@ -27,9 +27,9 @@
 		"name": "Karnataka",
 		"ts": "15",
 		"text": "L+W:",
-		"ls": "0",
+		"ls": "12",
 		"cap": "RESULTS",
-		"ws": "15",
+		"ws": "3",
 		"tn": "html",
 		"wu": "https://spmdev.indiatimes.com/elections/assembly-elections/maharashtra/results",
 		"items": [{
