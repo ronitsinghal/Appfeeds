@@ -31,6 +31,9 @@
 			"currYear": "2020",
 			"prevYear": "2014",
 			"showTable": "true",
+			"showChange": "true",
+			"showTargetLine": "true",
+			"targetText": "Target 41",
 			"cta": [{
 					"hl": "LIVE UPDATES",
 					"id": "67034014",
@@ -172,6 +175,9 @@
 			"currYear": "2020",
 			"prevYear": "2014",
 			"showTable": "true",
+			"showChange": "true",
+			"showTargetLine": "true",
+			"targetText": "Target 66",
 			"cta": [{
 					"hl": "LIVE UPDATES",
 					"id": "67034014",
@@ -257,7 +263,9 @@
 			"currYear": "2020",
 			"prevYear": "2014",
 			"showTable": "true",
-
+			"showChange": "true",
+			"showTargetLine": "true",
+			"targetText": "Target 101",
 			"party": [{
 					"name": "BJP",
 					"lw": "100",
