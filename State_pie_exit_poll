@@ -234,7 +234,10 @@
 			"wu": "https://spmdev.indiatimes.com/elections/assembly-elections/madhya-pradesh/results",
 			"currYear": "2020",
 			"prevYear": "2014",
-			"showTable": "true"
+			"showTable": "true",
+			"showChange": "true",
+			"showTargetLine": "true",
+			"targetText": "Target 116"
 		},
 		{
 			"cap": "EXIT POLLS",
@@ -452,7 +455,10 @@
 			"wu": "https://spmdev.indiatimes.com/elections/assembly-elections/rajasthan/results",
 			"currYear": "2020",
 			"prevYear": "2014",
-			"showTable": "true"
+			"showTable": "true",
+			"showChange": "true",
+			"showTargetLine": "true",
+			"targetText": "Target 101"
 		}
 	]
 }
