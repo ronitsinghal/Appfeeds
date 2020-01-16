@@ -24,10 +24,13 @@
 		{
 			"name": "Delhi Elections 2020",
 			"tn": "gridWidget-2",
+			"bg_cc": "#FAFAFA",
+			"bg_cc_dark": "#FAFAFA",
 			"items": [{
 					"name": "Star Candidates",
 					"id": "11111",
 					"imageid": "73187493",
+					"imageid_dark": "73187493",
 					"tn": "html",
 					"defaulurl": "https://timesofindia.indiatimes.com/elections/assembly-elections/jharkhand/candidates"
 				},
@@ -35,6 +38,7 @@
 					"name": "Election Results",
 					"id": "222222",
 					"imageid": "73187521",
+					"imageid_dark": "73187493",
 					"tn": "htmlview",
 					"defaulturl": "https://timesofindia.indiatimes.com/elections/assembly-elections/jharkhand/results"
 				},
@@ -42,6 +46,7 @@
 					"name": "Election News",
 					"id": "33333",
 					"imageid": "73187493",
+					"imageid_dark": "73187493",
 					"tn": "livetv",
 					"channel_id": "times-now"
 				},
@@ -49,6 +54,7 @@
 					"name": "Datahub",
 					"id": "44444",
 					"imageid": "73187521",
+					"imageid_dark": "73187493",
 					"tn": "mixed",
 					"defaulturl": "https://timesofindia.indiatimes.com/feeds/newslistingfeed/feedtype-sjson,msid-55110862,tag-alrt,uid-StateElec2017-01,category-AssemblyElections2019-01.cms?platform=android&andver=560&adreqfrm=sec"
 				},
@@ -56,6 +62,7 @@
 					"name": "Fantasy Game",
 					"id": "55555",
 					"imageid": "73187521",
+					"imageid_dark": "73187493",
 					"tn": "videolist",
 					"defaulturl": "https://timesofindia.indiatimes.com/feeds/newslistingfeed/feedtype-sjson,msid-73133313,tag-vdo,uid-StateElec2017-01.cms?platform=android&andver=560&adreqfrm=sec"
 				},
@@ -63,6 +70,7 @@
 					"name": "Election Explainer",
 					"id": "66666",
 					"imageid": "73187521",
+					"imageid_dark": "73187493",
 					"tn": "photolist",
 					"defaulturl": "https://photogallery.indiatimes.com/feeds/newslistingfeed/feedtype-sjson,msid-,tag-top,uid-Photo-01,category-Photo-01.cms?platform=android&andver=560&adreqfrm=sec"
 				}
@@ -71,10 +79,13 @@
 		{
 			"name": "Delhi Elections 2020_2",
 			"tn": "gridWidget-3",
+			"bg_cc": "#FAFAFA",
+			"bg_cc_dark": "#FAFAFA",
 			"items": [{
 					"name": "Star Candidates",
 					"id": "11111",
 					"imageid": "73187265",
+					"imageid_dark": "73187493",
 					"tn": "html",
 					"defaulurl": "https://timesofindia.indiatimes.com/elections/assembly-elections/jharkhand/candidates"
 				},
@@ -82,6 +93,7 @@
 					"name": "Election Results",
 					"id": "222222",
 					"imageid": "73187429",
+					"imageid_dark": "73187493",
 					"tn": "htmlview",
 					"defaulturl": "https://timesofindia.indiatimes.com/elections/assembly-elections/jharkhand/results"
 				},
@@ -89,6 +101,7 @@
 					"name": "Election News",
 					"id": "33333",
 					"imageid": "73187429",
+					"imageid_dark": "73187493",
 					"tn": "livetv",
 					"channel_id": "times-now"
 				},
@@ -96,6 +109,7 @@
 					"name": "Datahub",
 					"id": "44444",
 					"imageid": "73187429",
+					"imageid_dark": "73187493",
 					"tn": "mixed",
 					"defaulturl": "https://timesofindia.indiatimes.com/feeds/newslistingfeed/feedtype-sjson,msid-55110862,tag-alrt,uid-StateElec2017-01,category-AssemblyElections2019-01.cms?platform=android&andver=560&adreqfrm=sec"
 				},
@@ -103,6 +117,7 @@
 					"name": "Fantasy Game",
 					"id": "55555",
 					"imageid": "73187265",
+					"imageid_dark": "73187493",
 					"tn": "videolist",
 					"defaulturl": "https://timesofindia.indiatimes.com/feeds/newslistingfeed/feedtype-sjson,msid-73133313,tag-vdo,uid-StateElec2017-01.cms?platform=android&andver=560&adreqfrm=sec"
 				},
@@ -110,6 +125,7 @@
 					"name": "Election Explainer",
 					"id": "66666",
 					"imageid": "73187265",
+					"imageid_dark": "73187493",
 					"tn": "photolist",
 					"defaulturl": "https://photogallery.indiatimes.com/feeds/newslistingfeed/feedtype-sjson,msid-,tag-top,uid-Photo-01,category-Photo-01.cms?platform=android&andver=560&adreqfrm=sec"
 				}
