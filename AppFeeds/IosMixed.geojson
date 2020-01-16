@@ -31,8 +31,8 @@
 					"id": "11111",
 					"imageid": "73187493",
 					"imageid_dark": "73187493",
-					"tn": "html",
-					"defaulurl": "https://timesofindia.indiatimes.com/elections/assembly-elections/jharkhand/candidates"
+					"tn": "sfview",
+					"wu": "https://timesofindia.indiatimes.com/elections/assembly-elections/jharkhand/candidates"
 				},
 				{
 					"name": "Election Results",
@@ -40,7 +40,7 @@
 					"imageid": "73187521",
 					"imageid_dark": "73187493",
 					"tn": "htmlview",
-					"defaulturl": "https://timesofindia.indiatimes.com/elections/assembly-elections/jharkhand/results"
+					"wu": "https://timesofindia.indiatimes.com/elections/assembly-elections/jharkhand/results"
 				},
 				{
 					"name": "Election News",
@@ -55,7 +55,7 @@
 					"id": "44444",
 					"imageid": "73187521",
 					"imageid_dark": "73187493",
-					"tn": "mixed",
+					"tn": "mixedlist",
 					"defaulturl": "https://timesofindia.indiatimes.com/feeds/newslistingfeed/feedtype-sjson,msid-55110862,tag-alrt,uid-StateElec2017-01,category-AssemblyElections2019-01.cms?platform=android&andver=560&adreqfrm=sec"
 				},
 				{
@@ -86,8 +86,8 @@
 					"id": "11111",
 					"imageid": "73187265",
 					"imageid_dark": "73187493",
-					"tn": "html",
-					"defaulurl": "https://timesofindia.indiatimes.com/elections/assembly-elections/jharkhand/candidates"
+					"tn": "sfview",
+					"wu": "https://timesofindia.indiatimes.com/elections/assembly-elections/jharkhand/candidates"
 				},
 				{
 					"name": "Election Results",
@@ -95,7 +95,7 @@
 					"imageid": "73187429",
 					"imageid_dark": "73187493",
 					"tn": "htmlview",
-					"defaulturl": "https://timesofindia.indiatimes.com/elections/assembly-elections/jharkhand/results"
+					"wu": "https://timesofindia.indiatimes.com/elections/assembly-elections/jharkhand/results"
 				},
 				{
 					"name": "Election News",
@@ -110,7 +110,7 @@
 					"id": "44444",
 					"imageid": "73187429",
 					"imageid_dark": "73187493",
-					"tn": "mixed",
+					"tn": "mixedlist",
 					"defaulturl": "https://timesofindia.indiatimes.com/feeds/newslistingfeed/feedtype-sjson,msid-55110862,tag-alrt,uid-StateElec2017-01,category-AssemblyElections2019-01.cms?platform=android&andver=560&adreqfrm=sec"
 				},
 				{
