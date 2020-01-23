@@ -1,336 +1,247 @@
 {
-	"et": "1610256339000",
-	"st": "true",
-	"dpt": "10",
-	"nst": "60",
-	"id": "123456892",
-	"source": "Data Source : C-Voter",
-	"notes": {
-		"title": "Notes",
-		"description": "Election data prior to 2003 is of the undivided state when present-day Chhattisgarh was part of Madhya Pradesh"
-	},
-	"partyName": "Partywise",
-	"allianceName": "Alliance",
-	"header": {
-		"hl": "ASSEMBLY RESULTS",
-		"syn": "",
-		"id": "-50994439",
-		"tn": "htmlview",
-		"wu": "https://spmdev.indiatimes.com/elections/assembly-elections/electionresult_dec2017/state-jharkhand,msid-72236902.cms"
-	},
-	"states": [{
-			"key": "jh",
-			"name": "Jharkhand",
-			"ts": "81",
-			"text": "L+W:",
-			"ls": "0",
-			"cap": "RESULTS",
-			"ws": "81",
-			"tn": "html",
-			"wu": "https://spmdev.indiatimes.com/elections/assembly-elections/electionresult_dec2017/state-jharkhand,msid-72236902.cms",
-			"currYear": "2020",
-			"prevYear": "2014",
-			"showTable": "true",
-			"showChange": "true",
-			"showTargetLine": "true",
-			"targetText": "Target 41",
-			"cta": [{
-					"hl": "LIVE UPDATES",
-					"id": "67034014",
-					"tn": "htmlview",
-					"wu": "https://timesofindia.indiatimes.com/india/rajasthan-madhya-pradesh-mizoram-chhattisgarh-telangana-assembly-election-results-2018-live-updates/liveblog/67034014.cms"
-				},
-				{
-					"hl": "WATCH",
-					"imageid": "49162416",
-					"tn": "livetv",
-					"channel_id": "times-now"
-				}
-			],
-			"party": [{
-					"name": "JMM",
-					"lw": "30",
-					"rank": "1",
-					"cc": "#138808",
-					"pws": "30"
-				},
-				{
-					"name": "BJP",
-					"lw": "25",
-					"rank": "2",
-					"cc": "#FF7D1D",
-					"pws": "30"
-				},
-				{
-					"name": "INC",
-					"lw": "16",
-					"rank": "3",
-					"cc": "#0076CC",
-					"pws": "30"
-				},
-				{
-					"name": "JVM(P)",
-					"lw": "3",
-					"rank": "4",
-					"cc": "#07B2B2",
-					"pws": "30"
-				},
-				{
-					"name": "AJSUP",
-					"lw": "2",
-					"rank": "5",
-					"cc": "#D3C200",
-					"pws": "30"
-				},
-				{
-					"name": "RJD",
-					"lw": "1",
-					"rank": "6",
-					"cc": "#00d200",
-					"pws": "30"
-				},
-				{
-					"name": "OTH",
-					"lw": "4",
-					"rank": "7",
-					"cc": "#84898B",
-					"pws": "30"
-				},
-				{
-					"name": "",
-					"lw": "0",
-					"rank": "8",
-					"cc": "#CCCCCC",
-					"pws": "30"
-				}
-			],
-			"alliance": [{
-					"name": "JMM+",
-					"lw": "30",
-					"rank": "1",
-					"cc": "#138808",
-					"pws": "30"
-				},
-				{
-					"name": "BJP+",
-					"lw": "25",
-					"rank": "2",
-					"cc": "#FF7D1D",
-					"pws": "30"
-				},
-				{
-					"name": "INC+",
-					"lw": "16",
-					"rank": "3",
-					"cc": "#0076CC",
-					"pws": "30"
-				},
-				{
-					"name": "JVM(P)+",
-					"lw": "3",
-					"rank": "4",
-					"cc": "#07B2B2",
-					"pws": "30"
-				},
-				{
-					"name": "AJSUP+",
-					"lw": "2",
-					"rank": "5",
-					"cc": "#D3C200",
-					"pws": "30"
-				},
-				{
-					"name": "RJD+",
-					"lw": "1",
-					"rank": "6",
-					"cc": "#00d200",
-					"pws": "30"
-				},
-				{
-					"name": "OTH+",
-					"lw": "4",
-					"rank": "7",
-					"cc": "#84898B",
-					"pws": "30"
-				},
-				{
-					"name": "",
-					"lw": "0",
-					"rank": "8",
-					"cc": "#CCCCCC",
-					"pws": "30"
-				}
-			]
-		},
-		{
-			"key": "mp",
-			"name": "Madhya Pradesh",
-			"ts": "130",
-			"text": "L+W:",
-			"ls": "0",
-			"cap": "RESULTS",
-			"ws": "130",
-			"tn": "html",
-			"wu": "https://spmdev.indiatimes.com/elections/assembly-elections/electionresult_dec2017/state-jharkhand,msid-72236902.cms",
-			"currYear": "2020",
-			"prevYear": "2014",
-			"showTable": "true",
-			"showChange": "true",
-			"showTargetLine": "true",
-			"targetText": "Target 66",
-			"cta": [{
-					"hl": "LIVE UPDATES",
-					"id": "67034014",
-					"tn": "htmlview",
-					"wu": "https://timesofindia.indiatimes.com/india/rajasthan-madhya-pradesh-mizoram-chhattisgarh-telangana-assembly-election-results-2018-live-updates/liveblog/67034014.cms"
-				},
-				{
-					"hl": "WATCH",
-					"imageid": "49162416",
-					"tn": "livetv",
-					"channel_id": "times-now"
-				}
-			],
-			"party": [{
-					"name": "BJP",
-					"lw": "100",
-					"rank": "2",
-					"cc": "#FF7D1D",
-					"pws": "80"
-				},
-				{
-					"name": "INC",
-					"lw": "16",
-					"rank": "3",
-					"cc": "#0076CC",
-					"pws": "20"
-				},
-				{
-					"name": "OTH",
-					"lw": "14",
-					"rank": "7",
-					"cc": "#84898B",
-					"pws": "30"
-				},
-				{
-					"name": "",
-					"lw": "0",
-					"rank": "8",
-					"cc": "#CCCCCC",
-					"pws": "30"
-				}
-			],
-			"alliance": [{
-					"name": "BJP+",
-					"lw": "110",
-					"rank": "2",
-					"cc": "#FF7D1D",
-					"pws": "90"
-				},
-				{
-					"name": "INC+",
-					"lw": "16",
-					"rank": "3",
-					"cc": "#0076CC",
-					"pws": "20"
-				},
-				{
-					"name": "OTH+",
-					"lw": "4",
-					"rank": "7",
-					"cc": "#84898B",
-					"pws": "20"
-				},
-				{
-					"name": "",
-					"lw": "0",
-					"rank": "8",
-					"cc": "#CCCCCC",
-					"pws": "30"
-				}
-			]
-		},
-		{
-			"key": "mh",
-			"name": "Maharashtra",
-			"ts": "200",
-			"text": "L+W:",
-			"ls": "0",
-			"cap": "RESULTS",
-			"ws": "200",
-			"tn": "html",
-			"wu": "https://spmdev.indiatimes.com/elections/assembly-elections/electionresult_dec2017/state-jharkhand,msid-72236902.cms",
-			"currYear": "2020",
-			"prevYear": "2014",
-			"showTable": "true",
-			"showChange": "true",
-			"showTargetLine": "true",
-			"targetText": "Target 101",
-			"party": [{
-					"name": "BJP",
-					"lw": "100",
-					"rank": "2",
-					"cc": "#FF7D1D",
-					"pws": "80"
-				},
-				{
-					"name": "SS",
-					"lw": "70",
-					"rank": "2",
-					"cc": "#FF7D1D",
-					"pws": "70"
-				},
-				{
-					"name": "INC",
-					"lw": "16",
-					"rank": "3",
-					"cc": "#0076CC",
-					"pws": "20"
-				},
-				{
-					"name": "OTH",
-					"lw": "14",
-					"rank": "7",
-					"cc": "#84898B",
-					"pws": "30"
-				},
-				{
-					"name": "",
-					"lw": "0",
-					"rank": "8",
-					"cc": "#CCCCCC",
-					"pws": "30"
-				}
-			],
-			"alliance": [{
-					"name": "BJP+",
-					"lw": "180",
-					"rank": "2",
-					"cc": "#FF7D1D",
-					"pws": "160"
-				},
-				{
-					"name": "INC+",
-					"lw": "16",
-					"rank": "3",
-					"cc": "#0076CC",
-					"pws": "20"
-				},
-				{
-					"name": "OTH+",
-					"lw": "4",
-					"rank": "7",
-					"cc": "#84898B",
-					"pws": "20"
-				},
-				{
-					"name": "",
-					"lw": "0",
-					"rank": "8",
-					"cc": "#CCCCCC",
-					"pws": "30"
-				}
-			]
-		}
-	]
+  "et": "1610256339000",
+  "st": "true",
+  "dpt": "10",
+  "nst": "60",
+  "id": "123456892",
+  "source": "Data Source : C-Voter",
+  "notes": {
+    "title": "Notes",
+    "description": "Election data prior to 2003 is of the undivided state when present-day Chhattisgarh was part of Madhya Pradesh"
+  },
+  "partyName": "Partywise",
+  "allianceName": "Alliance",
+  "header": {
+    "hl": "ASSEMBLY RESULTS",
+    "syn": "",
+    "id": "-50994439",
+    "tn": "htmlview",
+    "wu": "https://spmdev.indiatimes.com/elections/assembly-elections/electionresult_dec2017/state-jharkhand,msid-72236902.cms"
+  },
+  "states": [
+    {
+      "key": "jh",
+      "name": "Jharkhand",
+      "ts": "81",
+      "text": "L+W:",
+      "ls": "0",
+      "cap": "RESULTS",
+      "ws": "81",
+      "tn": "html",
+      "wu": "https://spmdev.indiatimes.com/elections/assembly-elections/electionresult_dec2017/state-jharkhand,msid-72236902.cms",
+      "currYear": "2020",
+      "prevYear": "2014",
+      "showTable": "true",
+      "showChange": "true",
+      "showTargetLine": "true",
+      "targetText": "Target 41",
+      "cta": [
+        {
+          "hl": "LIVE UPDATES",
+          "id": "67034014",
+          "tn": "htmlview",
+          "wu": "https://timesofindia.indiatimes.com/india/rajasthan-madhya-pradesh-mizoram-chhattisgarh-telangana-assembly-election-results-2018-live-updates/liveblog/67034014.cms"
+        },
+        {
+          "hl": "WATCH",
+          "imageid": "49162416",
+          "tn": "livetv",
+          "channel_id": "times-now"
+        }
+      ],
+      "party": [
+        {
+          "name": "H---L---",
+          "lw": "0",
+          "rank": "8",
+          "cc": "#CCCCCC",
+          "pws": "30"
+        }
+      ],
+      "alliance": [
+        {
+          "name": "JMM+",
+          "lw": "30",
+          "rank": "1",
+          "cc": "#138808",
+          "pws": "30"
+        }
+      ]
+    },
+    {
+      "key": "mp",
+      "name": "Madhya Pradesh",
+      "ts": "130",
+      "text": "L+W:",
+      "ls": "0",
+      "cap": "RESULTS",
+      "ws": "130",
+      "tn": "html",
+      "wu": "https://spmdev.indiatimes.com/elections/assembly-elections/electionresult_dec2017/state-jharkhand,msid-72236902.cms",
+      "currYear": "2020",
+      "prevYear": "2014",
+      "showTable": "true",
+      "showChange": "true",
+      "showTargetLine": "true",
+      "targetText": "Target 66",
+      "cta": [
+        {
+          "hl": "LIVE UPDATES",
+          "id": "67034014",
+          "tn": "htmlview",
+          "wu": "https://timesofindia.indiatimes.com/india/rajasthan-madhya-pradesh-mizoram-chhattisgarh-telangana-assembly-election-results-2018-live-updates/liveblog/67034014.cms"
+        },
+        {
+          "hl": "WATCH",
+          "imageid": "49162416",
+          "tn": "livetv",
+          "channel_id": "times-now"
+        }
+      ],
+      "party": [
+        {
+          "name": "BJP",
+          "lw": "100",
+          "rank": "2",
+          "cc": "#FF7D1D",
+          "pws": "80"
+        },
+        {
+          "name": "INC",
+          "lw": "16",
+          "rank": "3",
+          "cc": "#0076CC",
+          "pws": "20"
+        },
+        {
+          "name": "OTH",
+          "lw": "14",
+          "rank": "7",
+          "cc": "#84898B",
+          "pws": "30"
+        },
+        {
+          "name": "",
+          "lw": "0",
+          "rank": "8",
+          "cc": "#CCCCCC",
+          "pws": "30"
+        }
+      ],
+      "alliance": [
+        {
+          "name": "BJP+",
+          "lw": "110",
+          "rank": "2",
+          "cc": "#FF7D1D",
+          "pws": "90"
+        },
+        {
+          "name": "INC+",
+          "lw": "16",
+          "rank": "3",
+          "cc": "#0076CC",
+          "pws": "20"
+        },
+        {
+          "name": "OTH+",
+          "lw": "4",
+          "rank": "7",
+          "cc": "#84898B",
+          "pws": "20"
+        },
+        {
+          "name": "",
+          "lw": "0",
+          "rank": "8",
+          "cc": "#CCCCCC",
+          "pws": "30"
+        }
+      ]
+    },
+    {
+      "key": "mh",
+      "name": "Maharashtra",
+      "ts": "200",
+      "text": "L+W:",
+      "ls": "0",
+      "cap": "RESULTS",
+      "ws": "200",
+      "tn": "html",
+      "wu": "https://spmdev.indiatimes.com/elections/assembly-elections/electionresult_dec2017/state-jharkhand,msid-72236902.cms",
+      "currYear": "2020",
+      "prevYear": "2014",
+      "showTable": "true",
+      "showChange": "true",
+      "showTargetLine": "true",
+      "targetText": "Target 101",
+      "party": [
+        {
+          "name": "BJP",
+          "lw": "100",
+          "rank": "2",
+          "cc": "#FF7D1D",
+          "pws": "80"
+        },
+        {
+          "name": "SS",
+          "lw": "70",
+          "rank": "2",
+          "cc": "#FF7D1D",
+          "pws": "70"
+        },
+        {
+          "name": "INC",
+          "lw": "16",
+          "rank": "3",
+          "cc": "#0076CC",
+          "pws": "20"
+        },
+        {
+          "name": "OTH",
+          "lw": "14",
+          "rank": "7",
+          "cc": "#84898B",
+          "pws": "30"
+        },
+        {
+          "name": "",
+          "lw": "0",
+          "rank": "8",
+          "cc": "#CCCCCC",
+          "pws": "30"
+        }
+      ],
+      "alliance": [
+        {
+          "name": "BJP+",
+          "lw": "180",
+          "rank": "2",
+          "cc": "#FF7D1D",
+          "pws": "160"
+        },
+        {
+          "name": "INC+",
+          "lw": "16",
+          "rank": "3",
+          "cc": "#0076CC",
+          "pws": "20"
+        },
+        {
+          "name": "OTH+",
+          "lw": "4",
+          "rank": "7",
+          "cc": "#84898B",
+          "pws": "20"
+        },
+        {
+          "name": "",
+          "lw": "0",
+          "rank": "8",
+          "cc": "#CCCCCC",
+          "pws": "30"
+        }
+      ]
+    }
+  ]
 }
