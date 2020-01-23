@@ -43,36 +43,6 @@
           "cc": "#CCCCCC",
           "pws": "30"
         }
-      ],
-      "alliance": [
-        {
-          "name": "BJP+",
-          "lw": "180",
-          "rank": "2",
-          "cc": "#FF7D1D",
-          "pws": "160"
-        },
-        {
-          "name": "INC+",
-          "lw": "16",
-          "rank": "3",
-          "cc": "#0076CC",
-          "pws": "20"
-        },
-        {
-          "name": "OTH+",
-          "lw": "4",
-          "rank": "7",
-          "cc": "#84898B",
-          "pws": "20"
-        },
-        {
-          "name": "",
-          "lw": "0",
-          "rank": "8",
-          "cc": "#CCCCCC",
-          "pws": "30"
-        }
       ]
     }
   ]
