@@ -4,10 +4,9 @@
   "dpt": "10",
   "nst": "60",
   "id": "123456892",
-  "source": "Data Source : C-Voter",
   "notes": {
     "title": "Notes",
-    "description": "Election data prior to 2003 is of the undivided state when present-day Chhattisgarh was part of Madhya Pradesh"
+    "description": "<notes to be added from mweb>"
   },
   "partyName": "Partywise",
   "allianceName": "Alliance",
@@ -29,12 +28,12 @@
       "ws": "200",
       "tn": "html",
       "wu": "https://spmdev.indiatimes.com/elections/assembly-elections/electionresult_dec2017/state-jharkhand,msid-72236902.cms",
-      "currYear": "2020",
-      "prevYear": "2014",
+      "currYear": "2015",
+      "prevYear": "2013",
       "showTable": "true",
       "showChange": "true",
       "showTargetLine": "true",
-      "targetText": "Target 101",
+      "targetText": "Majority Mark 36",
       "party": [
         {
           "name": "",
