@@ -6,7 +6,10 @@
 	"dpt": "10",
 	"notes": {
 		"title": "Notes",
-		"description": "Election data prior to 2003 is of the undivided state when present-day Chhattisgarh was part of Madhya Pradesh"
+		"description": "The 2015 Delhi assembly election was fought among Congress, BJP and new entrant Aam Admi Party (AAP)
+The election delivered a massive landslide win for AAP, which won 67 seats, leaving only three seats for BJP. Congress, which was in power for 15 years before this election, drew a blank.
+Voting for 2020 Delhi assembly election will be held on February, 8 2020 and results will be announced on February 11, 2020. The current Delhi assembly expires on February 22.
+"
 	},
 	"partyName": "Partywise",
 	"allianceName": "Alliance",
@@ -509,12 +512,12 @@
 			"ts": "200",
 			"ws": "200",
 			"wu": "https://spmdev.indiatimes.com/elections/assembly-elections/rajasthan/results",
-			"currYear": "2020",
-			"prevYear": "2014",
-			"showTable": "true",
+			"currYear": "2015",
+			"prevYear": "2013",
+			"showTable": "false",
 			"showChange": "true",
 			"showTargetLine": "true",
-			"targetText": "Target 101"
+			"targetText": "Majority Mark 36"
 		}
 	]
 }
