@@ -34,15 +34,122 @@
       "showChange": "true",
       "showTargetLine": "true",
       "targetText": "Majority Mark 36",
-      "party": [
-        {
-          "name": "",
-          "lw": "0",
-          "rank": "8",
-          "cc": "#CCCCCC",
-          "pws": "30"
-        }
-      ]
+"party": [
+            {
+              "cc": "#0076CC",
+              "lw": "126",
+              "name": "INC",
+              "rank": "1",
+              "pws": "30"
+            },
+            {
+              "cc": "#f78002",
+              "lw": "94",
+              "name": "BJP",
+              "rank": "2",
+              "pws": "30"
+            },
+            {
+              "cc": "#84898B",
+              "lw": "10",
+              "name": "OTH",
+              "rank": "15",
+              "pws": "30"
+            },
+            {
+              "cc": "#0214db",
+              "lw": "0",
+              "name": "BSP",
+              "rank": "19",
+              "pws": "30"
+            },
+            {
+              "cc": "#0076CC",
+              "lw": "126",
+              "name": "INC",
+              "rank": "1",
+              "pws": "30"
+            },
+            {
+              "cc": "#f78002",
+              "lw": "94",
+              "name": "BJP",
+              "rank": "2",
+              "pws": "30"
+            },
+            {
+              "cc": "#84898B",
+              "lw": "10",
+              "name": "OTH",
+              "rank": "15",
+              "pws": "30"
+            },
+            {
+              "cc": "#0214db",
+              "lw": "0",
+              "name": "BSP",
+              "rank": "19",
+              "pws": "30"
+            },
+            {
+              "cc": "#0076CC",
+              "lw": "126",
+              "name": "INC",
+              "rank": "1",
+              "pws": "30"
+            },
+            {
+              "cc": "#f78002",
+              "lw": "94",
+              "name": "BJP",
+              "rank": "2",
+              "pws": "30"
+            },
+            {
+              "cc": "#84898B",
+              "lw": "10",
+              "name": "OTH",
+              "rank": "15",
+              "pws": "30"
+            },
+            {
+              "cc": "#0214db",
+              "lw": "0",
+              "name": "BSP",
+              "rank": "19",
+              "pws": "30"
+            }
+          ],
+          "alliance": [
+            {
+              "cc": "#0076CC",
+              "lw": "126",
+              "name": "INC+",
+              "rank": "1",
+              "pws": "30"
+            },
+            {
+              "cc": "#f78002",
+              "lw": "94",
+              "name": "BJP+",
+              "rank": "2",
+              "pws": "30"
+            },
+            {
+              "cc": "#84898B",
+              "lw": "10",
+              "name": "OTH",
+              "rank": "15",
+              "pws": "30"
+            },
+            {
+              "cc": "#0214db",
+              "lw": "0",
+              "name": "BSP",
+              "rank": "19",
+              "pws": "30"
+            }
+          ]
     }
   ]
 }
