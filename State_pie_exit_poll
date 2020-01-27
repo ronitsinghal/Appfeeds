@@ -1,523 +1,537 @@
 {
-	"et": "1610108500000",
-	"id": "123456899",
-	"nst": "60",
-	"st": "true",
-	"dpt": "10",
-	"notes": {
-		"title": "Notes",
-		"description": "The 2015 Delhi assembly election was fought among Congress, BJP and new entrant Aam Admi Party (AAP)
-The election delivered a massive landslide win for AAP, which won 67 seats, leaving only three seats for BJP. Congress, which was in power for 15 years before this election, drew a blank.
-Voting for 2020 Delhi assembly election will be held on February, 8 2020 and results will be announced on February 11, 2020. The current Delhi assembly expires on February 22.
-"
-	},
-	"partyName": "Partywise",
-	"allianceName": "Alliance",
-	"header": {
-		"cap": "",
-		"hl": "ELECTION",
-		"id": "-50994439",
-		"syn": "EXIT POLLS",
-		"tn": "html",
-		"wu": "https://spmdev.indiatimes.com/elections/exit-polls"
-	},
-	"states": [{
-			"cap": "EXIT POLLS",
-			"cta": [{
-					"hl": "LIVE UPDATES",
-					"id": "63142447",
-					"tn": "html",
-					"wu": "https://toispastaging.indiatimes.com/india/madhya-pradesh-mizoram-elections-live-updates/liveblog/66837016.cms"
-				},
-				{
-					"channel_id": "times-now",
-					"hl": "WATCH",
-					"imageid": "49162416",
-					"tn": "livetv"
-				}
-			],
-			"source": [{
-					"src": "ABP-CSDS",
-					"ts": "230",
-					"party": [{
-							"cc": "#0076CC",
-							"lw": "126",
-							"name": "INC",
-							"rank": "1",
-							"pws": "30"
-						},
-						{
-							"cc": "#f78002",
-							"lw": "94",
-							"name": "BJP",
-							"rank": "2",
-							"pws": "30"
-						},
-						{
-							"cc": "#84898B",
-							"lw": "10",
-							"name": "OTH",
-							"rank": "15",
-							"pws": "30"
-						},
-						{
-							"cc": "#0214db",
-							"lw": "0",
-							"name": "BSP",
-							"rank": "19",
-							"pws": "30"
-						},
-						{
-							"cc": "#0076CC",
-							"lw": "126",
-							"name": "INC",
-							"rank": "1",
-							"pws": "30"
-						},
-						{
-							"cc": "#f78002",
-							"lw": "94",
-							"name": "BJP",
-							"rank": "2",
-							"pws": "30"
-						},
-						{
-							"cc": "#84898B",
-							"lw": "10",
-							"name": "OTH",
-							"rank": "15",
-							"pws": "30"
-						},
-						{
-							"cc": "#0214db",
-							"lw": "0",
-							"name": "BSP",
-							"rank": "19",
-							"pws": "30"
-						},
-						{
-							"cc": "#0076CC",
-							"lw": "126",
-							"name": "INC",
-							"rank": "1",
-							"pws": "30"
-						},
-						{
-							"cc": "#f78002",
-							"lw": "94",
-							"name": "BJP",
-							"rank": "2",
-							"pws": "30"
-						},
-						{
-							"cc": "#84898B",
-							"lw": "10",
-							"name": "OTH",
-							"rank": "15",
-							"pws": "30"
-						},
-						{
-							"cc": "#0214db",
-							"lw": "0",
-							"name": "BSP",
-							"rank": "19",
-							"pws": "30"
-						}
-					],
-					"alliance": [{
-							"cc": "#0076CC",
-							"lw": "126",
-							"name": "INC+",
-							"rank": "1",
-							"pws": "30"
-						},
-						{
-							"cc": "#f78002",
-							"lw": "94",
-							"name": "BJP+",
-							"rank": "2",
-							"pws": "30"
-						},
-						{
-							"cc": "#84898B",
-							"lw": "10",
-							"name": "OTH",
-							"rank": "15",
-							"pws": "30"
-						},
-						{
-							"cc": "#0214db",
-							"lw": "0",
-							"name": "BSP",
-							"rank": "19",
-							"pws": "30"
-						}
-					]
-				},
-				{
-					"src": "C-Voter",
-					"ts": "230",
-					"party": [{
-							"cc": "#0076CC",
-							"lw": "118",
-							"name": "INC",
-							"rank": "1",
-							"pws": "30"
-						},
-						{
-							"cc": "#f78002",
-							"lw": "98",
-							"name": "BJP",
-							"rank": "2",
-							"pws": "30"
-						},
-						{
-							"cc": "#84898B",
-							"lw": "14",
-							"name": "OTH",
-							"rank": "15",
-							"pws": "30"
-						},
-						{
-							"cc": "#0214db",
-							"lw": "0",
-							"name": "BSP",
-							"rank": "19",
-							"pws": "30"
-						}
-					],
-					"alliance": [{
-							"cc": "#0076CC",
-							"lw": "118",
-							"name": "INC+",
-							"rank": "1",
-							"pws": "30"
-						},
-						{
-							"cc": "#f78002",
-							"lw": "98",
-							"name": "BJP+",
-							"rank": "2",
-							"pws": "30"
-						},
-						{
-							"cc": "#84898B",
-							"lw": "14",
-							"name": "OTH",
-							"rank": "15",
-							"pws": "30"
-						},
-						{
-							"cc": "#0214db",
-							"lw": "0",
-							"name": "BSP+",
-							"rank": "19",
-							"pws": "30"
-						}
-					]
-				},
-				{
-					"src": "India Today - Axis My India",
-					"ts": "230",
-					"alliance": [{
-							"cc": "#0076CC",
-							"lw": "113",
-							"name": "INC+",
-							"rank": "1",
-							"pws": "30"
-						},
-						{
-							"cc": "#f78002",
-							"lw": "111",
-							"name": "BJP+",
-							"rank": "2",
-							"pws": "30"
-						},
-						{
-							"cc": "#84898B",
-							"lw": "4",
-							"name": "OTH+",
-							"rank": "15",
-							"pws": "30"
-						},
-						{
-							"cc": "#0214db",
-							"lw": "2",
-							"name": "BSP+",
-							"rank": "19",
-							"pws": "30"
-						}
-					]
-				},
-				{
-					"src": "jan ki baat",
-					"ts": "230",
-					"party": [{
-							"cc": "#f78002",
-							"lw": "118",
-							"name": "BJP",
-							"rank": "2",
-							"pws": "30"
-						},
-						{
-							"cc": "#0076CC",
-							"lw": "105",
-							"name": "INC",
-							"rank": "1",
-							"pws": "30"
-						},
-						{
-							"cc": "#84898B",
-							"lw": "7",
-							"name": "OTH",
-							"rank": "15",
-							"pws": "30"
-						},
-						{
-							"cc": "#0214db",
-							"lw": "0",
-							"name": "BSP",
-							"rank": "19",
-							"pws": "30"
-						}
-					]
-				}
-			],
-			"key": "mp",
-			"ls": "0",
-			"name": "Madhya Pradesh",
-			"text": "L+W:",
-			"tn": "html",
-			"ts": "230",
-			"ws": "230",
-			"wu": "https://spmdev.indiatimes.com/elections/assembly-elections/madhya-pradesh/results",
-			"currYear": "2020",
-			"prevYear": "2014",
-			"showTable": "true",
-			"showChange": "true",
-			"showTargetLine": "true",
-			"targetText": "Target 116"
-		},
-		{
-			"cap": "EXIT POLLS",
-			"cta": [{
-					"hl": "LIVE UPDATES",
-					"id": "63142447",
-					"tn": "html",
-					"wu": "https://toispastaging.indiatimes.com/india/madhya-pradesh-mizoram-elections-live-updates/liveblog/66837016.cms"
-				},
-				{
-					"channel_id": "times-now",
-					"hl": "WATCH",
-					"imageid": "49162416",
-					"tn": "livetv"
-				}
-			],
-			"source": [{
-					"src": "C-Voter",
-					"ts": "200",
-					"party": [{
-							"cc": "#0076CC",
-							"lw": "137",
-							"name": "INC+",
-							"rank": "1",
-							"pws": "30"
-						},
-						{
-							"cc": "#f78002",
-							"lw": "60",
-							"name": "BJP",
-							"rank": "6",
-							"pws": "30"
-						},
-						{
-							"cc": "#84898B",
-							"lw": "2",
-							"name": "OTH",
-							"rank": "13",
-							"pws": "30"
-						},
-						{
-							"cc": "#0214db",
-							"lw": "0",
-							"name": "BSP",
-							"rank": "19",
-							"pws": "30"
-						}
-					],
-					"alliance": [{
-							"cc": "#0076CC",
-							"lw": "137",
-							"name": "INC+",
-							"rank": "1",
-							"pws": "30"
-						},
-						{
-							"cc": "#f78002",
-							"lw": "60",
-							"name": "BJP+",
-							"rank": "6",
-							"pws": "30"
-						},
-						{
-							"cc": "#84898B",
-							"lw": "2",
-							"name": "OTH+",
-							"rank": "13",
-							"pws": "30"
-						},
-						{
-							"cc": "#0214db",
-							"lw": "0",
-							"name": "BSP+",
-							"rank": "19",
-							"pws": "30"
-						}
-					]
-				},
-				{
-					"src": "India Today - Axis My India",
-					"ts": "200",
-					"party": [{
-							"cc": "#0076CC",
-							"lw": "130",
-							"name": "INC+",
-							"rank": "1",
-							"pws": "30"
-						},
-						{
-							"cc": "#f78002",
-							"lw": "63",
-							"name": "BJP",
-							"rank": "6",
-							"pws": "30"
-						},
-						{
-							"cc": "#84898B",
-							"lw": "6",
-							"name": "OTH",
-							"rank": "13",
-							"pws": "30"
-						},
-						{
-							"cc": "#0214db",
-							"lw": "0",
-							"name": "BSP",
-							"rank": "19",
-							"pws": "30"
-						}
-					],
-					"alliance": [{
-							"cc": "#0076CC",
-							"lw": "130",
-							"name": "INC+",
-							"rank": "1",
-							"pws": "30"
-						},
-						{
-							"cc": "#f78002",
-							"lw": "63",
-							"name": "BJP+",
-							"rank": "6",
-							"pws": "30"
-						},
-						{
-							"cc": "#84898B",
-							"lw": "6",
-							"name": "OTH+",
-							"rank": "13",
-							"pws": "30"
-						},
-						{
-							"cc": "#0214db",
-							"lw": "0",
-							"name": "BSP+",
-							"rank": "19",
-							"pws": "30"
-						}
-					]
-				},
-				{
-					"src": "jan ki baat",
-					"ts": "200",
-					"alliance": [{
-							"cc": "#f78002",
-							"lw": "93",
-							"name": "BJP+",
-							"rank": "6",
-							"pws": "30"
-						},
-						{
-							"cc": "#0076CC",
-							"lw": "91",
-							"name": "INC+",
-							"rank": "1",
-							"pws": "30"
-						},
-						{
-							"cc": "#84898B",
-							"lw": "15",
-							"name": "OTH+",
-							"rank": "13",
-							"pws": "30"
-						},
-						{
-							"cc": "#0214db",
-							"lw": "0",
-							"name": "BSP+",
-							"rank": "19",
-							"pws": "30"
-						}
-					]
-				},
-				{
-					"src": "News 24-PACE",
-					"ts": "200",
-					"party": [{
-							"cc": "#0076CC",
-							"lw": "115",
-							"name": "INC+",
-							"rank": "1",
-							"pws": "30"
-						},
-						{
-							"cc": "#f78002",
-							"lw": "75",
-							"name": "BJP",
-							"rank": "6",
-							"pws": "30"
-						},
-						{
-							"cc": "#84898B",
-							"lw": "9",
-							"name": "OTH",
-							"rank": "13",
-							"pws": "30"
-						},
-						{
-							"cc": "#0214db",
-							"lw": "0",
-							"name": "BSP",
-							"rank": "19",
-							"pws": "30"
-						}
-					]
-				}
-			],
-			"key": "rj",
-			"ls": "0",
-			"name": "Rajasthan",
-			"text": "L+W:",
-			"tn": "html",
-			"ts": "200",
-			"ws": "200",
-			"wu": "https://spmdev.indiatimes.com/elections/assembly-elections/rajasthan/results",
-			"currYear": "2015",
-			"prevYear": "2013",
-			"showTable": "false",
-			"showChange": "true",
-			"showTargetLine": "true",
-			"targetText": "Majority Mark 36"
-		}
-	]
+  "et": "1610108500000",
+  "id": "123456899",
+  "nst": "60",
+  "st": "true",
+  "dpt": "10",
+  "notes": {
+    "title": "Notes",
+    "description": "The 2015 Delhi assembly election was fought among Congress, BJP and new entrant Aam Admi Party (AAP)\nThe election delivered a massive landslide win for AAP, which won 67 seats, leaving only three seats for BJP. Congress, which was in power for 15 years before this election, drew a blank.\nVoting for 2020 Delhi assembly election will be held on February, 8 2020 and results will be announced on February 11, 2020. The current Delhi assembly expires on February 22."
+  },
+  "partyName": "Partywise",
+  "allianceName": "Alliance",
+  "header": {
+    "cap": "",
+    "hl": "ELECTION",
+    "id": "-50994439",
+    "syn": "EXIT POLLS",
+    "tn": "html",
+    "wu": "https://spmdev.indiatimes.com/elections/exit-polls"
+  },
+  "states": [
+    {
+      "cap": "EXIT POLLS",
+      "cta": [
+        {
+          "hl": "LIVE UPDATES",
+          "id": "63142447",
+          "tn": "html",
+          "wu": "https://toispastaging.indiatimes.com/india/madhya-pradesh-mizoram-elections-live-updates/liveblog/66837016.cms"
+        },
+        {
+          "channel_id": "times-now",
+          "hl": "WATCH",
+          "imageid": "49162416",
+          "tn": "livetv"
+        }
+      ],
+      "source": [
+        {
+          "src": "ABP-CSDS",
+          "ts": "230",
+          "party": [
+            {
+              "cc": "#0076CC",
+              "lw": "126",
+              "name": "INC",
+              "rank": "1",
+              "pws": "30"
+            },
+            {
+              "cc": "#f78002",
+              "lw": "94",
+              "name": "BJP",
+              "rank": "2",
+              "pws": "30"
+            },
+            {
+              "cc": "#84898B",
+              "lw": "10",
+              "name": "OTH",
+              "rank": "15",
+              "pws": "30"
+            },
+            {
+              "cc": "#0214db",
+              "lw": "0",
+              "name": "BSP",
+              "rank": "19",
+              "pws": "30"
+            },
+            {
+              "cc": "#0076CC",
+              "lw": "126",
+              "name": "INC",
+              "rank": "1",
+              "pws": "30"
+            },
+            {
+              "cc": "#f78002",
+              "lw": "94",
+              "name": "BJP",
+              "rank": "2",
+              "pws": "30"
+            },
+            {
+              "cc": "#84898B",
+              "lw": "10",
+              "name": "OTH",
+              "rank": "15",
+              "pws": "30"
+            },
+            {
+              "cc": "#0214db",
+              "lw": "0",
+              "name": "BSP",
+              "rank": "19",
+              "pws": "30"
+            },
+            {
+              "cc": "#0076CC",
+              "lw": "126",
+              "name": "INC",
+              "rank": "1",
+              "pws": "30"
+            },
+            {
+              "cc": "#f78002",
+              "lw": "94",
+              "name": "BJP",
+              "rank": "2",
+              "pws": "30"
+            },
+            {
+              "cc": "#84898B",
+              "lw": "10",
+              "name": "OTH",
+              "rank": "15",
+              "pws": "30"
+            },
+            {
+              "cc": "#0214db",
+              "lw": "0",
+              "name": "BSP",
+              "rank": "19",
+              "pws": "30"
+            }
+          ],
+          "alliance": [
+            {
+              "cc": "#0076CC",
+              "lw": "126",
+              "name": "INC+",
+              "rank": "1",
+              "pws": "30"
+            },
+            {
+              "cc": "#f78002",
+              "lw": "94",
+              "name": "BJP+",
+              "rank": "2",
+              "pws": "30"
+            },
+            {
+              "cc": "#84898B",
+              "lw": "10",
+              "name": "OTH",
+              "rank": "15",
+              "pws": "30"
+            },
+            {
+              "cc": "#0214db",
+              "lw": "0",
+              "name": "BSP",
+              "rank": "19",
+              "pws": "30"
+            }
+          ]
+        },
+        {
+          "src": "C-Voter",
+          "ts": "230",
+          "party": [
+            {
+              "cc": "#0076CC",
+              "lw": "118",
+              "name": "INC",
+              "rank": "1",
+              "pws": "30"
+            },
+            {
+              "cc": "#f78002",
+              "lw": "98",
+              "name": "BJP",
+              "rank": "2",
+              "pws": "30"
+            },
+            {
+              "cc": "#84898B",
+              "lw": "14",
+              "name": "OTH",
+              "rank": "15",
+              "pws": "30"
+            },
+            {
+              "cc": "#0214db",
+              "lw": "0",
+              "name": "BSP",
+              "rank": "19",
+              "pws": "30"
+            }
+          ],
+          "alliance": [
+            {
+              "cc": "#0076CC",
+              "lw": "118",
+              "name": "INC+",
+              "rank": "1",
+              "pws": "30"
+            },
+            {
+              "cc": "#f78002",
+              "lw": "98",
+              "name": "BJP+",
+              "rank": "2",
+              "pws": "30"
+            },
+            {
+              "cc": "#84898B",
+              "lw": "14",
+              "name": "OTH",
+              "rank": "15",
+              "pws": "30"
+            },
+            {
+              "cc": "#0214db",
+              "lw": "0",
+              "name": "BSP+",
+              "rank": "19",
+              "pws": "30"
+            }
+          ]
+        },
+        {
+          "src": "India Today - Axis My India",
+          "ts": "230",
+          "alliance": [
+            {
+              "cc": "#0076CC",
+              "lw": "113",
+              "name": "INC+",
+              "rank": "1",
+              "pws": "30"
+            },
+            {
+              "cc": "#f78002",
+              "lw": "111",
+              "name": "BJP+",
+              "rank": "2",
+              "pws": "30"
+            },
+            {
+              "cc": "#84898B",
+              "lw": "4",
+              "name": "OTH+",
+              "rank": "15",
+              "pws": "30"
+            },
+            {
+              "cc": "#0214db",
+              "lw": "2",
+              "name": "BSP+",
+              "rank": "19",
+              "pws": "30"
+            }
+          ]
+        },
+        {
+          "src": "jan ki baat",
+          "ts": "230",
+          "party": [
+            {
+              "cc": "#f78002",
+              "lw": "118",
+              "name": "BJP",
+              "rank": "2",
+              "pws": "30"
+            },
+            {
+              "cc": "#0076CC",
+              "lw": "105",
+              "name": "INC",
+              "rank": "1",
+              "pws": "30"
+            },
+            {
+              "cc": "#84898B",
+              "lw": "7",
+              "name": "OTH",
+              "rank": "15",
+              "pws": "30"
+            },
+            {
+              "cc": "#0214db",
+              "lw": "0",
+              "name": "BSP",
+              "rank": "19",
+              "pws": "30"
+            }
+          ]
+        }
+      ],
+      "key": "mp",
+      "ls": "0",
+      "name": "Madhya Pradesh",
+      "text": "L+W:",
+      "tn": "html",
+      "ts": "230",
+      "ws": "230",
+      "wu": "https://spmdev.indiatimes.com/elections/assembly-elections/madhya-pradesh/results",
+      "currYear": "2020",
+      "prevYear": "2014",
+      "showTable": "true",
+      "showChange": "true",
+      "showTargetLine": "true",
+      "targetText": "Target 116"
+    },
+    {
+      "cap": "EXIT POLLS",
+      "cta": [
+        {
+          "hl": "LIVE UPDATES",
+          "id": "63142447",
+          "tn": "html",
+          "wu": "https://toispastaging.indiatimes.com/india/madhya-pradesh-mizoram-elections-live-updates/liveblog/66837016.cms"
+        },
+        {
+          "channel_id": "times-now",
+          "hl": "WATCH",
+          "imageid": "49162416",
+          "tn": "livetv"
+        }
+      ],
+      "source": [
+        {
+          "src": "C-Voter",
+          "ts": "200",
+          "party": [
+            {
+              "cc": "#0076CC",
+              "lw": "137",
+              "name": "INC+",
+              "rank": "1",
+              "pws": "30"
+            },
+            {
+              "cc": "#f78002",
+              "lw": "60",
+              "name": "BJP",
+              "rank": "6",
+              "pws": "30"
+            },
+            {
+              "cc": "#84898B",
+              "lw": "2",
+              "name": "OTH",
+              "rank": "13",
+              "pws": "30"
+            },
+            {
+              "cc": "#0214db",
+              "lw": "0",
+              "name": "BSP",
+              "rank": "19",
+              "pws": "30"
+            }
+          ],
+          "alliance": [
+            {
+              "cc": "#0076CC",
+              "lw": "137",
+              "name": "INC+",
+              "rank": "1",
+              "pws": "30"
+            },
+            {
+              "cc": "#f78002",
+              "lw": "60",
+              "name": "BJP+",
+              "rank": "6",
+              "pws": "30"
+            },
+            {
+              "cc": "#84898B",
+              "lw": "2",
+              "name": "OTH+",
+              "rank": "13",
+              "pws": "30"
+            },
+            {
+              "cc": "#0214db",
+              "lw": "0",
+              "name": "BSP+",
+              "rank": "19",
+              "pws": "30"
+            }
+          ]
+        },
+        {
+          "src": "India Today - Axis My India",
+          "ts": "200",
+          "party": [
+            {
+              "cc": "#0076CC",
+              "lw": "130",
+              "name": "INC+",
+              "rank": "1",
+              "pws": "30"
+            },
+            {
+              "cc": "#f78002",
+              "lw": "63",
+              "name": "BJP",
+              "rank": "6",
+              "pws": "30"
+            },
+            {
+              "cc": "#84898B",
+              "lw": "6",
+              "name": "OTH",
+              "rank": "13",
+              "pws": "30"
+            },
+            {
+              "cc": "#0214db",
+              "lw": "0",
+              "name": "BSP",
+              "rank": "19",
+              "pws": "30"
+            }
+          ],
+          "alliance": [
+            {
+              "cc": "#0076CC",
+              "lw": "130",
+              "name": "INC+",
+              "rank": "1",
+              "pws": "30"
+            },
+            {
+              "cc": "#f78002",
+              "lw": "63",
+              "name": "BJP+",
+              "rank": "6",
+              "pws": "30"
+            },
+            {
+              "cc": "#84898B",
+              "lw": "6",
+              "name": "OTH+",
+              "rank": "13",
+              "pws": "30"
+            },
+            {
+              "cc": "#0214db",
+              "lw": "0",
+              "name": "BSP+",
+              "rank": "19",
+              "pws": "30"
+            }
+          ]
+        },
+        {
+          "src": "jan ki baat",
+          "ts": "200",
+          "alliance": [
+            {
+              "cc": "#f78002",
+              "lw": "93",
+              "name": "BJP+",
+              "rank": "6",
+              "pws": "30"
+            },
+            {
+              "cc": "#0076CC",
+              "lw": "91",
+              "name": "INC+",
+              "rank": "1",
+              "pws": "30"
+            },
+            {
+              "cc": "#84898B",
+              "lw": "15",
+              "name": "OTH+",
+              "rank": "13",
+              "pws": "30"
+            },
+            {
+              "cc": "#0214db",
+              "lw": "0",
+              "name": "BSP+",
+              "rank": "19",
+              "pws": "30"
+            }
+          ]
+        },
+        {
+          "src": "News 24-PACE",
+          "ts": "200",
+          "party": [
+            {
+              "cc": "#0076CC",
+              "lw": "115",
+              "name": "INC+",
+              "rank": "1",
+              "pws": "30"
+            },
+            {
+              "cc": "#f78002",
+              "lw": "75",
+              "name": "BJP",
+              "rank": "6",
+              "pws": "30"
+            },
+            {
+              "cc": "#84898B",
+              "lw": "9",
+              "name": "OTH",
+              "rank": "13",
+              "pws": "30"
+            },
+            {
+              "cc": "#0214db",
+              "lw": "0",
+              "name": "BSP",
+              "rank": "19",
+              "pws": "30"
+            }
+          ]
+        }
+      ],
+      "key": "rj",
+      "ls": "0",
+      "name": "Rajasthan",
+      "text": "L+W:",
+      "tn": "html",
+      "ts": "200",
+      "ws": "200",
+      "wu": "https://spmdev.indiatimes.com/elections/assembly-elections/rajasthan/results",
+      "currYear": "2015",
+      "prevYear": "2013",
+      "showTable": "false",
+      "showChange": "true",
+      "showTargetLine": "true",
+      "targetText": "Majority Mark 36"
+    }
+  ]
 }
