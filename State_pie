@@ -34,122 +34,227 @@
       "showChange": "true",
       "showTargetLine": "true",
       "targetText": "Majority Mark 36",
-"party": [
-            {
-              "cc": "#0076CC",
-              "lw": "126",
-              "name": "INC",
-              "rank": "1",
-              "pws": "30"
-            },
-            {
-              "cc": "#f78002",
-              "lw": "94",
-              "name": "BJP",
-              "rank": "2",
-              "pws": "30"
-            },
-            {
-              "cc": "#84898B",
-              "lw": "10",
-              "name": "OTH",
-              "rank": "15",
-              "pws": "30"
-            },
-            {
-              "cc": "#0214db",
-              "lw": "0",
-              "name": "BSP",
-              "rank": "19",
-              "pws": "30"
-            },
-            {
-              "cc": "#0076CC",
-              "lw": "126",
-              "name": "INC",
-              "rank": "1",
-              "pws": "30"
-            },
-            {
-              "cc": "#f78002",
-              "lw": "94",
-              "name": "BJP",
-              "rank": "2",
-              "pws": "30"
-            },
-            {
-              "cc": "#84898B",
-              "lw": "10",
-              "name": "OTH",
-              "rank": "15",
-              "pws": "30"
-            },
-            {
-              "cc": "#0214db",
-              "lw": "0",
-              "name": "BSP",
-              "rank": "19",
-              "pws": "30"
-            },
-            {
-              "cc": "#0076CC",
-              "lw": "126",
-              "name": "INC",
-              "rank": "1",
-              "pws": "30"
-            },
-            {
-              "cc": "#f78002",
-              "lw": "94",
-              "name": "BJP",
-              "rank": "2",
-              "pws": "30"
-            },
-            {
-              "cc": "#84898B",
-              "lw": "10",
-              "name": "OTH",
-              "rank": "15",
-              "pws": "30"
-            },
-            {
-              "cc": "#0214db",
-              "lw": "0",
-              "name": "BSP",
-              "rank": "19",
-              "pws": "30"
-            }
-          ],
-          "alliance": [
-            {
-              "cc": "#0076CC",
-              "lw": "126",
-              "name": "INC+",
-              "rank": "1",
-              "pws": "30"
-            },
-            {
-              "cc": "#f78002",
-              "lw": "94",
-              "name": "BJP+",
-              "rank": "2",
-              "pws": "30"
-            },
-            {
-              "cc": "#84898B",
-              "lw": "10",
-              "name": "OTH",
-              "rank": "15",
-              "pws": "30"
-            },
-            {
-              "cc": "#0214db",
-              "lw": "0",
-              "name": "BSP",
-              "rank": "19",
-              "pws": "30"
-            }
-          ]
+      "cta": [
+        {
+          "hl": "LIVE UPDATES",
+          "id": "63142447",
+          "tn": "html",
+          "wu": "https://toispastaging.indiatimes.com/india/madhya-pradesh-mizoram-elections-live-updates/liveblog/66837016.cms"
+        },
+        {
+          "channel_id": "times-now",
+          "hl": "WATCH",
+          "imageid": "49162416",
+          "tn": "livetv"
+        }
+      ],
+      "party": [
+        {
+          "cc": "#0076CC",
+          "lw": "126",
+          "name": "INC",
+          "rank": "1",
+          "pws": "30"
+        },
+        {
+          "cc": "#f78002",
+          "lw": "94",
+          "name": "BJP",
+          "rank": "2",
+          "pws": "30"
+        },
+        {
+          "cc": "#84898B",
+          "lw": "10",
+          "name": "OTH",
+          "rank": "15",
+          "pws": "30"
+        },
+        {
+          "cc": "#0214db",
+          "lw": "0",
+          "name": "BSP",
+          "rank": "19",
+          "pws": "30"
+        },
+        {
+          "cc": "#0076CC",
+          "lw": "126",
+          "name": "INC",
+          "rank": "1",
+          "pws": "30"
+        },
+        {
+          "cc": "#f78002",
+          "lw": "94",
+          "name": "BJP",
+          "rank": "2",
+          "pws": "30"
+        },
+        {
+          "cc": "#84898B",
+          "lw": "10",
+          "name": "OTH",
+          "rank": "15",
+          "pws": "30"
+        },
+        {
+          "cc": "#0214db",
+          "lw": "0",
+          "name": "BSP",
+          "rank": "19",
+          "pws": "30"
+        },
+        {
+          "cc": "#0076CC",
+          "lw": "126",
+          "name": "INC",
+          "rank": "1",
+          "pws": "30"
+        },
+        {
+          "cc": "#f78002",
+          "lw": "94",
+          "name": "BJP",
+          "rank": "2",
+          "pws": "30"
+        },
+        {
+          "cc": "#84898B",
+          "lw": "10",
+          "name": "OTH",
+          "rank": "15",
+          "pws": "30"
+        },
+        {
+          "cc": "#0214db",
+          "lw": "0",
+          "name": "BSP",
+          "rank": "19",
+          "pws": "30"
+        }
+      ],
+      "alliance": [
+        {
+          "cc": "#0076CC",
+          "lw": "126",
+          "name": "INC+",
+          "rank": "1",
+          "pws": "30"
+        },
+        {
+          "cc": "#f78002",
+          "lw": "94",
+          "name": "BJP+",
+          "rank": "2",
+          "pws": "30"
+        },
+        {
+          "cc": "#84898B",
+          "lw": "10",
+          "name": "OTH",
+          "rank": "15",
+          "pws": "30"
+        },
+        {
+          "cc": "#0214db",
+          "lw": "0",
+          "name": "BSP",
+          "rank": "19",
+          "pws": "30"
+        }
+      ]
+    },
+    {
+      "cap": "RESULTS",
+      "key": "rj",
+      "ls": "0",
+      "name": "Rajasthan",
+      "text": "L+W:",
+      "tn": "html",
+      "ts": "200",
+      "ws": "200",
+      "wu": "https://spmdev.indiatimes.com/elections/assembly-elections/rajasthan/results",
+      "currYear": "2015",
+      "prevYear": "2013",
+      "showTable": "false",
+      "showChange": "true",
+      "showTargetLine": "true",
+      "targetText": "Majority Mark 36",
+      "cta": [
+        {
+          "hl": "LIVE UPDATES",
+          "id": "63142447",
+          "tn": "html",
+          "wu": "https://toispastaging.indiatimes.com/india/madhya-pradesh-mizoram-elections-live-updates/liveblog/66837016.cms"
+        },
+        {
+          "channel_id": "times-now",
+          "hl": "WATCH",
+          "imageid": "49162416",
+          "tn": "livetv"
+        }
+      ],
+      "party": [
+        {
+          "cc": "#0076CC",
+          "lw": "137",
+          "name": "INC+",
+          "rank": "1",
+          "pws": "30"
+        },
+        {
+          "cc": "#f78002",
+          "lw": "60",
+          "name": "BJP",
+          "rank": "6",
+          "pws": "30"
+        },
+        {
+          "cc": "#84898B",
+          "lw": "2",
+          "name": "OTH",
+          "rank": "13",
+          "pws": "30"
+        },
+        {
+          "cc": "#0214db",
+          "lw": "0",
+          "name": "BSP",
+          "rank": "19",
+          "pws": "30"
+        }
+      ],
+      "alliance": [
+        {
+          "cc": "#0076CC",
+          "lw": "137",
+          "name": "INC+",
+          "rank": "1",
+          "pws": "30"
+        },
+        {
+          "cc": "#f78002",
+          "lw": "60",
+          "name": "BJP+",
+          "rank": "6",
+          "pws": "30"
+        },
+        {
+          "cc": "#84898B",
+          "lw": "2",
+          "name": "OTH+",
+          "rank": "13",
+          "pws": "30"
+        },
+        {
+          "cc": "#0214db",
+          "lw": "0",
+          "name": "BSP+",
+          "rank": "19",
+          "pws": "30"
+        }
+      ]
     }
   ]
 }
