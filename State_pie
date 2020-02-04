@@ -24,7 +24,7 @@
       "ts": "200",
       "text": "L+W:",
       "ls": "0",
-      "cap": "RESULTS",
+      "cap": "LEADS + WINS",
       "ws": "200",
       "tn": "html",
       "wu": "https://spmdev.indiatimes.com/elections/assembly-elections/electionresult_dec2017/state-jharkhand,msid-72236902.cms",
@@ -166,7 +166,7 @@
       ]
     },
     {
-      "cap": "RESULTS",
+      "cap": "LEADS + WINS",
       "key": "rj",
       "ls": "0",
       "name": "Rajasthan",
