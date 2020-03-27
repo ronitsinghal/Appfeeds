@@ -70,6 +70,29 @@
         "lid": "1",
         "lang": "english"
       }
+    },
+    {
+      "upd": "1584448620000",
+      "lpt": "1572946085057",
+      "hl": "Banner with html deeplink 2",
+      "imageid": "74218164",
+      "wu": "https://timesofindia.indiatimes.com/world/china/china-reports-drop-in-coronavirus-cases/articleshow/74218164.cms",
+      "msid": "74218164",
+      "fu": "https://nprelease.indiatimes.com/toi-feed/feed/toia/article/show?id=74218164&source=toi&dm=toi",
+      "type": "Banner",
+      "source": "toi",
+      "tn": "html",
+      "id": "74218164",
+      "dl": "1572915180000",
+      "pubInfo": {
+        "pn": "The Times Of India",
+        "pnEng": "The Times Of India",
+        "channel": "toi",
+        "pnu": "https://nprelease.indiatimes.com/420/photo/47643815.cms",
+        "pid": "100",
+        "lid": "1",
+        "lang": "english"
+      }
     }
   ]
 }
