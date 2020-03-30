@@ -1,0 +1,99 @@
+{
+	"st": "fale",
+	"dpt": "15",
+	"nst": "1800",
+	"rt": "5",
+	"hl": "Delhi Assembly Elections 2020",
+	"items": [{
+			"tn": "election",
+			"wu": "https://timesofindia.indiatimes.com/india/election-results-2019-live-lok-sabha-election-results-2019-counting-mp-rajasthan-bihar-up-west-bengal-telangana-andhra-gujarat-maharashtra/liveblog/69452482.cms",
+			"ttl_seats": "70",
+			"header": "Delhi",
+			"status": "RESULTS",
+			"extra_label": "Majority : 36, Src : C-Voter",
+			"rslt": [{
+					"nm": "AAP",
+					"ws": "62",
+					"cc": "#117E5F"
+				},
+				{
+					"nm": "BJP",
+					"ws": "8",
+					"cc": "#ff9650"
+				},
+				{
+					"nm": "INC",
+					"ws": "0",
+					"cc": "#4ba9f0"
+				},
+				{
+					"nm": "OTH",
+					"ws": "0",
+					"cc": "#84898B"
+				}
+			]
+		},
+		{
+			"upd": "1581914580000",
+			"lpt": "1581914599163",
+			"dl": "1581893880000",
+			"hl": "It’s time to introspect: Manoj Tiwari to BJP workers",
+			"imageid": "74168587&pl=944107&v=123",
+			"id": "74168635",
+			"dm": "t",
+			"tn": "news",
+			"wu": "https://timesofindia.indiatimes.com/city/delhi/its-time-to-introspect-tiwari-to-bjp-workers/articleshow/74166022.cms",
+			"kws": "Manoj Tiwari,Delhi Legislative Assembly,delhi elections 2020,delhi bjp,aam aadmi party"
+		},
+		{
+			"tn": "election",
+			"wu": "https://timesofindia.indiatimes.com/india/election-results-2019-live-lok-sabha-election-results-2019-counting-mp-rajasthan-bihar-up-west-bengal-telangana-andhra-gujarat-maharashtra/liveblog/69452482.cms",
+			"ttl_seats": "70",
+			"header": "Delhi",
+			"status": "RESULTS",
+			"extra_label": "Majority : 36, Src : C-Voter",
+			"rslt": [{
+					"nm": "AAP",
+					"ws": "62",
+					"cc": "#117E5F"
+				},
+				{
+					"nm": "BJP",
+					"ws": "8",
+					"cc": "#ff9650"
+				},
+				{
+					"nm": "INC",
+					"ws": "0",
+					"cc": "#4ba9f0"
+				},
+				{
+					"nm": "OTH",
+					"ws": "0",
+					"cc": "#84898B"
+				}
+			]
+		},
+		{
+			"upd": "1581914580000",
+			"lpt": "1581914599163",
+			"dl": "1581893880000",
+			"hl": "It’s time to introspect: Manoj Tiwari to BJP workers",
+			"imageid": "74168587&pl=944107&v=123",
+			"id": "74168635",
+			"dm": "t",
+			"tn": "news",
+			"wu": "https://timesofindia.indiatimes.com/city/delhi/its-time-to-introspect-tiwari-to-bjp-workers/articleshow/74166022.cms",
+			"kws": "Manoj Tiwari,Delhi Legislative Assembly,delhi elections 2020,delhi bjp,aam aadmi party"
+		}
+	],
+	"smallAd": {
+		"url": "/7176/TOI_App_Android/TOI_APP_AOS_ROS/TOI_APP_AOS_ROS_CUBE_195x30"
+	},
+	"bigAd": {
+		"url": "/7176/TOI_App_Android/TOI_APP_AOS_ROS/TOI_APP_AOS_ROS_CUBE_195x85"
+	},
+	"fullAd": {
+		"url": "/7176/TOI_App_Android/TOI_APP_AOS_ROS/TOI_APP_AOS_ROS_CUBE_195x115"
+	}
+}
