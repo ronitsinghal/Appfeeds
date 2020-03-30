@@ -1,5 +1,5 @@
 {
-	"st": "fale",
+	"st": "true",
 	"dpt": "15",
 	"nst": "1800",
 	"rt": "5",
@@ -87,13 +87,14 @@
 			"kws": "Manoj Tiwari,Delhi Legislative Assembly,delhi elections 2020,delhi bjp,aam aadmi party"
 		}
 	],
-	"smallAd": {
-		"url": "/7176/TOI_App_Android/TOI_APP_AOS_ROS/TOI_APP_AOS_ROS_CUBE_195x30"
-	},
-	"bigAd": {
-		"url": "/7176/TOI_App_Android/TOI_APP_AOS_ROS/TOI_APP_AOS_ROS_CUBE_195x85"
-	},
-	"fullAd": {
-		"url": "/7176/TOI_App_Android/TOI_APP_AOS_ROS/TOI_APP_AOS_ROS_CUBE_195x115"
-	}
+    "smallAd": {
+        "url": "/7176/SUPERAPP_TOI_IOS/SUPERAPP_APP_TOI_IOS_OTHERS/TOI_SUP_APP_IOS_OTH_CUBE_LOGO1"
+    },
+    "bigAd": {
+        "url": "/7176/SUPERAPP_TOI_IOS/SUPERAPP_APP_TOI_IOS_OTHERS/TOI_SUP_APP_IOS_OTH_CUBE_TEXT1"
+    },
+    "fullAd": {
+        "url": "/7176/SUPERAPP_TOI_IOS/SUPERAPP_APP_TOI_IOS_OTHERS/TOI_SUP_APP_IOS_OTH_CUBE_LOGO1"
+    }
+
 }

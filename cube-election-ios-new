@@ -114,13 +114,14 @@
 			"tn": "ad"
 		}
 	],
-	"smallAd": {
-		"url": "/7176/TOI_App_Android/TOI_APP_Tes/TOI_APP_Test_Cube_195x30"
-	},
-	"bigAd": {
-		"url": "/7176/TOI_App_Android/TOI_APP_Tes/TOI_APP_Test_Cube_195x85"
-	},
-	"fullAd": {
-		"url": "/7176/TOI_App_Android/TOI_APP_Tes/TOI_APP_Test_Cube_195x115"
-	}
+    "smallAd": {
+        "url": "/7176/SUPERAPP_TOI_IOS/SUPERAPP_APP_TOI_IOS_OTHERS/TOI_SUP_APP_IOS_OTH_CUBE_LOGO1"
+    },
+    "bigAd": {
+        "url": "/7176/SUPERAPP_TOI_IOS/SUPERAPP_APP_TOI_IOS_OTHERS/TOI_SUP_APP_IOS_OTH_CUBE_TEXT1"
+    },
+    "fullAd": {
+        "url": "/7176/SUPERAPP_TOI_IOS/SUPERAPP_APP_TOI_IOS_OTHERS/TOI_SUP_APP_IOS_OTH_CUBE_LOGO1"
+    }
+
 }
