@@ -6,18 +6,15 @@
   },
   "mixedWidgetData": {
     "uid": [
-      "StateElec2017-011"
+      "Stat"
     ]
   },
   "newsItem": {
     "uid": [
-      "StateElec2017-011"
-    ],
-    "msid": [
-      "123"
+      "Sta"
     ],
     "NewsItemId": [
-      "123", "81153794", "84369938"
+      "81153794", "84369938"
     ]
   }
 }
