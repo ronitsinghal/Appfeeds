@@ -1,33 +1,26 @@
 {
   "sectionData": {
     "name": [
-      "Budget",
-      "Mediawire",
-      "Data Hub",
-      "BUDGET"
+      "Budget1"
     ],
     "ID": [
-      "USElecVid-01"
+      "USElecVid-011"
     ]
   },
   "mixedWidgetData": {
     "uid": [
-      "StateElec2017-01",
-      "City-01",
-      "Photo-01"
+      "StateElec2017-011"
     ]
   },
   "newsItem": {
     "uid": [
-      "StateElec2017-01",
-      "Photo-01"
+      "StateElec2017-011
     ],
     "msid": [
-      "1616480473"
+      "123"
     ],
     "NewsItemId": [
-      "84344388",
-      "84292958"
+      "123"
     ]
   }
 }
