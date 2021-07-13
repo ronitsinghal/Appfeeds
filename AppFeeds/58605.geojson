@@ -1,21 +1,20 @@
 {
   "sectionData": {
     "ID": [
-      "InDepth-01", "VdoEntHindi-01"
+      "InDepth-01", "VdoEntHindi-01", "Movies-01"
     ]
+    ""
   },
   "mixedWidgetData": {
     "uid": [
       "Stat"
     ]
   },
-  "newsItem": {
-    "uid": [
-      "Sta"
-    ],
+  "newsItem": {    
     "NewsItemId": [
       "81153794", "84369938"
-    ]
+    ],
+    "name":["Hindi"]
   }
 }
 
