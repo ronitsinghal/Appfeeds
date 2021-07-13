@@ -1,47 +1,33 @@
 {
-  "sectionData": [
-    {
-      "name": "Budget"
-    },
-    {
-      "name": "Mediawire"
-    },
-    {
-      "name": "Data Hub"
-    },
-    {
-      "name": "BUDGET"
-    },
-    {
-      "ID": "USElecVid-01"
-    }
-  ],
-  "mixedWidgetData": [
-    {
-      "uid": "StateElec2017-01"
-    },
-    {
-      "uid": "City-01"
-    },
-    {
-      "uid": "Photo-01"
-    }
-  ],
-  "newsItem": [
-    {
-      "uid": "StateElec2017-01"
-    },
-    {
-      "uid": "Photo-01"
-    },
-    {
-      "msid": "1616480473"
-    },
-    {
-      "NewsItemId": "84344388"
-    },
-    {
-      "NewsItemId": "84292958"
-    }
-  ]
+  "sectionData": {
+    "name": [
+      "Budget",
+      "Mediawire",
+      "Data Hub",
+      "BUDGET"
+    ],
+    "ID": [
+      "USElecVid-01"
+    ]
+  },
+  "mixedWidgetData": {
+    "uid": [
+      "StateElec2017-01",
+      "City-01",
+      "Photo-01"
+    ]
+  },
+  "newsItem": {
+    "uid": [
+      "StateElec2017-01",
+      "Photo-01"
+    ],
+    "msid": [
+      "1616480473"
+    ],
+    "NewsItemId": [
+      "84344388",
+      "84292958"
+    ]
+  }
 }
