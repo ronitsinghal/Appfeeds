@@ -1,7 +1,11 @@
 {
+  "isEnable": true,
   "sectionData": {
     "ID": [
-      "InDepth-01", "VdoEntHindi-01", "Movies-01", "Mediawire=01"
+      "InDepth-01",
+      "VdoEntHindi-01",
+      "Movies-01",
+      "Mediawire=01"
     ]
   },
   "mixedWidgetData": {
@@ -11,9 +15,12 @@
   },
   "newsItem": {
     "NewsItemId": [
-      "81153794", "84369938", "84346957"
+      "81153794",
+      "84369938",
+      "84346957"
     ],
-    "name":["Hindi"]
+    "name": [
+      "Hindi"
+    ]
   }
 }
-
